@@ -1,0 +1,4001 @@
+Num,ID,Title,Genre1,Genre2
+0,19995,Avatar,Action,Action|Drama
+1,285,Pirates of the Caribbean: At World's End,Action,Action|Drama
+2,206647,Spectre,Action,Action|Drama
+3,49026,The Dark Knight Rises,Action,Action|Drama
+4,49529,John Carter,Action,Action|Drama
+5,559,Spider-Man 3,Action,Action|Drama
+6,38757,Tangled,Animation,Animation|NULL
+7,99861,Avengers: Age of Ultron,Action,Action|Drama
+8,767,Harry Potter and the Half-Blood Prince,Action,Action|Drama
+9,209112,Batman v Superman: Dawn of Justice,Action,Action|Drama
+10,1452,Superman Returns,Action,Action|Drama
+11,10764,Quantum of Solace,Action,Action|Drama
+12,58,Pirates of the Caribbean: Dead Man's Chest,Action,Action|Drama
+13,57201,The Lone Ranger,Action,Action|Drama
+14,49521,Man of Steel,Action,Action|Drama
+15,2454,The Chronicles of Narnia: Prince Caspian,Action,Action|Drama
+16,24428,The Avengers,Action,Action|Drama
+17,1865,Pirates of the Caribbean: On Stranger Tides,Action,Action|Drama
+18,41154,Men in Black 3,Action,Action|Drama
+19,122917,The Hobbit: The Battle of the Five Armies,Action,Action|Drama
+20,1930,The Amazing Spider-Man,Action,Action|Drama
+21,20662,Robin Hood,Action,Action|Drama
+22,57158,The Hobbit: The Desolation of Smaug,Action,Action|Drama
+23,2268,The Golden Compass,Action,Action|Drama
+24,254,King Kong,Drama,Action|Drama
+25,597,Titanic,Drama,Drama|NULL
+26,271110,Captain America: Civil War,Action,Action|Drama
+27,44833,Battleship,Action,Action|Drama
+28,135397,Jurassic World,Action,Action|Drama
+29,37724,Skyfall,Drama,Action|Drama
+30,558,Spider-Man 2,Action,Action|Drama
+31,68721,Iron Man 3,Action,Action|Drama
+32,12155,Alice in Wonderland,Action,Action|Drama
+33,36668,X-Men: The Last Stand,Action,Action|Drama
+34,62211,Monsters University,Animation,Animation|NULL
+35,8373,Transformers: Revenge of the Fallen,Action,Action|Drama
+36,91314,Transformers: Age of Extinction,Action,Action|Drama
+37,68728,Oz: The Great and Powerful,Action,Action|Drama
+38,102382,The Amazing Spider-Man 2,Action,Action|Drama
+39,20526,TRON: Legacy,Action,Action|Drama
+40,49013,Cars 2,Animation,Animation|Drama
+41,44912,Green Lantern,Action,Action|Drama
+42,10193,Toy Story 3,Animation,Animation|Comedy
+43,534,Terminator Salvation,Action,Action|Drama
+44,168259,Furious 7,Action,Action|NULL
+45,72190,World War Z,Horror,Action|Horror
+46,127585,X-Men: Days of Future Past,Action,Action|Drama
+47,54138,Star Trek Into Darkness,Action,Action|Drama
+48,81005,Jack the Giant Slayer,Action,Action|NULL
+49,64682,The Great Gatsby,Drama,Drama|NULL
+50,9543,Prince of Persia: The Sands of Time,Action,Action|Drama
+51,68726,Pacific Rim,Action,Action|Drama
+52,38356,Transformers: Dark of the Moon,Action,Action|Drama
+53,217,Indiana Jones and the Kingdom of the Crystal Skull,Action,Action|Drama
+54,105864,The Good Dinosaur,Animation,Animation|Drama
+55,62177,Brave,Animation,Action|Animation
+56,188927,Star Trek Beyond,Action,Action|Drama
+57,10681,WALL·E,Animation,Animation|NULL
+58,5174,Rush Hour 3,Action,Action|Drama
+59,14161,2012,Action,Action|Drama
+60,17979,A Christmas Carol,Animation,Animation|Drama
+61,76757,Jupiter Ascending,Action,Action|Drama
+62,258489,The Legend of Tarzan,Action,Action|Drama
+63,411,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Action,Action|Drama
+64,246655,X-Men: Apocalypse,Action,Action|Drama
+65,155,The Dark Knight,Action,Action|Drama
+66,14160,Up,Animation,Animation|Drama
+67,15512,Monsters vs Aliens,Animation,Animation|Drama
+68,1726,Iron Man,Action,Action|Drama
+69,44826,Hugo,Drama,Action|Drama
+70,8487,Wild Wild West,Action,Action|Drama
+71,1735,The Mummy: Tomb of the Dragon Emperor,Action,Action|Drama
+72,297761,Suicide Squad,Action,Action|Drama
+73,2698,Evan Almighty,Action,Action|Comedy
+74,137113,Edge of Tomorrow,Action,Action|Drama
+75,9804,Waterworld,Action,Action|Drama
+76,14869,G.I. Joe: The Rise of Cobra,Action,Action|Drama
+77,150540,Inside Out,Animation,Animation|Drama
+78,278927,The Jungle Book,Drama,Action|Drama
+79,10138,Iron Man 2,Action,Action|Drama
+80,58595,Snow White and the Huntsman,Drama,Action|Drama
+81,102651,Maleficent,Action,Action|Drama
+82,119450,Dawn of the Planet of the Apes,Action,Action|Drama
+83,79698,The Lovers,Action,Action|Drama
+84,64686,47 Ronin,Action,Action|Drama
+85,100402,Captain America: The Winter Soldier,Action,Action|Drama
+86,10192,Shrek Forever After,Animation,Animation|Drama
+87,158852,Tomorrowland,Action,Action|Drama
+88,177572,Big Hero 6,Animation,Animation|Drama
+89,82690,Wreck-It Ralph,Animation,Animation|Drama
+90,5255,The Polar Express,Animation,Animation|Drama
+91,47933,Independence Day: Resurgence,Action,Action|Drama
+92,10191,How to Train Your Dragon,Animation,Animation|Drama
+93,296,Terminator 3: Rise of the Machines,Action,Action|Drama
+94,118340,Guardians of the Galaxy,Action,Action|Drama
+95,157336,Interstellar,Drama,Action|Drama
+96,27205,Inception,Action,Action|Drama
+97,315011,シン・ゴジラ,Horror,Action|Horror
+98,49051,The Hobbit: An Unexpected Journey,Action,Action|Drama
+99,9799,The Fast and the Furious,Action,Action|Drama
+100,4922,The Curious Case of Benjamin Button,Drama,Action|Drama
+101,49538,X-Men: First Class,Action,Action|Drama
+102,131634,The Hunger Games: Mockingjay - Part 2,Action,Action|Drama
+103,27022,The Sorcerer's Apprentice,Action,Action|Drama
+104,503,Poseidon,Drama,Action|Drama
+105,241259,Alice Through the Looking Glass,Action,Action|NULL
+106,810,Shrek the Third,Animation,Animation|Drama
+107,68735,Warcraft,Action,Action|Drama
+108,87101,Terminator Genisys,Action,Action|Drama
+109,10140,The Chronicles of Narnia: The Voyage of the Dawn Treader,Action,Action|Drama
+110,676,Pearl Harbor,War,Drama|War
+111,1858,Transformers,Action,Action|Drama
+112,1966,Alexander,Drama,Drama|War
+113,675,Harry Potter and the Order of the Phoenix,Action,Action|Drama
+114,674,Harry Potter and the Goblet of Fire,Action,Action|Drama
+115,8960,Hancock,Action,Action|NULL
+116,6479,I Am Legend,Horror,Action|Horror
+117,118,Charlie and the Chocolate Factory,Action,Action|Drama
+118,2062,Ratatouille,Animation,Animation|Comedy
+119,272,Batman Begins,Action,Action|Drama
+120,10527,Madagascar: Escape 2 Africa,Animation,Animation|NULL
+121,18360,Night at the Museum: Battle of the Smithsonian,Action,Action|Drama
+122,2080,X-Men Origins: Wolverine,Action,Action|Drama
+123,605,The Matrix Revolutions,Action,Action|Drama
+124,109445,Frozen,Animation,Animation|Drama
+125,604,The Matrix Reloaded,Action,Action|Drama
+126,76338,Thor: The Dark World,Action,Action|Drama
+127,76341,Mad Max: Fury Road,Action,Action|Drama
+128,13448,Angels & Demons,Drama,Drama|NULL
+129,10195,Thor,Action,Action|Drama
+130,13053,Bolt,Animation,Animation|Drama
+131,19585,G-Force,Action,Action|Drama
+132,57165,Wrath of the Titans,Drama,Action|Drama
+133,62213,Dark Shadows,Action,Action|Comedy
+134,177677,Mission: Impossible - Rogue Nation,Drama,Action|Drama
+135,7978,The Wolfman,Horror,Action|Horror
+136,5559,Bee Movie,Animation,Animation|Drama
+137,49444,Kung Fu Panda 2,Animation,Animation|NULL
+138,10196,The Last Airbender,Action,Action|Drama
+139,956,Mission: Impossible III,Drama,Action|Drama
+140,117251,White House Down,Drama,Action|Drama
+141,50321,Mars Needs Moms,Animation,Animation|Drama
+142,11619,Flushed Away,Animation,Animation|Drama
+143,266647,Pan,Action,Action|Drama
+144,82703,Mr. Peabody & Sherman,Animation,Animation|Drama
+145,652,Troy,Drama,Drama|War
+146,80321,Madagascar 3: Europe's Most Wanted,Animation,Animation|NULL
+147,36669,Die Another Day,Drama,Action|Drama
+148,43074,Ghostbusters,Action,Action|Comedy
+149,95,Armageddon,Action,Action|Drama
+150,608,Men in Black II,Action,Action|Drama
+151,2310,Beowulf,Animation,Animation|Drama
+152,140300,Kung Fu Panda 3,Animation,Animation|Drama
+153,56292,Mission: Impossible - Ghost Protocol,Drama,Action|Drama
+154,81188,Rise of the Guardians,Animation,Action|Animation
+155,7552,Fun with Dick and Jane,Comedy,Animation|Comedy
+156,616,The Last Samurai,War,Drama|War
+157,147441,Exodus: Gods and Kings,Drama,Action|Drama
+158,13475,Star Trek,Action,Action|Drama
+159,557,Spider-Man,Action,Action|NULL
+160,82702,How to Train Your Dragon 2,Animation,Action|Animation
+161,205584,Gods of Egypt,Action,Action|NULL
+162,10048,Stealth,Action,Action|NULL
+163,13183,Watchmen,Action,Action|Drama
+164,944,Lethal Weapon 4,Action,Action|Drama
+165,1927,Hulk,Action,Action|Drama
+166,72559,G.I. Joe: Retaliation,Action,Action|Drama
+167,7364,Sahara,Drama,Action|Drama
+168,2114,Final Fantasy: The Spirits Within,Animation,Action|Animation
+169,1771,Captain America: The First Avenger,Action,Action|Drama
+170,36643,The World Is Not Enough,Drama,Action|Drama
+171,8619,Master and Commander: The Far Side of the World,Drama,Action|Drama
+172,50620,The Twilight Saga: Breaking Dawn - Part 2,Drama,Action|Drama
+173,65759,Happy Feet Two,Animation,Animation|Comedy
+174,1724,The Incredible Hulk,Action,Action|Drama
+175,267935,The BFG,Action,Action|Drama
+176,281957,The Revenant,Drama,Action|Drama
+177,77950,Turbo,Animation,Animation|NULL
+178,44896,Rango,Animation,Animation|Drama
+179,270946,Penguins of Madagascar,Animation,Animation|Drama
+180,2503,The Bourne Ultimatum,Drama,Action|Drama
+181,9502,Kung Fu Panda,Animation,Animation|Drama
+182,102899,Ant-Man,Action,Action|Drama
+183,101299,The Hunger Games: Catching Fire,Action,Action|Drama
+184,228161,Home,Animation,Action|Animation
+185,74,War of the Worlds,Drama,Action|Drama
+186,8961,Bad Boys II,Action,Action|Drama
+187,417859,Puss in Boots,Animation,Action|Animation
+188,27576,Salt,Action,Action|Drama
+189,86834,Noah,Drama,Action|Drama
+190,17578,The Adventures of Tintin,Animation,Animation|Drama
+191,673,Harry Potter and the Prisoner of Azkaban,Action,Action|Drama
+192,6972,Australia,Drama,Drama|NULL
+193,82700,After Earth,Action,Action|Drama
+194,10567,Dinosaur,Animation,Animation|NULL
+195,181533,Night at the Museum: Secret of the Tomb,Action,Action|Drama
+196,38055,Megamind,Animation,Action|Animation
+197,671,Harry Potter and the Philosopher's Stone,Action,Action|Drama
+198,49524,R.I.P.D.,Action,Action|Drama
+199,22,Pirates of the Caribbean: The Curse of the Black Pearl,Action,Action|Drama
+200,131631,The Hunger Games: Mockingjay - Part 1,Drama,Action|Drama
+201,591,The Da Vinci Code,Drama,Drama|NULL
+202,172385,Rio 2,Animation,Animation|Drama
+203,36658,X2,Action,Action|Drama
+204,51497,Fast Five,Action,Action|Drama
+205,58574,Sherlock Holmes: A Game of Shadows,Action,Action|Drama
+206,18823,Clash of the Titans,Action,Action|Drama
+207,861,Total Recall,Action,Action|Drama
+208,1911,The 13th Warrior,Action,Action|Drama
+209,49040,The Bourne Legacy,Action,Action|Drama
+210,415,Batman & Robin,Action,Action|Drama
+211,8871,How the Grinch Stole Christmas,Action,Action|Comedy
+212,435,The Day After Tomorrow,Action,Action|Drama
+213,955,Mission: Impossible II,Drama,Action|Drama
+214,2133,The Perfect Storm,Drama,Drama|NULL
+215,1979,4: Rise of the Silver Surfer,Action,Action|Drama
+216,87827,Life of Pi,Drama,Action|Drama
+217,1250,Ghost Rider,Horror,Action|Horror
+218,324668,Jason Bourne,Action,Action|Drama
+219,9471,Charlie's Angels: Full Throttle,Action,Action|Drama
+220,70981,Prometheus,Action,Action|Drama
+221,10996,Stuart Little 2,Animation,Animation|Drama
+222,68724,Elysium,Action,Action|Drama
+223,2789,The Chronicles of Riddick,Action,Action|Drama
+224,97020,RoboCop,Action,Action|Drama
+225,7459,Speed Racer,Action,Action|Drama
+226,42888,How Do You Know,Drama,Comedy|Drama
+227,37834,Knight and Day,Action,Action|Comedy
+228,75612,Oblivion,Action,Action|Drama
+229,1895,Star Wars: Episode III - Revenge of the Sith,Action,Action|Drama
+230,1894,Star Wars: Episode II - Attack of the Clones,Action,Action|Drama
+231,585,"Monsters, Inc.",Animation,Animation|Comedy
+232,76170,The Wolverine,Action,Action|Drama
+233,1893,Star Wars: Episode I - The Phantom Menace,Action,Action|Drama
+234,49519,The Croods,Animation,Animation|Drama
+235,2395,Astérix aux Jeux Olympiques,Action,Action|Drama
+236,12100,Windtalkers,War,Drama|War
+237,290595,The Huntsman: Winter's War,Drama,Action|Drama
+238,98566,Teenage Mutant Ninja Turtles,Action,Action|Drama
+239,49047,Gravity,Drama,Action|Drama
+240,9619,Dante's Peak,Drama,Action|Drama
+241,308531,Teenage Mutant Ninja Turtles: Out of the Shadows,Action,Action|Drama
+242,166424,Fantastic Four,Action,Action|Drama
+243,1593,Night at the Museum,Action,Action|Drama
+244,254128,San Andreas,Drama,Action|Drama
+245,714,Tomorrow Never Dies,Drama,Action|Drama
+246,2024,The Patriot,War,Drama|War
+247,163,Ocean's Twelve,Action,Action|Drama
+248,787,Mr. & Mrs. Smith,Drama,Comedy|Drama
+249,262500,Insurgent,Drama,Action|Drama
+250,2567,The Aviator,Drama,Drama|NULL
+251,38745,Gulliver's Travels,Comedy,Animation|Comedy
+252,40805,The Green Hornet,Action,Action|Drama
+253,53182,300: Rise of an Empire,Action,Action|War
+254,41513,The Smurfs,Animation,Animation|Drama
+255,13700,Home on the Range,Animation,Animation|NULL
+256,262504,Allegiant,Action,Action|Drama
+257,39254,Real Steel,Action,Action|Drama
+258,77931,The Smurfs 2,Animation,Animation|Comedy
+259,1639,Speed 2: Cruise Control,Drama,Action|Drama
+260,80274,Ender's Game,Action,Action|Drama
+261,1571,Live Free or Die Hard,Action,Action|Drama
+262,120,The Lord of the Rings: The Fellowship of the Ring,Action,Action|Drama
+263,10204,Around the World in 80 Days,Action,Action|Drama
+264,8489,Ali,Drama,Drama|NULL
+265,10588,The Cat in the Hat,Action,Action|Comedy
+266,2048,"I, Robot",Action,Action|Drama
+267,1495,Kingdom of Heaven,Drama,Drama|War
+268,10137,Stuart Little,Animation,Animation|Comedy
+269,10198,The Princess and the Frog,Animation,Animation|Drama
+270,286217,The Martian,Drama,Action|Drama
+271,1635,The Island,Action,Action|Drama
+272,24113,Town & Country,Comedy,Comedy|Drama
+273,9679,Gone in Sixty Seconds,Action,Action|Drama
+274,98,Gladiator,Drama,Action|Drama
+275,180,Minority Report,Action,Action|Drama
+276,672,Harry Potter and the Chamber of Secrets,Action,Action|Drama
+277,36557,Casino Royale,Drama,Action|Drama
+278,869,Planet of the Apes,Action,Action|Drama
+279,280,Terminator 2: Judgment Day,Action,Action|Drama
+280,11322,Public Enemies,Action,Action|Drama
+281,4982,American Gangster,Action,Action|Drama
+282,36955,True Lies,Action,Action|Drama
+283,18487,The Taking of Pelham 1 2 3,Action,Action|Drama
+284,39451,Little Fockers,Comedy,Comedy|Drama
+285,27581,The Other Guys,Action,Action|Drama
+286,9268,Eraser,Drama,Action|Drama
+287,68718,Django Unchained,Action,Action|Drama
+288,10545,The Hunchback of Notre Dame,Animation,Animation|Drama
+289,11688,The Emperor's New Groove,Animation,Animation|Drama
+290,76163,The Expendables 2,Drama,Action|Drama
+291,2059,National Treasure,Drama,Action|Drama
+292,2486,Eragon,Action,Action|Drama
+293,16523,Where the Wild Things Are,Action,Action|NULL
+294,116711,Epic,Animation,Animation|Drama
+295,37710,The Tourist,Drama,Action|Drama
+296,9946,End of Days,Horror,Action|Horror
+297,1372,Blood Diamond,Drama,Action|Drama
+298,106646,The Wolf of Wall Street,Action,Action|Drama
+299,414,Batman Forever,Action,Action|Drama
+300,563,Starship Troopers,Action,Action|Drama
+301,83542,Cloud Atlas,Action,Action|Drama
+302,41216,Legend of the Guardians: The Owls of Ga'Hoole,Animation,Animation|Drama
+303,314,Catwoman,Action,Action|Drama
+304,184315,Hercules,Action,Action|Drama
+305,9016,Treasure Planet,Animation,Action|Animation
+306,18162,Land of the Lost,Action,Action|Drama
+307,138103,The Expendables 3,Drama,Action|Drama
+308,257088,Point Break,Action,Action|Drama
+309,10214,Son of the Mask,Action,Action|Drama
+310,205775,In the Heart of the Sea,Drama,Action|Drama
+311,11692,The Adventures of Pluto Nash,Action,Action|Drama
+312,22972,Green Zone,Drama,Action|Drama
+313,227973,The Peanuts Movie,Animation,Animation|NULL
+314,29193,The Spanish Prisoner,Action,Action|Drama
+315,1734,The Mummy Returns,Action,Action|Drama
+316,3131,Gangs of New York,Action,Action|Drama
+317,76758,金陵十三釵,War,Drama|War
+318,9408,Surf's Up,Animation,Animation|Comedy
+319,9890,The Stepford Wives,Action,Action|Drama
+320,855,Black Hawk Down,War,Action|War
+321,77953,The Campaign,Comedy,Animation|Comedy
+322,18,The Fifth Element,Action,Action|Drama
+323,37786,Sex and the City 2,Drama,Comedy|Drama
+324,10501,The Road to El Dorado,Animation,Animation|Drama
+325,57800,Ice Age: Continental Drift,Animation,Animation|Drama
+326,150689,Cinderella,Drama,Action|Drama
+327,7980,The Lovely Bones,Action,Action|Drama
+328,12,Finding Nemo,Animation,Animation|NULL
+329,122,The Lord of the Rings: The Return of the King,Action,Action|Drama
+330,121,The Lord of the Rings: The Two Towers,Action,Action|Drama
+331,68737,Seventh Son,Action,Action|Drama
+332,1995,Lara Croft: Tomb Raider,Action,Action|Drama
+333,157353,Transcendence,Drama,Action|Drama
+334,331,Jurassic Park III,Action,Action|Drama
+335,61791,Rise of the Planet of the Apes,Action,Action|Drama
+336,8204,The Spiderwick Chronicles,Action,Action|Drama
+337,47964,A Good Day to Die Hard,Action,Action|Drama
+338,10733,The Alamo,War,Action|War
+339,9806,The Incredibles,Animation,Animation|Drama
+340,1408,Cutthroat Island,Action,Action|Drama
+341,32657,Percy Jackson & the Olympians: The Lightning Thief,Action,Action|Drama
+342,607,Men in Black,Action,Action|Drama
+343,863,Toy Story 2,Animation,Animation|Comedy
+344,44048,Unstoppable,Action,Action|Drama
+345,5175,Rush Hour 2,Action,Action|Drama
+346,2655,What Lies Beneath,Horror,Action|Horror
+347,22794,Cloudy with a Chance of Meatballs,Animation,Animation|Comedy
+348,8355,Ice Age: Dawn of the Dinosaurs,Animation,Animation|Drama
+349,116745,The Secret Life of Walter Mitty,Drama,Action|Drama
+350,4327,Charlie's Angels,Action,Action|Drama
+351,1422,The Departed,Action,Action|Drama
+352,10674,Mulan,Animation,Animation|Drama
+353,7446,Tropic Thunder,Action,Action|Comedy
+354,65754,The Girl with the Dragon Tattoo,Action,Action|Drama
+355,1572,Die Hard: With a Vengeance,Action,Action|Drama
+356,10528,Sherlock Holmes,Action,Action|Drama
+357,271969,Ben-Hur,Drama,Drama|NULL
+358,10865,Atlantis: The Lost Empire,Animation,Animation|Drama
+359,258509,Alvin and the Chipmunks: The Road Chip,Animation,Animation|Drama
+360,2253,Valkyrie,Drama,Drama|War
+361,10661,You Don't Mess with the Zohan,Action,Action|Comedy
+362,257344,Pixels,Action,Action|Drama
+363,644,A.I. Artificial Intelligence,Drama,Action|Drama
+364,10756,The Haunted Mansion,Action,Comedy|Drama
+365,686,Contact,Action,Action|Drama
+366,9383,Hollow Man,Action,Action|Drama
+367,179,The Interpreter,Action,Action|Drama
+368,76285,Percy Jackson: Sea of Monsters,Action,Action|Drama
+369,1996,Lara Croft Tomb Raider: The Cradle of Life,Action,Action|Drama
+370,291805,Now You See Me 2,Action,Action|Drama
+371,10003,The Saint,Drama,Action|Drama
+372,1535,Spy Game,Action,Action|Drama
+373,2067,Mission to Mars,Action,Action|Drama
+374,46195,Rio,Animation,Animation|Drama
+375,2277,Bicentennial Man,Action,Action|Drama
+376,10357,Volcano,Action,Action|Drama
+377,4477,The Devil's Own,Action,Action|Drama
+378,8665,K-19: The Widowmaker,Drama,Drama|War
+379,9387,Conan the Barbarian,Action,Action|Drama
+380,921,Cinderella Man,Drama,Drama|War
+381,49852,The Nutcracker: The Untold Story,Action,Action|NULL
+382,4464,Seabiscuit,Drama,Drama|War
+383,664,Twister,Drama,Action|Drama
+384,8358,Cast Away,Drama,Action|Drama
+385,9836,Happy Feet,Animation,Animation|Comedy
+386,2502,The Bourne Supremacy,Drama,Action|Drama
+387,9772,Air Force One,Action,Action|Drama
+388,161,Ocean's Eleven,Action,Action|Drama
+389,52451,The Three Musketeers,Drama,Action|Drama
+390,76492,Hotel Transylvania,Animation,Animation|Comedy
+391,4523,Enchanted,Action,Comedy|Drama
+392,59961,Safe House,Action,Action|Drama
+393,10481,102 Dalmatians,Comedy,Animation|Comedy
+394,59108,Tower Heist,Action,Action|Comedy
+395,1581,The Holiday,Comedy,Comedy|Drama
+396,9798,Enemy of the State,Drama,Action|Drama
+397,22897,It's Complicated,Comedy,Comedy|Drama
+398,298,Ocean's Thirteen,Action,Action|Drama
+399,7484,Open Season,Animation,Animation|Drama
+400,157350,Divergent,Action,Action|Drama
+401,853,Enemy at the Gates,War,Animation|War
+402,10159,The Rundown,Drama,Action|Drama
+403,9593,Last Action Hero,Action,Action|Drama
+404,1904,Memoirs of a Geisha,Drama,Drama|War
+405,9615,The Fast and the Furious: Tokyo Drift,Action,Action|Drama
+406,51052,Arthur Christmas,Animation,Animation|Drama
+407,297,Meet Joe Black,Action,Action|Drama
+408,9884,Collateral Damage,Drama,Action|Drama
+409,16858,All That Jazz,Drama,Drama|NULL
+410,62764,Mirror Mirror,Action,Action|Drama
+411,22538,Scott Pilgrim vs. the World,Action,Action|Drama
+412,9341,The Core,Action,Action|Drama
+413,12107,Nutty Professor II: The Klumps,Action,Action|Drama
+414,9637,Scooby-Doo,Drama,Comedy|Drama
+415,49049,Dredd,Action,Action|Drama
+416,9339,Click,Drama,Comedy|Drama
+417,16281,Creepshow,Horror,Action|Horror
+418,39691,Cats & Dogs 2 : The Revenge of Kitty Galore,Comedy,Animation|Comedy
+419,8247,Jumper,Action,Action|Drama
+420,11253,Hellboy II: The Golden Army,Action,Action|Drama
+421,1949,Zodiac,Action,Action|Drama
+422,8452,The 6th Day,Action,Action|Drama
+423,310,Bruce Almighty,Action,Action|Comedy
+424,27578,The Expendables,Drama,Action|Drama
+425,954,Mission: Impossible,Drama,Action|Drama
+426,70160,The Hunger Games,Action,Action|Drama
+427,45243,The Hangover Part II,Comedy,Animation|Comedy
+428,364,Batman Returns,Action,Action|NULL
+429,7518,Over the Hedge,Animation,Animation|Comedy
+430,11544,Lilo & Stitch,Animation,Animation|NULL
+431,9986,Charlotte's Web,Action,Action|Comedy
+432,8656,Deep Impact,Drama,Action|Drama
+433,146216,RED 2,Action,Action|Drama
+434,9291,The Longest Yard,Comedy,Comedy|Drama
+435,55301,Alvin and the Chipmunks: Chipwrecked,Animation,Animation|Comedy
+436,109418,Grown Ups 2,Comedy,Animation|Comedy
+437,11665,Get Smart,Action,Comedy|Drama
+438,6964,Something's Gotta Give,Drama,Comedy|Drama
+439,11324,Shutter Island,Drama,Drama|NULL
+440,12193,Four Christmases,Drama,Comedy|Drama
+441,9928,Robots,Animation,Action|Animation
+442,754,Face/Off,Action,Action|Drama
+443,10202,Bedtime Stories,Action,Comedy|Drama
+444,4147,Road to Perdition,Action,Action|Drama
+445,50546,Just Go with It,Comedy,Comedy|Drama
+446,1701,Con Air,Action,Action|Drama
+447,13027,Eagle Eye,Action,Action|Drama
+448,2289,Cold Mountain,Drama,Drama|NULL
+449,20504,The Book of Eli,Action,Action|Drama
+450,9574,Flubber,Action,Action|Drama
+451,11618,The Haunting,Horror,Action|Horror
+452,2300,Space Jam,Animation,Animation|Comedy
+453,12096,The Pink Panther,Action,Action|Drama
+454,10200,The Day the Earth Stood Still,Drama,Action|Drama
+455,8834,Conspiracy Theory,Drama,Action|Drama
+456,228150,Fury,Action,Drama|War
+457,6068,Six Days Seven Nights,Drama,Action|Drama
+458,41515,Yogi Bear,Animation,Animation|Drama
+459,9023,Spirit: Stallion of the Cimarron,Animation,Animation|Drama
+460,38317,Zookeeper,Comedy,Comedy|Drama
+461,2157,Lost in Space,Action,Action|Drama
+462,14462,The Manchurian Candidate,Drama,Drama|NULL
+463,161795,Déjà Vu,Drama,Drama|NULL
+464,159824,Hotel Transylvania 2,Animation,Animation|Comedy
+465,49948,Fantasia 2000,Animation,Animation|NULL
+466,2135,The Time Machine,Action,Action|Drama
+467,9822,Mighty Joe Young,Action,Action|Drama
+468,9705,Swordfish,Action,Action|Drama
+469,1656,The Legend of Zorro,Action,Action|Drama
+470,12159,What Dreams May Come,Drama,Action|Drama
+471,9678,Little Nicky,Action,Comedy|Drama
+472,4442,The Brothers Grimm,Action,Action|Drama
+473,75,Mars Attacks!,Action,Action|Drama
+474,330770,Évolution,Horror,Action|Horror
+475,9433,The Edge,Drama,Action|Drama
+476,19959,Surrogates,Action,Action|Drama
+477,11973,Thirteen Days,Drama,Drama|NULL
+478,11228,Daylight,Drama,Action|Drama
+479,77951,Walking With Dinosaurs,Animation,Animation|Drama
+480,5491,Battlefield Earth,Action,Action|Drama
+481,10715,Looney Tunes: Back in Action,Animation,Animation|Comedy
+482,10197,Nine,Drama,Drama|NULL
+483,9562,Timeline,Action,Action|Drama
+484,9922,The Postman,Drama,Action|Drama
+485,9447,Babe: Pig in the City,Drama,Action|Drama
+486,274854,The Last Witch Hunter,Action,Action|Drama
+487,8870,Red Planet,Action,Action|Drama
+488,9992,Arthur et les Minimoys,Animation,Animation|Drama
+489,36970,Oceans,Action,Animation|NULL
+490,10077,A Sound of Thunder,Action,Action|Drama
+491,76649,Pompeii,Drama,Action|Drama
+492,293644,Don Gato: El inicio de la pandilla,Animation,Animation|Comedy
+493,453,A Beautiful Mind,Drama,Drama|NULL
+494,8587,The Lion King,Animation,Animation|Drama
+495,72545,Journey 2: The Mysterious Island,Action,Action|Drama
+496,109451,Cloudy with a Chance of Meatballs 2,Animation,Animation|Comedy
+497,9533,Red Dragon,Horror,Action|Horror
+498,2023,Hidalgo,Action,Action|Drama
+499,71880,Jack and Jill,Comedy,Animation|Comedy
+500,584,2 Fast 2 Furious,Action,Action|Drama
+501,309809,The Little Prince,Animation,Animation|Drama
+502,4858,The Invasion,Action,Action|Drama
+503,17711,The Adventures of Rocky & Bullwinkle,Animation,Animation|Drama
+504,328111,The Secret Life of Pets,Animation,Animation|NULL
+505,8698,The League of Extraordinary Gentlemen,Action,Action|Drama
+506,93456,Despicable Me 2,Animation,Animation|Comedy
+507,602,Independence Day,Action,Action|Drama
+508,330,The Lost World: Jurassic Park,Action,Action|Drama
+509,953,Madagascar,Animation,Animation|NULL
+510,9693,Children of Men,Action,Action|Drama
+511,36657,X-Men,Action,Action|Drama
+512,8909,Wanted,Action,Action|Drama
+513,9802,The Rock,Drama,Action|Drama
+514,950,Ice Age: The Meltdown,Animation,Animation|Drama
+515,1824,50 First Dates,Comedy,Comedy|Drama
+516,2976,Hairspray,Comedy,Comedy|Drama
+517,11026,Exorcist: The Beginning,Horror,Action|Horror
+518,332,Inspector Gadget,Action,Action|Drama
+519,75656,Now You See Me,Action,Action|Drama
+520,38365,Grown Ups,Comedy,Animation|Comedy
+521,594,The Terminal,Comedy,Comedy|Drama
+522,15189,Hotel for Dogs,Comedy,Animation|Comedy
+523,11678,Vertical Limit,Drama,Action|Drama
+524,6538,Charlie Wilson's War,Comedy,Drama|War
+525,10555,Shark Tale,Animation,Animation|Comedy
+526,1125,Dreamgirls,Drama,Drama|NULL
+527,4551,Be Cool,Action,Action|Drama
+528,612,Munich,Drama,Drama|War
+529,9567,Tears of the Sun,Action,Drama|War
+530,37821,Killers,Drama,Comedy|Drama
+531,203801,The Man from U.N.C.L.E.,Action,Action|Drama
+532,2539,Spanglish,Comedy,Animation|Comedy
+533,9297,Monster House,Animation,Animation|Comedy
+534,3172,Bandits,Action,Action|Drama
+535,6520,First Knight,Drama,Action|Drama
+536,1439,Anna and the King,Drama,Drama|War
+537,37958,Immortals,Action,Action|Drama
+538,2026,Hostage,Action,Action|Drama
+539,7450,Titan A.E.,Animation,Action|Animation
+540,11375,Hollywood Homicide,Drama,Action|Drama
+541,9425,Soldier,Action,Action|Drama
+542,25769,Carriers,Horror,Action|Horror
+543,23685,Monkeybone,Animation,Action|Animation
+544,11866,Flight of the Phoenix,Drama,Action|Drama
+545,9741,Unbreakable,Drama,Action|Drama
+546,211672,Minions,Animation,Animation|Drama
+547,23629,Sucker Punch,Action,Action|Drama
+548,8688,Snake Eyes,Action,Action|Drama
+549,10153,Sphere,Action,Action|Drama
+550,153518,The Angry Birds Movie,Animation,Animation|NULL
+551,8676,Fool's Gold,Drama,Comedy|Drama
+552,20829,Funny People,Comedy,Comedy|Drama
+553,4349,The Kingdom,Drama,Action|Drama
+554,9718,Talladega Nights: The Ballad of Ricky Bobby,Comedy,Animation|Comedy
+555,10808,Dr. Dolittle 2,Action,Comedy|Drama
+556,197,Braveheart,War,Drama|War
+557,25,Jarhead,Drama,Drama|War
+558,35,The Simpsons Movie,Animation,Animation|Comedy
+559,11086,The Majestic,Drama,Drama|NULL
+560,10477,Driven,Action,Action|NULL
+561,1997,Deux frères,Drama,Action|Drama
+562,6947,The Village,Drama,Drama|NULL
+563,3050,Doctor Dolittle,Action,Action|Comedy
+564,2675,Signs,Drama,Action|Drama
+565,809,Shrek 2,Animation,Animation|Drama
+566,920,Cars,Animation,Animation|Drama
+567,4806,Runaway Bride,Comedy,Comedy|Drama
+568,7451,xXx,Drama,Action|Drama
+569,228165,The SpongeBob Movie: Sponge Out of Water,Animation,Animation|Drama
+570,3595,Ransom,Action,Action|Drama
+571,16869,Inglourious Basterds,Drama,Drama|War
+572,879,Hook,Action,Action|Drama
+573,1573,Die Hard 2,Action,Action|Drama
+574,9257,S.W.A.T.,Action,Action|Drama
+575,1903,Vanilla Sky,Drama,Action|Drama
+576,9697,Lady in the Water,Drama,Action|Drama
+577,395,AVP: Alien vs. Predator,Action,Action|Drama
+578,23398,Alvin and the Chipmunks: The Squeakquel,Animation,Animation|Comedy
+579,10590,We Were Soldiers,War,Action|War
+580,117263,Olympus Has Fallen,Action,Action|Drama
+581,200,Star Trek: Insurrection,Action,Action|Drama
+582,44943,Battle: Los Angeles,Action,Action|Drama
+583,587,Big Fish,Drama,Action|Drama
+584,10395,Wolf,Action,Action|NULL
+585,57212,War Horse,Drama,Drama|War
+586,152760,The Monuments Men,War,Drama|War
+587,2756,The Abyss,Action,Action|Drama
+588,33909,Wall Street: Money Never Sleeps,Action,Action|Drama
+589,49017,Dracula Untold,Horror,Action|Horror
+590,9882,The Siege,Action,Action|Drama
+591,2270,Stardust,Drama,Action|Drama
+592,978,Seven Years in Tibet,Drama,Drama|War
+593,44564,The Dilemma,Comedy,Comedy|Drama
+594,3132,Bad Company,Drama,Action|Drama
+595,8814,Doom,Horror,Action|Horror
+596,8427,I Spy,Drama,Action|Drama
+597,52520,Underworld: Awakening,Horror,Action|Horror
+598,80585,Rock of Ages,Drama,Comedy|Drama
+599,10592,Hart's War,Drama,Drama|War
+600,49021,Killer Elite,Drama,Action|Drama
+601,11535,Rollerball,Action,Action|Drama
+602,10550,Ballistic: Ecks vs. Sever,Drama,Action|Drama
+603,11258,Hard Rain,Drama,Drama|NULL
+604,12610,Osmosis Jones,Animation,Animation|Drama
+605,59981,Legends of Oz: Dorothy's Return,Animation,Animation|NULL
+606,201088,Blackhat,Action,Action|Drama
+607,5137,Sky Captain and the World of Tomorrow,Action,Action|Drama
+608,3093,Basic Instinct 2,Action,Action|Drama
+609,107846,Escape Plan,Action,Action|Drama
+610,188207,The Legend of Hercules,Action,Action|Drama
+611,4614,The Sum of All Fears,Drama,Action|Drama
+612,24021,The Twilight Saga: Eclipse,Drama,Action|Drama
+613,11371,The Score,Action,Action|Drama
+614,20352,Despicable Me,Animation,Animation|NULL
+615,11517,Money Train,Action,Action|Drama
+616,214756,Ted 2,Comedy,Animation|Comedy
+617,26428,Agora,Drama,Drama|War
+618,9824,Mystery Men,Action,Action|Drama
+619,48988,Hall Pass,Comedy,Animation|Comedy
+620,9008,The Insider,Drama,Drama|NULL
+621,300673,The Finest Hours,Drama,Drama|War
+622,12113,Body of Lies,Drama,Action|Drama
+623,38778,Dinner for Schmucks,Comedy,Animation|Comedy
+624,72331,Abraham Lincoln: Vampire Hunter,Horror,Action|Horror
+625,1844,Entrapment,Drama,Drama|NULL
+626,846,The X Files,Action,Action|Drama
+627,9703,The Last Legion,Action,Action|Drama
+628,857,Saving Private Ryan,War,Drama|War
+629,136797,Need for Speed,Action,Action|Drama
+630,3981,What Women Want,Comedy,Comedy|Drama
+631,425,Ice Age,Animation,Animation|Drama
+632,6171,Dreamcatcher,Horror,Action|Horror
+633,72976,Lincoln,Drama,Drama|War
+634,603,The Matrix,Action,Action|Drama
+635,568,Apollo 13,Drama,Drama|NULL
+636,9021,The Santa Clause 2,Action,Action|Comedy
+637,82695,Les Misérables,Drama,Drama|NULL
+638,9489,You've Got Mail,Comedy,Comedy|Drama
+639,12133,Step Brothers,Comedy,Animation|Comedy
+640,9342,The Mask of Zorro,Action,Action|Drama
+641,41733,Due Date,Comedy,Comedy|Drama
+642,227306,Unbroken,Drama,Drama|War
+643,5551,Space Cowboys,Drama,Action|Drama
+644,9350,Cliffhanger,Drama,Action|Drama
+645,9208,Broken Arrow,Drama,Action|Drama
+646,4244,The Kid,Action,Action|Comedy
+647,1852,World Trade Center,Drama,Drama|War
+648,11820,Mona Lisa Smile,Drama,Drama|NULL
+649,76493,The Dictator,Comedy,Animation|Comedy
+650,345,Eyes Wide Shut,Drama,Drama|NULL
+651,196867,Annie,Comedy,Comedy|Drama
+652,256591,Focus,Action,Action|Drama
+653,59962,This Means War,Action,Comedy|Drama
+654,36648,Blade: Trinity,Horror,Action|Horror
+655,1880,Red Dawn,Action,Action|Drama
+656,9440,Primary Colors,Comedy,Comedy|Drama
+657,71679,Resident Evil: Retribution,Horror,Action|Horror
+658,10483,Death Race,Action,Action|Drama
+659,11412,The Long Kiss Goodnight,Action,Action|Drama
+660,11983,Proof of Life,Drama,Action|Drama
+661,6795,Zathura: A Space Adventure,Action,Action|Drama
+662,550,Fight Club,Drama,Drama|NULL
+663,11170,We Are Marshall,Drama,Drama|NULL
+664,9292,Hudson Hawk,Action,Action|Drama
+665,10783,Lucky Numbers,Action,Action|Drama
+666,100241,"I, Frankenstein",Horror,Action|Horror
+667,257,Oliver Twist,Action,Action|Drama
+668,9947,Elektra,Action,Action|NULL
+669,189,Sin City: A Dame to Kill For,Action,Action|Drama
+670,12618,Random Hearts,Drama,Drama|NULL
+671,253412,Everest,Drama,Action|Drama
+672,1427,Perfume: The Story of a Murderer,Action,Action|Drama
+673,818,Austin Powers in Goldmember,Action,Action|Drama
+674,16577,Astro Boy,Animation,Action|Animation
+675,329,Jurassic Park,Action,Action|Drama
+676,12160,Wyatt Earp,Action,Action|Drama
+677,9331,Clear and Present Danger,Drama,Action|Drama
+678,300168,天將雄師,Drama,Action|Drama
+679,9072,Little Man,Action,Action|Drama
+680,3536,U-571,Drama,Drama|War
+681,9087,The American President,Drama,Comedy|Drama
+682,12177,The Love Guru,Comedy,Comedy|Drama
+683,12138,3000 Miles to Graceland,Action,Action|Drama
+684,273248,The Hateful Eight,Action,Action|Drama
+685,9955,Blades of Glory,Action,Comedy|Drama
+686,50359,Hop,Animation,Animation|Comedy
+687,1271,300,Action,Action|Drama
+688,693,Meet the Fockers,Comedy,Comedy|Drama
+689,14306,Marley & Me,Comedy,Animation|Comedy
+690,497,The Green Mile,Action,Action|Drama
+691,11199,Wild Hogs,Action,Action|Drama
+692,9982,Chicken Little,Animation,Animation|Comedy
+693,210577,Gone Girl,Drama,Drama|NULL
+694,2501,The Bourne Identity,Drama,Action|Drama
+695,710,GoldenEye,Drama,Action|Drama
+696,2275,The General's Daughter,Action,Action|Drama
+697,37165,The Truman Show,Comedy,Comedy|Drama
+698,9837,The Prince of Egypt,Animation,Animation|Drama
+699,10708,Daddy Day Care,Comedy,Animation|Comedy
+700,136400,2 Guns,Action,Action|Drama
+701,10992,Cats & Dogs,Comedy,Animation|Comedy
+702,9654,The Italian Job,Action,Action|Drama
+703,2642,Two Weeks Notice,Comedy,Comedy|Drama
+704,8916,Antz,Animation,Animation|Drama
+705,19899,Couples Retreat,Comedy,Comedy|Drama
+706,2119,Days of Thunder,Drama,Action|Drama
+707,9641,Cheaper by the Dozen 2,Comedy,Animation|Comedy
+708,294254,Maze Runner: The Scorch Trials,Action,Action|NULL
+709,38167,Eat Pray Love,Drama,Drama|NULL
+710,5994,The Family Man,Drama,Comedy|Drama
+711,39514,RED,Action,Action|Drama
+712,9563,Any Given Sunday,Drama,Drama|NULL
+713,547,The Horse Whisperer,Drama,Drama|NULL
+714,1538,Collateral,Action,Action|Drama
+715,9334,The Scorpion King,Action,Action|Drama
+716,11128,Ladder 49,Drama,Action|Drama
+717,75780,Jack Reacher,Action,Action|Drama
+718,8914,Deep Blue Sea,Action,Action|Drama
+719,13576,Michael Jackson's This Is It,Action,Animation|NULL
+720,39538,Contagion,Drama,Action|Drama
+721,10628,Kangaroo Jack,Action,Action|Drama
+722,14836,Coraline,Animation,Animation|NULL
+723,8645,The Happening,Action,Action|Drama
+724,9509,Man on Fire,Action,Action|Drama
+725,10067,The Shaggy Dog,Comedy,Animation|Comedy
+726,9384,Starsky & Hutch,Action,Action|Drama
+727,9279,Jingle All the Way,Comedy,Animation|Comedy
+728,1487,Hellboy,Action,Action|Drama
+729,9422,A Civil Action,Drama,Drama|NULL
+730,77174,ParaNorman,Animation,Animation|Drama
+731,4824,The Jackal,Action,Action|Drama
+732,9620,Paycheck,Action,Action|Drama
+733,9302,Up Close & Personal,Drama,Drama|NULL
+734,10199,The Tale of Despereaux,Animation,Animation|Drama
+735,10771,The Tuxedo,Action,Action|Drama
+736,3512,Under Siege 2: Dark Territory,Action,Action|Drama
+737,137094,Jack Ryan: Shadow Recruit,Drama,Action|Drama
+738,274479,Joy,Comedy,Comedy|Drama
+739,267860,London Has Fallen,Action,Action|Drama
+740,8078,Alien: Resurrection,Horror,Action|Horror
+741,7485,Shooter,Action,Action|Drama
+742,170687,The Boxtrolls,Animation,Animation|Comedy
+743,6435,Practical Magic,Action,Comedy|Drama
+744,137106,The Lego Movie,Animation,Animation|Drama
+745,10040,Miss Congeniality 2: Armed and Fabulous,Action,Action|Comedy
+746,6278,Reign of Fire,Action,Action|Drama
+747,82682,Gangster Squad,Action,Action|Drama
+748,17610,Year One,Drama,Comedy|Drama
+749,22954,Invictus,Drama,Drama|War
+750,16995,State of Play,Action,Action|NULL
+751,16558,Duplicity,Action,Action|Drama
+752,9849,My Favorite Martian,Action,Action|Drama
+753,5820,The Sentinel,Action,Action|Drama
+754,16866,Planet 51,Animation,Animation|Drama
+755,201,Star Trek: Nemesis,Action,Action|Drama
+756,11775,Intolerable Cruelty,Action,Action|Drama
+757,87825,Trouble with the Curve,Drama,Drama|NULL
+758,12201,Edge of Darkness,Action,Action|Drama
+759,11015,The Relic,Horror,Action|Horror
+760,9932,Analyze That,Action,Action|Drama
+761,13389,Righteous Kill,Action,Action|Drama
+762,8838,Mercury Rising,Action,Action|Drama
+763,17332,The Soloist,Drama,Drama|NULL
+764,4958,The Legend of Bagger Vance,Action,Action|Drama
+765,786,Almost Famous,Drama,Drama|NULL
+766,9513,Garfield: A Tail of Two Kitties,Animation,Animation|Comedy
+767,11679,xXx: State of the Union,Action,Action|Drama
+768,38321,Priest,Horror,Action|Horror
+769,14411,Sinbad: Legend of the Seven Seas,Animation,Animation|Drama
+770,8413,Event Horizon,Horror,Action|Horror
+771,10052,Dragonfly,Drama,Drama|NULL
+772,9676,The Black Dahlia,Drama,Drama|NULL
+773,9664,Flyboys,Drama,Drama|War
+774,2100,The Last Castle,Drama,Action|Drama
+775,10384,Supernova,Horror,Action|Horror
+776,137321,Winter's Tale,Drama,Action|Drama
+777,123553,The Mortal Instruments: City of Bones,Drama,Action|Drama
+778,11260,Meet Dave,Action,Action|Drama
+779,9009,Dark Water,Horror,Action|Horror
+780,11374,Edtv,Comedy,Animation|Comedy
+781,2309,Inkheart,Action,Action|Drama
+782,8285,The Spirit,Action,Action|Drama
+783,210860,Mortdecai,Drama,Comedy|Drama
+784,2312,In the Name of the King: A Dungeon Siege Tale,Action,Action|Drama
+785,9839,Beyond Borders,Drama,Drama|War
+786,381902,西游记之孙悟空三打白骨精,Action,Action|Drama
+787,13922,The Great Raid,War,Action|War
+788,293660,Deadpool,Action,Action|Drama
+789,9713,Holy Man,Comedy,Comedy|Drama
+790,190859,American Sniper,Action,Action|War
+791,257445,Goosebumps,Horror,Action|Horror
+792,9007,Just Like Heaven,Action,Comedy|Drama
+793,889,The Flintstones in Viva Rock Vegas,Action,Action|Drama
+794,1370,Rambo III,Drama,Action|Drama
+795,4942,Leatherheads,Drama,Comedy|Drama
+796,347969,The Ridiculous 6,Action,Action|Comedy
+797,24438,Did You Hear About the Morgans?,Comedy,Animation|Comedy
+798,116741,The Internship,Comedy,Animation|Comedy
+799,35791,Resident Evil: Afterlife,Horror,Action|Horror
+800,72431,Red Tails,Drama,Drama|War
+801,1813,The Devil's Advocate,Horror,Action|Horror
+802,87428,That's My Boy,Comedy,Animation|Comedy
+803,8840,DragonHeart,Action,Action|NULL
+804,10589,After the Sunset,Action,Action|Drama
+805,71676,Ghost Rider: Spirit of Vengeance,Action,Action|Drama
+806,1722,Captain Corelli's Mandolin,Drama,Drama|War
+807,10022,The Pacifier,Drama,Comedy|Drama
+808,11358,Walking Tall,Drama,Action|Drama
+809,13,Forrest Gump,Drama,Comedy|Drama
+810,6477,Alvin and the Chipmunks,Animation,Animation|Comedy
+811,1597,Meet the Parents,Comedy,Comedy|Drama
+812,10530,Pocahontas,Animation,Animation|Drama
+813,1924,Superman,Action,Action|Drama
+814,9327,The Nutty Professor,Action,Action|Drama
+815,8488,Hitch,Drama,Comedy|Drama
+816,10603,George of the Jungle,Drama,Comedy|Drama
+817,8273,American Wedding,Comedy,Comedy|Drama
+818,109424,Captain Phillips,Drama,Action|Drama
+819,35056,Date Night,Comedy,Animation|Comedy
+820,8839,Casper,Action,Action|Comedy
+821,156022,The Equalizer,Action,Action|Drama
+822,7303,Maid in Manhattan,Drama,Comedy|Drama
+823,8963,Crimson Tide,Drama,Action|Drama
+824,1402,The Pursuit of Happyness,Drama,Drama|NULL
+825,9315,Flightplan,Drama,Drama|NULL
+826,8984,Disclosure,Drama,Action|Drama
+827,795,City of Angels,Drama,Action|Drama
+828,24,Kill Bill: Vol. 1,Action,Action|Drama
+829,11353,Bowfinger,Comedy,Animation|Comedy
+830,393,Kill Bill: Vol. 2,Action,Action|Drama
+831,9618,Tango & Cash,Action,Action|Drama
+832,9374,Death Becomes Her,Action,Action|Comedy
+833,8584,Shanghai Noon,Action,Action|Drama
+834,2320,Executive Decision,Drama,Action|Drama
+835,58224,Mr. Popper's Penguins,Comedy,Animation|Comedy
+836,1729,The Forbidden Kingdom,Action,Action|Drama
+837,175574,Free Birds,Animation,Animation|Comedy
+838,8077,Alien³,Horror,Action|Horror
+839,8818,Evita,Drama,Drama|War
+840,8195,Ronin,Action,Action|Drama
+841,10586,The Ghost and the Darkness,Drama,Action|Drama
+842,116149,Paddington,Comedy,Animation|Comedy
+843,80035,The Watch,Comedy,Animation|Comedy
+844,10632,The Hunted,Action,Action|Drama
+845,12117,Instinct,Drama,Drama|NULL
+846,1792,Stuck on You,Comedy,Animation|Comedy
+847,13260,Semi-Pro,Comedy,Animation|Comedy
+848,72197,The Pirates! In an Adventure with Scientists!,Animation,Animation|Drama
+849,3580,Changeling,Action,Action|Drama
+850,12123,Chain Reaction,Action,Action|Drama
+851,9566,The Fan,Drama,Drama|NULL
+852,9833,The Phantom of the Opera,Drama,Drama|NULL
+853,4517,Elizabeth: The Golden Age,Drama,Drama|War
+854,8202,Æon Flux,Action,Action|Drama
+855,16072,Gods and Generals,War,Drama|War
+856,34314,Turbulence,Action,Action|Drama
+857,19724,Imagine That,Comedy,Animation|Comedy
+858,145220,Muppets Most Wanted,Action,Action|Drama
+859,14623,Thunderbirds,Action,Action|Drama
+860,42297,Burlesque,Drama,Drama|NULL
+861,2841,Un long dimanche de fiançailles,Drama,Drama|NULL
+862,802,Lolita,Drama,Drama|NULL
+863,10375,D-Tox,Action,Action|Drama
+864,36586,Blade II,Horror,Action|Horror
+865,11321,Seven Pounds,Drama,Drama|NULL
+866,70074,Bullet to the Head,Action,Action|Drama
+867,242,The Godfather: Part III,Action,Action|Drama
+868,9621,Elizabethtown,Drama,Comedy|Drama
+869,1819,"You, Me and Dupree",Comedy,Comedy|Drama
+870,8536,Superman II,Action,Action|Drama
+871,8046,Gigli,Drama,Drama|NULL
+872,1717,All the King's Men,Drama,Drama|NULL
+873,479,Shaft,Action,Action|Drama
+874,9444,Anastasia,Animation,Animation|NULL
+875,824,Moulin Rouge!,Drama,Drama|NULL
+876,11456,Domestic Disturbance,Action,Action|Drama
+877,261023,Black Mass,Action,Action|Drama
+878,3683,Flags of Our Fathers,War,Drama|War
+879,22803,Law Abiding Citizen,Action,Action|Drama
+880,285923,Grindhouse,Horror,Action|Horror
+881,39437,Beloved,Drama,Drama|NULL
+882,1950,Lucky You,Drama,Drama|NULL
+883,640,Catch Me If You Can,Action,Action|Drama
+884,97630,Zero Dark Thirty,Drama,Drama|War
+885,9767,The Break-Up,Comedy,Comedy|Drama
+886,11631,Mamma Mia!,Comedy,Comedy|Drama
+887,32856,Valentine's Day,Comedy,Comedy|Drama
+888,6519,The Dukes of Hazzard,Action,Action|Drama
+889,8741,The Thin Red Line,War,Drama|War
+890,49520,The Change-Up,Comedy,Animation|Comedy
+891,1850,Man on the Moon,Drama,Comedy|Drama
+892,524,Casino,Action,Action|Drama
+893,26389,From Paris with Love,Action,Action|Drama
+894,11817,Bulletproof Monk,Action,Action|Comedy
+895,2123,"Me, Myself & Irene",Comedy,Animation|Comedy
+896,9907,Barnyard,Animation,Animation|Comedy
+897,9969,Deck the Halls,Comedy,Animation|Comedy
+898,18239,The Twilight Saga: New Moon,Drama,Action|Drama
+899,808,Shrek,Animation,Animation|Drama
+900,38050,The Adjustment Bureau,Drama,Action|Drama
+901,8367,Robin Hood: Prince of Thieves,Drama,Action|Drama
+902,9390,Jerry Maguire,Drama,Comedy|Drama
+903,72105,Ted,Action,Action|Comedy
+904,2898,As Good as It Gets,Comedy,Comedy|Drama
+905,10312,Patch Adams,Comedy,Comedy|Drama
+906,109443,Anchorman 2: The Legend Continues,Comedy,Animation|Comedy
+907,2022,Mr. Deeds,Comedy,Comedy|Drama
+908,37686,Super 8,Action,Action|Drama
+909,462,Erin Brockovich,Drama,Drama|NULL
+910,9919,How to Lose a Guy in 10 Days,Comedy,Comedy|Drama
+911,187017,22 Jump Street,Action,Action|Drama
+912,628,Interview with the Vampire,Horror,Action|Horror
+913,10201,Yes Man,Comedy,Animation|Comedy
+914,302699,Central Intelligence,Action,Action|Comedy
+915,9441,Stepmom,Drama,Drama|NULL
+916,274167,Daddy's Home,Comedy,Animation|Comedy
+917,224141,Into the Woods,Action,Action|Comedy
+918,388,Inside Man,Action,Action|Drama
+919,2112,Payback,Action,Action|Drama
+920,10329,Congo,Drama,Action|Drama
+921,74465,We Bought a Zoo,Comedy,Comedy|Drama
+922,13811,Knowing,Drama,Action|Drama
+923,6877,Failure to Launch,Comedy,Animation|Comedy
+924,10320,The Ring Two,Horror,Action|Horror
+925,50646,"Crazy, Stupid, Love.",Drama,Comedy|Drama
+926,8920,Garfield,Animation,Animation|Comedy
+927,13673,Christmas with the Kranks,Comedy,Animation|Comedy
+928,60308,Moneyball,Drama,Drama|NULL
+929,6950,Outbreak,Action,Action|Drama
+930,225574,Non-Stop,Action,Action|Drama
+931,13836,Race to Witch Mountain,Action,Action|Drama
+932,752,V for Vendetta,Action,Action|Drama
+933,6038,Shanghai Knights,Action,Action|Drama
+934,9975,Curious George,Animation,Animation|Drama
+935,11451,Herbie Fully Loaded,Drama,Action|Drama
+936,12103,Don't Say a Word,Drama,Drama|NULL
+937,60304,Hansel & Gretel: Witch Hunters,Horror,Action|Horror
+938,2251,Unfaithful,Drama,Drama|NULL
+939,46529,I Am Number Four,Action,Action|Drama
+940,231,Syriana,Drama,Drama|NULL
+941,300671,13 Hours: The Secret Soldiers of Benghazi,Drama,Drama|War
+942,228326,The Book of Life,Animation,Animation|Drama
+943,9754,Firewall,Drama,Drama|NULL
+944,66,Absolute Power,Action,Action|Drama
+945,4421,G.I. Jane,Action,Action|Drama
+946,2649,The Game,Drama,Drama|NULL
+947,588,Silent Hill,Horror,Action|Horror
+948,10393,The Replacements,Comedy,Animation|Comedy
+949,71552,American Reunion,Comedy,Animation|Comedy
+950,9631,The Negotiator,Action,Action|Drama
+951,216282,Into the Storm,Action,Action|Drama
+952,306,Beverly Hills Cop III,Action,Action|Drama
+953,928,Gremlins 2: The New Batch,Horror,Action|Horror
+954,205587,The Judge,Drama,Drama|NULL
+955,6623,The Peacemaker,Action,Action|Drama
+956,1577,Resident Evil: Apocalypse,Horror,Action|Horror
+957,9801,Bridget Jones: The Edge of Reason,Comedy,Comedy|Drama
+958,2116,Out of Time,Action,Action|Drama
+959,9624,On Deadly Ground,Action,Action|Drama
+960,14199,The Adventures of Sharkboy and Lavagirl,Action,Action|Drama
+961,1907,The Beach,Drama,Action|Drama
+962,4599,Raising Helen,Drama,Comedy|Drama
+963,22832,Ninja Assassin,Action,Action|Drama
+964,10390,For Love of the Game,Drama,Drama|NULL
+965,9879,Striptease,Action,Action|Drama
+966,38579,Marmaduke,Comedy,Animation|Comedy
+967,44603,Hereafter,Action,Action|Drama
+968,11892,Murder by Numbers,Action,Action|Drama
+969,9691,Assassins,Action,Action|Drama
+970,1248,Hannibal Rising,Action,Action|Drama
+971,12220,The Story of Us,Drama,Comedy|Drama
+972,72710,The Host,Drama,Action|Drama
+973,10782,Basic,Action,Action|Drama
+974,9573,Blood Work,Action,Action|Drama
+975,4959,The International,Action,Action|Drama
+976,10061,Escape from L.A.,Action,Action|Drama
+977,10386,The Iron Giant,Animation,Action|Animation
+978,421,The Life Aquatic with Steve Zissou,Drama,Comedy|Drama
+979,316152,Free State of Jones,Drama,Drama|War
+980,11615,The Life of David Gale,Action,Action|Drama
+981,13498,Man of the House,Action,Action|Comedy
+982,241554,Run All Night,Action,Action|Drama
+983,2252,Eastern Promises,Action,Action|Drama
+984,11968,Into the Blue,Action,Action|Drama
+985,10047,Joan of Arc,Drama,Drama|War
+986,38319,Your Highness,Comedy,Animation|Comedy
+987,69668,Dream House,Drama,Drama|NULL
+988,9770,Mad City,Drama,Action|Drama
+989,11212,Baby's Day Out,Action,Action|Drama
+990,10533,The Scarlet Letter,Drama,Drama|War
+991,38363,Fair Game,Drama,Drama|NULL
+992,9923,Domino,Action,Action|Drama
+993,11863,Jade,Drama,Action|Drama
+994,18501,Gamer,Action,Action|Drama
+995,109491,Beautiful Creatures,Drama,Action|Drama
+996,9275,Death to Smoochy,Action,Action|Drama
+997,329833,Zoolander 2,Comedy,Animation|Comedy
+998,12634,The Big Bounce,Action,Action|Drama
+999,10416,What Planet Are You From?,Drama,Action|Drama
+1000,47327,Drive Angry,Action,Action|Drama
+1001,15268,Street Fighter: The Legend of Chun-Li,Action,Action|Drama
+1002,10796,The One,Action,Action|Drama
+1003,9548,The Adventures of Ford Fairlane,Action,Action|Drama
+1004,18947,The Boat That Rocked,Comedy,Comedy|Drama
+1005,1900,Traffic,Action,Action|Drama
+1006,89,Indiana Jones and the Last Crusade,Action,Action|Drama
+1007,96724,Anna Karenina,Drama,Drama|NULL
+1008,198184,Chappie,Action,Action|Drama
+1009,9481,The Bone Collector,Action,Action|Drama
+1010,4547,Panic Room,Action,Action|Drama
+1011,53953,The Tooth Fairy,Horror,Action|Horror
+1012,6415,Three Kings,Action,Action|Drama
+1013,181283,Child 44,Action,Action|Drama
+1014,9896,Rat Race,Drama,Comedy|Drama
+1015,167,K-PAX,Action,Action|Drama
+1016,11232,Kate & Leopold,Action,Action|Drama
+1017,1636,Bedazzled,Action,Comedy|Drama
+1018,2148,The Cotton Club,Action,Action|Drama
+1019,5176,3:10 to Yuma,Action,Action|NULL
+1020,260346,Taken 3,Action,Action|Drama
+1021,1389,Out of Sight,Action,Action|Drama
+1022,9894,The Cable Guy,Drama,Comedy|Drama
+1023,7504,1947: Earth,Drama,Drama|NULL
+1024,8592,Dick Tracy,Action,Action|Drama
+1025,913,The Thomas Crown Affair,Action,Action|Drama
+1026,11091,Riding in Cars with Boys,Drama,Comedy|Drama
+1027,1368,First Blood,Drama,Action|Drama
+1028,593,Солярис,Drama,Action|Drama
+1029,5393,Happily N'Ever After,Animation,Action|Animation
+1030,9095,Mary Reilly,Horror,Action|Horror
+1031,8874,My Best Friend's Wedding,Comedy,Comedy|Drama
+1032,11467,America's Sweethearts,Comedy,Comedy|Drama
+1033,320,Insomnia,Action,Action|Drama
+1034,199,Star Trek: First Contact,Action,Action|Drama
+1035,20533,Jonah Hex,Action,Action|Drama
+1036,10684,Courage Under Fire,Drama,Drama|War
+1037,1624,Liar Liar,Comedy,Animation|Comedy
+1038,325789,The Infiltrator,Action,Action|Drama
+1039,113464,Inchon,War,Drama|War
+1040,888,The Flintstones,Action,Action|Comedy
+1041,82675,Taken 2,Action,Action|Drama
+1042,4256,Scary Movie 3,Comedy,Animation|Comedy
+1043,1493,Miss Congeniality,Action,Action|Drama
+1044,88751,Journey to the Center of the Earth,Action,Action|Drama
+1045,11130,The Princess Diaries 2: Royal Engagement,Drama,Comedy|Drama
+1046,9944,The Pelican Brief,Action,Action|Drama
+1047,10731,The Client,Action,Action|Drama
+1048,7350,The Bucket List,Comedy,Comedy|Drama
+1049,9869,Patriot Games,Action,Action|Drama
+1050,4379,Monster-in-Law,Comedy,Comedy|Drama
+1051,146233,Prisoners,Action,Action|Drama
+1052,2034,Training Day,Action,Action|Drama
+1053,926,Galaxy Quest,Action,Action|Drama
+1054,4248,Scary Movie 2,Comedy,Animation|Comedy
+1055,64328,The Muppets,Comedy,Animation|Comedy
+1056,36647,Blade,Horror,Action|Horror
+1057,7214,Coach Carter,Drama,Drama|NULL
+1058,1537,Changing Lanes,Action,Action|Drama
+1059,9360,Anaconda,Horror,Action|Horror
+1060,6282,Coyote Ugly,Comedy,Animation|Comedy
+1061,508,Love Actually,Drama,Comedy|Drama
+1062,9487,A Bug's Life,Animation,Animation|Drama
+1063,768,From Hell,Horror,Action|Horror
+1064,2636,The Specialist,Action,Action|Drama
+1065,10478,Tin Cup,Drama,Comedy|Drama
+1066,27983,"Yours, Mine and Ours",Comedy,Comedy|Drama
+1067,9981,Kicking & Screaming,Comedy,Comedy|Drama
+1068,7453,The Hitchhiker's Guide to the Galaxy,Action,Action|Drama
+1069,15045,Fat Albert,Comedy,Comedy|Drama
+1070,7737,Resident Evil: Extinction,Horror,Action|Horror
+1071,232672,Blended,Comedy,Animation|Comedy
+1072,17379,Last Holiday,Drama,Comedy|Drama
+1073,8987,The River Wild,Action,Action|Drama
+1074,11359,The Indian in the Cupboard,Action,Action|Drama
+1075,82525,Savages,Action,Action|Drama
+1076,9759,Cellular,Action,Action|Drama
+1077,9486,Johnny English,Action,Action|Drama
+1078,9906,The Ant Bully,Animation,Animation|Drama
+1079,841,Dune,Action,Action|Drama
+1080,4688,Across the Universe,Drama,Action|Drama
+1081,4148,Revolutionary Road,Drama,Drama|NULL
+1082,2207,16 Blocks,Action,Action|Drama
+1083,9381,Babylon A.D.,Action,Action|Drama
+1084,9625,The Glimmer Man,Action,Action|Drama
+1085,9304,Multiplicity,Action,Action|Drama
+1086,20856,Aliens in the Attic,Action,Action|Drama
+1087,5955,The Pledge,Action,Action|Drama
+1088,9899,The Producers,Comedy,Animation|Comedy
+1089,9826,The Phantom,Action,Action|Drama
+1090,21355,All the Pretty Horses,Drama,Action|Drama
+1091,10858,Nixon,Drama,Drama|War
+1092,11439,The Ghost Writer,Drama,Drama|NULL
+1093,9457,Deep Rising,Horror,Action|Horror
+1094,12412,Miracle at St. Anna,Drama,Drama|War
+1095,1494,滿城盡帶黃金甲,Action,Action|Drama
+1096,13184,Bangkok Dangerous,Action,Action|Drama
+1097,2185,Big Trouble,Action,Comedy|Drama
+1098,6639,Love in the Time of Cholera,Drama,Drama|NULL
+1099,38153,Shadow Conspiracy,Action,Action|Drama
+1100,58233,Johnny English Reborn,Action,Action|Drama
+1101,116977,Foodfight!,Animation,Animation|Comedy
+1102,68734,Argo,Drama,Drama|NULL
+1103,5503,The Fugitive,Action,Action|Drama
+1104,27573,The Bounty Hunter,Action,Action|NULL
+1105,819,Sleepers,Action,Action|Drama
+1106,1369,Rambo: First Blood Part II,Drama,Action|Drama
+1107,9623,The Juror,Drama,Drama|NULL
+1108,10895,Pinocchio,Animation,Animation|NULL
+1109,10935,Heaven's Gate,Action,Action|Drama
+1110,834,Underworld: Evolution,Action,Action|Drama
+1111,228066,Victor Frankenstein,Drama,Action|Drama
+1112,711,Finding Forrester,Drama,Drama|NULL
+1113,10468,28 Days,Comedy,Comedy|Drama
+1114,10027,Unleashed,Action,Action|Drama
+1115,11812,The Sweetest Thing,Comedy,Comedy|Drama
+1116,37233,The Firm,Drama,Drama|NULL
+1117,37950,Charlie St. Cloud,Drama,Drama|NULL
+1118,27582,The Mechanic,Action,Action|Drama
+1119,64688,21 Jump Street,Action,Action|Drama
+1120,509,Notting Hill,Drama,Comedy|Drama
+1121,7443,Chicken Run,Animation,Animation|Comedy
+1122,5966,Along Came Polly,Comedy,Comedy|Drama
+1123,11066,Boomerang,Comedy,Comedy|Drama
+1124,136795,The Heat,Action,Action|Drama
+1125,8095,Cleopatra,Drama,Drama|War
+1126,87826,Here Comes the Boom,Comedy,Animation|Comedy
+1127,11560,High Crimes,Action,Action|Drama
+1128,25189,The Mirror Has Two Faces,Drama,Comedy|Drama
+1129,2637,The Mothman Prophecies,Horror,Action|Horror
+1130,18480,Brüno,Comedy,Animation|Comedy
+1131,709,Licence to Kill,Drama,Action|Drama
+1132,49730,Red Riding Hood,Horror,Action|Horror
+1133,2749,15 Minutes,Action,Action|Drama
+1134,9607,Super Mario Bros.,Action,Action|Drama
+1135,1830,Lord of War,Action,Action|Drama
+1136,79,英雄,Drama,Action|Drama
+1137,54054,One for the Money,Action,Action|Drama
+1138,228967,The Interview,Action,Action|Comedy
+1139,46528,The Warrior's Way,Action,Action|Drama
+1140,27936,Micmacs à tire-larigot,Action,Action|Drama
+1141,65,8 Mile,Drama,Drama|NULL
+1142,280391,Pourquoi j'ai pas mangé mon père,Animation,Animation|Drama
+1143,9476,A Knight's Tale,Drama,Action|Drama
+1144,10610,The Medallion,Action,Action|Drama
+1145,745,The Sixth Sense,Drama,Drama|NULL
+1146,49527,Man on a Ledge,Action,Action|Drama
+1147,73937,The Big Year,Comedy,Animation|Comedy
+1148,1885,The Karate Kid,Drama,Drama|NULL
+1149,168672,American Hustle,Action,Action|Drama
+1150,18240,The Proposal,Drama,Comedy|Drama
+1151,10398,Double Jeopardy,Action,Action|Drama
+1152,165,Back to the Future Part II,Action,Action|Drama
+1153,240832,Lucy,Action,Action|Drama
+1154,216015,Fifty Shades of Grey,Drama,Drama|NULL
+1155,12279,Spy Kids 3-D: Game Over,Action,Action|Drama
+1156,1645,A Time to Kill,Action,Action|Drama
+1157,11007,Cheaper by the Dozen,Comedy,Animation|Comedy
+1158,193756,Lone Survivor,Drama,Drama|War
+1159,11287,A League of Their Own,Comedy,Animation|Comedy
+1160,259693,The Conjuring 2,Horror,Action|Horror
+1161,37799,The Social Network,Drama,Drama|NULL
+1162,10184,He's Just Not That Into You,Drama,Comedy|Drama
+1163,4257,Scary Movie 4,Comedy,Animation|Comedy
+1164,4234,Scream 3,Horror,Action|Horror
+1165,196,Back to the Future Part III,Action,Action|Drama
+1166,257091,Get Hard,Comedy,Animation|Comedy
+1167,6114,Dracula,Horror,Action|Horror
+1168,24803,Julie & Julia,Drama,Drama|NULL
+1169,109410,42,Drama,Drama|NULL
+1170,1213,The Talented Mr. Ripley,Action,Action|Drama
+1171,100042,Dumb and Dumber To,Comedy,Animation|Comedy
+1172,9036,Eight Below,Drama,Action|Drama
+1173,257211,The Intern,Comedy,Animation|Comedy
+1174,323675,Ride Along 2,Action,Action|Comedy
+1175,9361,The Last of the Mohicans,Drama,Drama|War
+1176,1677,Ray,Drama,Drama|NULL
+1177,187,Sin City,Action,Action|Drama
+1178,7461,Vantage Point,Action,Action|Drama
+1179,16538,"I Love You, Man",Comedy,Animation|Comedy
+1180,9889,Shallow Hal,Comedy,Comedy|Drama
+1181,820,JFK,Drama,Drama|War
+1182,11565,Big Momma's House 2,Action,Action|Drama
+1183,6073,The Mexican,Action,Action|Drama
+1184,16996,17 Again,Comedy,Animation|Comedy
+1185,193610,The Other Woman,Comedy,Comedy|Drama
+1186,19912,The Final Destination,Horror,Action|Horror
+1187,296098,Bridge of Spies,Drama,Drama|NULL
+1188,8007,Behind Enemy Lines,Drama,Drama|War
+1189,32823,Get Him to the Greek,Comedy,Animation|Comedy
+1190,4380,Shall We Dance?,Drama,Comedy|Drama
+1191,11551,Small Soldiers,Action,Action|Drama
+1192,10336,Spawn,Horror,Action|Horror
+1193,11362,The Count of Monte Cristo,Drama,Action|Drama
+1194,50348,The Lincoln Lawyer,Action,Action|Drama
+1195,48138,Unknown,Action,Action|Drama
+1196,1124,The Prestige,Drama,Drama|NULL
+1197,227159,Horrible Bosses 2,Comedy,Animation|Comedy
+1198,68179,Escape from Planet Earth,Animation,Animation|Drama
+1199,1579,Apocalypto,Drama,Action|Drama
+1200,708,The Living Daylights,Drama,Action|Drama
+1201,34851,Predators,Action,Action|Drama
+1202,9930,Legal Eagles,Drama,Action|Drama
+1203,1586,Secret Window,Drama,Drama|NULL
+1204,2044,The Lake House,Drama,Drama|NULL
+1205,9913,The Skeleton Key,Horror,Action|Horror
+1206,71864,The Odd Life of Timothy Green,Action,Comedy|Drama
+1207,10761,Made of Honor,Comedy,Comedy|Drama
+1208,209451,Jersey Boys,Drama,Drama|NULL
+1209,11975,The Rainmaker,Action,Action|Drama
+1210,4970,Gothika,Horror,Action|Horror
+1211,11831,Amistad,Drama,Drama|War
+1212,9096,Medicine Man,Drama,Action|Drama
+1213,440,Aliens vs Predator: Requiem,Horror,Action|Horror
+1214,11011,Ri¢hie Ri¢h,Comedy,Animation|Comedy
+1215,10641,Autumn in New York,Drama,Drama|NULL
+1216,11172,Music and Lyrics,Comedy,Comedy|Drama
+1217,39513,Paul,Action,Action|Drama
+1218,82687,The Guilt Trip,Comedy,Animation|Comedy
+1219,41446,Scream 4,Horror,Action|Horror
+1220,8224,8MM,Action,Action|Drama
+1221,10537,The Doors,Drama,Drama|NULL
+1222,225886,Sex Tape,Comedy,Animation|Comedy
+1223,10385,Hanging Up,Comedy,Comedy|Drama
+1224,55779,Final Destination 5,Horror,Action|Horror
+1225,10154,Mickey Blue Eyes,Action,Action|Drama
+1226,10647,Pay It Forward,Drama,Drama|NULL
+1227,11431,Fever Pitch,Drama,Comedy|Drama
+1228,8457,Drillbit Taylor,Comedy,Animation|Comedy
+1229,188161,A Million Ways to Die in the West,Action,Action|Comedy
+1230,8850,The Shadow,Action,Action|Drama
+1231,64685,Extremely Loud & Incredibly Close,Drama,Drama|NULL
+1232,38357,Morning Glory,Drama,Comedy|Drama
+1233,10060,Get Rich or Die Tryin',Drama,Drama|NULL
+1234,11398,The Art of War,Action,Action|Drama
+1235,1833,Rent,Drama,Drama|NULL
+1236,10391,Bless the Child,Horror,Action|Horror
+1237,8970,The Out-of-Towners,Comedy,Animation|Comedy
+1238,9306,The Island of Dr. Moreau,Horror,Action|Horror
+1239,11370,The Musketeer,Drama,Action|Drama
+1240,12184,The Other Boleyn Girl,Drama,Drama|NULL
+1241,1921,Sweet November,Drama,Drama|NULL
+1242,1683,The Reaping,Horror,Action|Horror
+1243,203,Mean Streets,Action,Action|Drama
+1244,11858,Renaissance Man,Comedy,Comedy|War
+1245,62835,Colombiana,Action,Action|Drama
+1246,18937,Quest for Camelot,Animation,Animation|Drama
+1247,13536,City By The Sea,Action,Action|Drama
+1248,15556,At First Sight,Drama,Drama|NULL
+1249,10718,Torque,Action,Action|NULL
+1250,11062,City Hall,Drama,Drama|NULL
+1251,10802,Showgirls,Drama,Drama|NULL
+1252,1887,Marie Antoinette,Drama,Drama|War
+1253,6071,Kiss of Death,Action,Action|Drama
+1254,10461,Get Carter,Action,Action|Drama
+1255,80278,Lo imposible,Drama,Drama|NULL
+1256,12704,Ishtar,Action,Action|Drama
+1257,10315,Fantastic Mr. Fox,Animation,Animation|Drama
+1258,16643,Life or Something Like It,Drama,Comedy|Drama
+1259,2687,Memoirs of an Invisible Man,Action,Action|Drama
+1260,194,Le fabuleux destin d'Amélie Poulain,Comedy,Comedy|Drama
+1261,11025,New York Minute,Comedy,Animation|Comedy
+1262,8849,Alfie,Comedy,Animation|Comedy
+1263,78698,Big Miracle,Drama,Action|Drama
+1264,30943,The Deep End of the Ocean,Drama,Drama|NULL
+1265,9544,FearDotCom,Horror,Action|Horror
+1266,24418,Cirque du Freak: The Vampire's Assistant,Action,Action|Drama
+1267,7288,Duplex,Action,Comedy|Drama
+1268,14655,Soul Men,Comedy,Animation|Comedy
+1269,24575,Raise the Titanic,Drama,Action|Drama
+1270,10366,Universal Soldier: The Return,Action,Action|Drama
+1271,19898,Pandorum,Horror,Action|Horror
+1272,4965,Impostor,Action,Action|Drama
+1273,15074,Extreme Ops,Drama,Action|Drama
+1274,56715,Just Visiting,Action,Action|Drama
+1275,1272,Sunshine,Action,Action|Drama
+1276,72358,A Thousand Words,Comedy,Comedy|Drama
+1277,20542,Delgo,Animation,Action|Animation
+1278,266396,The Gunman,Action,Action|Drama
+1279,9978,Stormbreaker,Action,Action|Drama
+1280,8271,Disturbia,Drama,Drama|NULL
+1281,10428,Hackers,Action,Action|Drama
+1282,5353,The Hunting Party,Drama,Action|Drama
+1283,11934,The Hudsucker Proxy,Comedy,Comedy|Drama
+1284,14392,投名狀,Action,Drama|War
+1285,19495,Nomad,War,Action|War
+1286,110415,Snowpiercer,Action,Action|Drama
+1287,77459,Un monstre à Paris,Animation,Animation|Drama
+1288,26486,The Last Shot,Action,Action|Comedy
+1289,9495,The Crow,Action,Action|Drama
+1290,256040,Baahubali: The Beginning,Action,Drama|War
+1291,24420,The Time Traveler's Wife,Drama,Action|Drama
+1292,1257,Because I Said So,Comedy,Animation|Comedy
+1293,62214,Frankenweenie,Animation,Animation|Comedy
+1294,16320,Serenity,Action,Action|Drama
+1295,8842,Against the Ropes,Drama,Drama|NULL
+1296,9531,Superman III,Action,Action|Drama
+1297,64807,Grudge Match,Comedy,Animation|Comedy
+1298,12289,Chi bi,Drama,Action|Drama
+1299,11529,Sweet Home Alabama,Comedy,Comedy|Drama
+1300,20943,The Ugly Truth,Comedy,Comedy|Drama
+1301,9099,Sgt. Bilko,Comedy,Animation|Comedy
+1302,9488,Spy Kids 2: The Island of Lost Dreams,Action,Action|Drama
+1303,193,Star Trek: Generations,Action,Action|Drama
+1304,44865,一代宗師,Action,Drama|War
+1305,55787,Water for Elephants,Drama,Drama|NULL
+1306,257932,Dragon Nest: Warriors' Dawn,Animation,Animation|Drama
+1307,10400,The Hurricane,Drama,Drama|NULL
+1308,1957,Enough,Drama,Drama|NULL
+1309,10833,Heartbreakers,Action,Action|Drama
+1310,256961,Paul Blart: Mall Cop 2,Action,Action|Comedy
+1311,5852,Angel Eyes,Drama,Drama|NULL
+1312,12312,Joe Somebody,Comedy,Animation|Comedy
+1313,622,The Ninth Gate,Horror,Action|Horror
+1314,11306,Extreme Measures,Drama,Drama|NULL
+1315,12508,Rock Star,Comedy,Comedy|Drama
+1316,25793,Precious,Drama,Drama|NULL
+1317,10534,White Squall,Action,Action|Drama
+1318,1091,The Thing,Horror,Action|Horror
+1319,87421,Riddick,Action,Action|Drama
+1320,10871,Switchback,Drama,Action|Drama
+1321,13503,Texas Rangers,Action,Action|NULL
+1322,13600,City of Ember,Action,Action|Drama
+1323,68722,The Master,Drama,Drama|NULL
+1324,14324,Virgin Territory,Drama,Action|Drama
+1325,14325,The Express,Drama,Drama|NULL
+1326,299687,The 5th Wave,Action,Action|Drama
+1327,312221,Creed,Drama,Drama|NULL
+1328,23168,The Town,Action,Action|Drama
+1329,76494,What to Expect When You're Expecting,Drama,Comedy|Drama
+1330,4944,Burn After Reading,Comedy,Comedy|Drama
+1331,10488,Nim's Island,Action,Action|Drama
+1332,96721,Rush,Action,Action|Drama
+1333,334,Magnolia,Drama,Drama|NULL
+1334,23742,Cop Out,Action,Action|Drama
+1335,259694,How to Be Single,Comedy,Comedy|Drama
+1336,62837,Dolphin Tale,Drama,Drama|NULL
+1337,8966,Twilight,Drama,Action|Drama
+1338,8470,John Q,Action,Action|Drama
+1339,11001,Blue Streak,Action,Action|Drama
+1340,138832,We're the Millers,Action,Action|Drama
+1341,16911,Obitaemyy Ostrov,Action,Action|Drama
+1342,2163,Breakdown,Drama,Action|Drama
+1343,36670,Never Say Never Again,Drama,Action|Drama
+1344,23048,Hot Tub Time Machine,Action,Action|Drama
+1345,227735,Dolphin Tale 2,Drama,Drama|NULL
+1346,2155,Reindeer Games,Drama,Drama|NULL
+1347,8409,A Man Apart,Action,Action|Drama
+1348,222936,Aloha,Drama,Comedy|Drama
+1349,31908,Ghosts of Mississippi,Drama,Drama|War
+1350,10219,Snow Falling on Cedars,Drama,Drama|NULL
+1351,48171,The Rite,Horror,Action|Horror
+1352,782,Gattaca,Drama,Action|Drama
+1353,75531,Isn't She Great,Comedy,Comedy|Drama
+1354,11802,Space Chimps,Animation,Animation|NULL
+1355,9776,Head of State,Comedy,Animation|Comedy
+1356,18785,The Hangover,Comedy,Animation|Comedy
+1357,365222,葉問3,Action,Drama|War
+1358,817,Austin Powers: The Spy Who Shagged Me,Action,Action|Drama
+1359,268,Batman,Action,Action|NULL
+1360,45054,There Be Dragons,Drama,Drama|NULL
+1361,943,Lethal Weapon 3,Action,Action|Drama
+1362,22881,The Blind Side,Drama,Drama|NULL
+1363,10054,Spy Kids,Action,Action|Drama
+1364,51540,Horrible Bosses,Action,Action|Drama
+1365,44264,True Grit,Drama,Action|Drama
+1366,350,The Devil Wears Prada,Drama,Comedy|Drama
+1367,152,Star Trek: The Motion Picture,Action,Action|Drama
+1368,109431,Identity Thief,Action,Action|Drama
+1369,1598,Cape Fear,Action,Action|Drama
+1370,8065,21,Action,Action|Drama
+1371,271718,Trainwreck,Comedy,Animation|Comedy
+1372,11638,Guess Who,Comedy,Comedy|Drama
+1373,409,The English Patient,Drama,Drama|War
+1374,2118,L.A. Confidential,Action,Action|Drama
+1375,11459,Sky High,Drama,Comedy|Drama
+1376,10806,In & Out,Comedy,Comedy|Drama
+1377,9348,Species,Horror,Action|Horror
+1378,377,A Nightmare on Elm Street,Horror,Action|Horror
+1379,8843,The Cell,Horror,Action|Horror
+1380,9313,The Man in the Iron Mask,Drama,Action|Drama
+1381,39486,Secretariat,Drama,Drama|NULL
+1382,1273,TMNT,Animation,Animation|Drama
+1383,13920,Radio,Drama,Drama|NULL
+1384,50544,Friends with Benefits,Comedy,Comedy|Drama
+1385,325133,Neighbors 2: Sorority Rising,Comedy,Animation|Comedy
+1386,140823,Saving Mr. Banks,Comedy,Drama|War
+1387,1883,Malcolm X,Drama,Drama|War
+1388,89492,This Is 40,Comedy,Animation|Comedy
+1389,22949,Old Dogs,Comedy,Animation|Comedy
+1390,12437,Underworld: Rise of the Lycans,Action,Action|Drama
+1391,2959,License to Wed,Comedy,Animation|Comedy
+1392,9957,The Benchwarmers,Comedy,Animation|Comedy
+1393,11648,Must Love Dogs,Comedy,Comedy|Drama
+1394,9366,Donnie Brasco,Action,Action|Drama
+1395,1576,Resident Evil,Horror,Action|Horror
+1396,609,Poltergeist,Horror,Action|Horror
+1397,5516,The Ladykillers,Action,Action|Drama
+1398,13051,Max Payne,Action,Action|NULL
+1399,49530,In Time,Action,Action|Drama
+1400,34806,The Back-Up Plan,Comedy,Comedy|Drama
+1401,49022,Something Borrowed,Drama,Comedy|Drama
+1402,11469,Black Knight,Action,Action|Drama
+1403,23479,The Bad News Bears,Comedy,Animation|Comedy
+1404,11667,Street Fighter,Drama,Action|Drama
+1405,423,The Pianist,Drama,Drama|War
+1406,2447,The Nativity Story,Drama,Drama|War
+1407,10066,House of Wax,Horror,Action|Horror
+1408,2288,Closer,Drama,Drama|NULL
+1409,88794,J. Edgar,Action,Action|Drama
+1410,13515,Mirrors,Horror,Action|Horror
+1411,11979,Queen of the Damned,Horror,Action|Horror
+1412,169,Predator 2,Action,Action|Drama
+1413,8090,Untraceable,Drama,Drama|NULL
+1414,11622,Blast from the Past,Comedy,Comedy|Drama
+1415,3604,Flash Gordon,Action,Action|Drama
+1416,9541,Jersey Girl,Comedy,Comedy|Drama
+1417,94348,Alex Cross,Action,Action|Drama
+1418,8197,Midnight in the Garden of Good and Evil,Action,Action|Drama
+1419,336004,Heist,Action,Action|Drama
+1420,35019,Nanny McPhee and the Big Bang,Action,Action|Comedy
+1421,10410,Hoffa,Action,Action|Drama
+1422,8836,The X Files: I Want to Believe,Drama,Action|Drama
+1423,14442,Ella Enchanted,Action,Action|Comedy
+1424,321741,Concussion,Drama,Drama|NULL
+1425,59965,Abduction,Action,Action|Drama
+1426,14175,Valiant,Animation,Animation|Drama
+1427,11004,Wonder Boys,Comedy,Comedy|Drama
+1428,11918,Superhero Movie,Action,Action|Drama
+1429,98357,Broken City,Action,Action|Drama
+1430,10012,Cursed,Horror,Action|Horror
+1431,49526,Premium Rush,Action,Action|Drama
+1432,268920,Hot Pursuit,Action,Action|Drama
+1433,9093,The Four Feathers,Drama,Drama|War
+1434,119283,Parker,Action,Action|Drama
+1435,11823,Wimbledon,Comedy,Comedy|Drama
+1436,35169,Furry Vengeance,Comedy,Animation|Comedy
+1437,118957,Bait,Horror,Action|Horror
+1438,849,Krull,Action,Action|Drama
+1439,4515,Lions for Lambs,Drama,Action|Drama
+1440,18886,Flight of the Intruder,Drama,Action|Drama
+1441,6575,Walk Hard: The Dewey Cox Story,Comedy,Animation|Comedy
+1442,6440,The Shipping News,Drama,Drama|NULL
+1443,13496,American Outlaws,Action,Action|NULL
+1444,18320,The Young Victoria,Drama,Drama|War
+1445,22787,Whiteout,Action,Action|Drama
+1446,8967,The Tree of Life,Action,Action|Drama
+1447,37498,Knock Off,Drama,Action|Drama
+1448,144336,Sabotage,Action,Action|Drama
+1449,9616,The Order,Horror,Action|Horror
+1450,13056,Punisher: War Zone,Action,Action|Drama
+1451,14113,Zoom,Action,Action|Comedy
+1452,285783,The Walk,Drama,Action|Drama
+1453,49478,Warriors of Virtue,Action,Action|NULL
+1454,9726,A Good Year,Drama,Comedy|Drama
+1455,20763,Radio Flyer,Drama,Drama|NULL
+1456,9702,Bound by Honor,Action,Action|Drama
+1457,9311,Smilla's Sense of Snow,Action,Action|Drama
+1458,9280,Femme Fatale,Action,Action|Drama
+1459,26843,Lion of the Desert,War,Action|War
+1460,11876,Le Hussard sur le toit,Drama,Drama|War
+1461,22267,Ride with the Devil,Drama,Drama|War
+1462,45958,Biutiful,Drama,Drama|NULL
+1463,1969,Bandidas,Action,Action|Drama
+1464,310706,Black Water Transit,Action,Action|Drama
+1465,198663,The Maze Runner,Action,Action|Drama
+1466,239573,Unfinished Business,Comedy,Animation|Comedy
+1467,10436,The Age of Innocence,Drama,Drama|NULL
+1468,1381,The Fountain,Drama,Action|Drama
+1469,2162,Chill Factor,Action,Comedy|Drama
+1470,127493,Stolen,Action,Action|Drama
+1471,12429,崖の上のポニョ,Animation,Animation|NULL
+1472,228205,The Longest Ride,Drama,Drama|NULL
+1473,2900,The Astronaut's Wife,Drama,Action|Drama
+1474,21311,I Dreamed of Africa,Drama,Action|Drama
+1475,77875,Playing for Keeps,Comedy,Comedy|Drama
+1476,192136,Mandela: Long Walk to Freedom,Drama,Drama|War
+1477,18254,Reds,Drama,Drama|War
+1478,881,A Few Good Men,Drama,Drama|NULL
+1479,10877,Exit Wounds,Action,Action|Drama
+1480,9600,Big Momma's House,Action,Action|Drama
+1481,202575,The House of Magic,Animation,Animation|Drama
+1482,71469,The Darkest Hour,Horror,Action|Horror
+1483,85446,Step Up Revolution,Drama,Drama|NULL
+1484,326,Snakes on a Plane,Horror,Action|Horror
+1485,10685,The Watcher,Drama,Drama|NULL
+1486,7220,The Punisher,Action,Action|Drama
+1487,9763,Goal!: The Dream Begins,Drama,Drama|NULL
+1488,72387,Safe,Action,Action|Drama
+1489,12596,Pushing Tin,Comedy,Comedy|Drama
+1490,1892,Return of the Jedi,Action,Action|Drama
+1491,13460,Doomsday,Action,Action|Drama
+1492,8055,The Reader,Drama,Drama|NULL
+1493,50647,Wanderlust,Comedy,Animation|Comedy
+1494,10719,Elf,Action,Action|Comedy
+1495,9294,Phenomenon,Action,Action|Drama
+1496,11888,Snow Dogs,Drama,Comedy|Drama
+1497,9647,Scrooged,Action,Comedy|Drama
+1498,9353,Nacho Libre,Comedy,Animation|Comedy
+1499,55721,Bridesmaids,Comedy,Comedy|Drama
+1500,109414,This Is the End,Action,Action|Comedy
+1501,10307,Stigmata,Horror,Action|Horror
+1502,11978,Men of Honor,Drama,Drama|NULL
+1503,22907,Takers,Action,Action|Drama
+1504,87567,The Big Wedding,Comedy,Animation|Comedy
+1505,38322,"Big Mommas: Like Father, Like Son",Action,Action|Drama
+1506,45612,Source Code,Action,Action|Drama
+1507,7305,Alive,Drama,Action|Drama
+1508,3594,The Number 23,Drama,Drama|NULL
+1509,157841,The Young and Prodigious T.S. Spivet,Drama,Action|Drama
+1510,11519,1941,Action,Action|Comedy
+1511,12920,Dreamer: Inspired By a True Story,Drama,Drama|NULL
+1512,59,A History of Violence,Action,Action|Drama
+1513,9335,Transporter 2,Action,Action|Drama
+1514,12106,The Quick and the Dead,Action,Action|NULL
+1515,11141,Laws of Attraction,Drama,Comedy|Drama
+1516,8649,Bringing Out the Dead,Drama,Drama|NULL
+1517,31867,Repo Men,Action,Action|Drama
+1518,10253,디워,Horror,Action|Horror
+1519,3587,Bogus,Action,Action|Comedy
+1520,124459,The Incredible Burt Wonderstone,Comedy,Animation|Comedy
+1521,24662,Cats Don't Dance,Animation,Animation|Comedy
+1522,32274,Cradle Will Rock,Drama,Drama|NULL
+1523,182,The Good German,Drama,Action|Drama
+1524,5494,George and the Dragon,Drama,Action|Drama
+1525,28,Apocalypse Now,Drama,Drama|War
+1526,38073,Going the Distance,Drama,Comedy|Drama
+1527,2054,Mr. Holland's Opus,Drama,Drama|NULL
+1528,302156,Criminal,Action,Action|NULL
+1529,606,Out of Africa,Drama,Drama|NULL
+1530,87502,Flight,Drama,Drama|NULL
+1531,698,Moonraker,Action,Action|Drama
+1532,120467,The Grand Budapest Hotel,Comedy,Comedy|Drama
+1533,11313,Hearts in Atlantis,Drama,Drama|NULL
+1534,6488,Arachnophobia,Horror,Action|Horror
+1535,10559,Frequency,Action,Action|Drama
+1536,296099,Vacation,Comedy,Animation|Comedy
+1537,8012,Get Shorty,Action,Action|Drama
+1538,1574,Chicago,Action,Action|Drama
+1539,9032,Big Daddy,Comedy,Comedy|Drama
+1540,2770,American Pie 2,Comedy,Comedy|Drama
+1541,862,Toy Story,Animation,Animation|Comedy
+1542,1637,Speed,Action,Action|Drama
+1543,72570,The Vow,Drama,Drama|NULL
+1544,27569,Extraordinary Measures,Drama,Drama|NULL
+1545,10637,Remember the Titans,Drama,Drama|NULL
+1546,1669,The Hunt for Red October,Drama,Action|Drama
+1547,132363,The Butler,Drama,Drama|NULL
+1548,9472,DodgeBall: A True Underdog Story,Comedy,Animation|Comedy
+1549,2907,The Addams Family,Horror,Action|Horror
+1550,9273,Ace Ventura: When Nature Calls,Action,Action|Drama
+1551,9880,The Princess Diaries,Comedy,Comedy|Drama
+1552,2925,The First Wives Club,Comedy,Animation|Comedy
+1553,807,Se7en,Action,Action|Drama
+1554,17654,District 9,Action,Action|Drama
+1555,11836,The SpongeBob SquarePants Movie,Animation,Animation|Comedy
+1556,322,Mystic River,Action,Action|Drama
+1557,70,Million Dollar Baby,Drama,Drama|NULL
+1558,9535,Analyze This,Action,Action|Drama
+1559,11036,The Notebook,Drama,Drama|NULL
+1560,6557,27 Dresses,Comedy,Comedy|Drama
+1561,18126,Hannah Montana: The Movie,Drama,Comedy|Drama
+1562,16340,Rugrats in Paris: The Movie,Animation,Animation|Drama
+1563,10333,The Prince of Tides,Drama,Drama|NULL
+1564,4476,Legends of the Fall,Drama,Drama|War
+1565,22947,Up in the Air,Drama,Drama|NULL
+1566,2755,About Schmidt,Comedy,Comedy|Drama
+1567,82654,Warm Bodies,Horror,Action|Horror
+1568,59967,Looper,Action,Action|Drama
+1569,16300,Down to Earth,Action,Action|Drama
+1570,9598,Babe,Action,Comedy|Drama
+1571,82696,Hope Springs,Drama,Comedy|Drama
+1572,9870,Forgetting Sarah Marshall,Drama,Comedy|Drama
+1573,8292,Four Brothers,Action,Action|Drama
+1574,8780,Baby Mama,Comedy,Animation|Comedy
+1575,9715,Hope Floats,Drama,Drama|NULL
+1576,10521,Bride Wars,Comedy,Animation|Comedy
+1577,10762,Without a Paddle,Drama,Action|Drama
+1578,10096,13 Going on 30,Action,Comedy|Drama
+1579,59436,Midnight in Paris,Action,Comedy|Drama
+1580,227783,The Nut Job,Animation,Animation|Drama
+1581,4133,Blow,Action,Action|Drama
+1582,10207,Message in a Bottle,Drama,Drama|NULL
+1583,172,Star Trek V: The Final Frontier,Action,Action|Drama
+1584,21972,Like Mike,Action,Comedy|Drama
+1585,36593,The Naked Gun 33⅓: The Final Insult,Action,Action|Drama
+1586,707,A View to a Kill,Drama,Action|Drama
+1587,533,The Curse of the Were-Rabbit,Animation,Animation|Drama
+1588,6023,P.S. I Love You,Drama,Drama|NULL
+1589,6439,Racing Stripes,Comedy,Animation|Comedy
+1590,4347,Atonement,Drama,Drama|NULL
+1591,37056,Letters to Juliet,Drama,Comedy|Drama
+1592,4105,Black Rain,Action,Action|Drama
+1593,76489,The Three Stooges,Comedy,Animation|Comedy
+1594,3933,Corpse Bride,Animation,Animation|Drama
+1595,9918,Glory Road,Drama,Drama|NULL
+1596,273481,Sicario,Action,Action|Drama
+1597,307081,Southpaw,Action,Action|Drama
+1598,16871,Drag Me to Hell,Horror,Action|Horror
+1599,293863,The Age of Adaline,Drama,Action|Drama
+1600,13156,Secondhand Lions,Comedy,Comedy|Drama
+1601,41233,Step Up 3D,Drama,Drama|NULL
+1602,9266,Blue Crush,Drama,Action|Drama
+1603,1262,Stranger Than Fiction,Drama,Comedy|Drama
+1604,4513,30 Days of Night,Horror,Action|Horror
+1605,22970,The Cabin in the Woods,Horror,Action|Horror
+1606,7278,Meet the Spartans,Comedy,Animation|Comedy
+1607,9013,Midnight Run,Action,Action|Drama
+1608,865,The Running Man,Action,Action|Drama
+1609,10776,Little Shop of Horrors,Horror,Action|Horror
+1610,50456,Hanna,Drama,Action|Drama
+1611,9823,Mortal Kombat: Annihilation,Action,Action|Drama
+1612,59861,Larry Crowne,Drama,Comedy|Drama
+1613,133805,Carrie,Horror,Action|Horror
+1614,12763,Take the Lead,Action,Animation|NULL
+1615,9766,Gridiron Gang,Action,Action|Drama
+1616,14034,What's the Worst That Could Happen?,Action,Action|Comedy
+1617,12244,9,Animation,Animation|Drama
+1618,109421,Side Effects,Action,Action|Drama
+1619,11137,The Prince & Me,Comedy,Comedy|Drama
+1620,51162,Winnie the Pooh,Animation,Animation|NULL
+1621,10152,Dumb and Dumberer: When Harry Met Lloyd,Comedy,Animation|Comedy
+1622,9452,Bulworth,Comedy,Comedy|Drama
+1623,239566,Get on Up,Drama,Drama|NULL
+1624,53113,One True Thing,Drama,Drama|NULL
+1625,9271,Virtuosity,Action,Action|Drama
+1626,4474,My Super Ex-Girlfriend,Action,Action|Drama
+1627,184346,Deliver Us from Evil,Horror,Action|Horror
+1628,48340,Sanctum,Action,Action|Drama
+1629,14846,Little Black Book,Drama,Comedy|Drama
+1630,72207,The Five-Year Engagement,Comedy,Animation|Comedy
+1631,16232,Mr. 3000,Comedy,Comedy|Drama
+1632,43539,The Next Three Days,Drama,Action|Drama
+1633,9920,Ultraviolet,Action,Action|Drama
+1634,8978,Assault on Precinct 13,Drama,Drama|NULL
+1635,11702,The Replacement Killers,Action,Action|Drama
+1636,18550,Fled,Action,Comedy|Drama
+1637,8869,Eight Legged Freaks,Horror,Action|Horror
+1638,43347,Love & Other Drugs,Drama,Comedy|Drama
+1639,3489,88 Minutes,Action,Action|Drama
+1640,9701,North Country,Drama,Drama|NULL
+1641,2122,The Whole Ten Yards,Action,Action|Drama
+1642,37707,Splice,Horror,Action|Horror
+1643,10658,Howard the Duck,Action,Action|Drama
+1644,13150,Pride and Glory,Action,Action|Drama
+1645,9042,The Cave,Horror,Action|Horror
+1646,17813,Alex & Emma,Comedy,Comedy|Drama
+1647,11208,Wicker Park,Drama,Drama|NULL
+1648,58151,Fright Night,Horror,Action|Horror
+1649,11400,The New World,Drama,Drama|War
+1650,10350,Wing Commander,Action,Action|Drama
+1651,28902,In Dreams,Drama,Drama|NULL
+1652,14164,Dragonball Evolution,Action,Action|Drama
+1653,76640,The Last Stand,Action,Action|Drama
+1654,11058,Godsend,Horror,Action|Horror
+1655,14844,Chasing Liberty,Comedy,Comedy|Drama
+1656,57089,Hoodwinked Too! Hood VS. Evil,Animation,Animation|Comedy
+1657,1947,An Unfinished Life,Drama,Drama|NULL
+1658,8054,The Imaginarium of Doctor Parnassus,Action,Action|Drama
+1659,46829,Barney's Version,Comedy,Comedy|Drama
+1660,146238,Runner Runner,Action,Action|Drama
+1661,9989,Antitrust,Action,Action|Drama
+1662,9665,Glory,War,Animation|War
+1663,311,Once Upon a Time in America,Action,Action|Drama
+1664,102362,Dead Man Down,Action,Action|Drama
+1665,11162,The Merchant of Venice,Drama,Drama|NULL
+1666,6016,The Good Thief,Action,Action|Drama
+1667,17186,Supercross,Drama,Action|Drama
+1668,13967,Miss Potter,Drama,Drama|NULL
+1669,2008,Wu Ji,Drama,Action|Drama
+1670,9053,DOA: Dead or Alive,Drama,Action|Drama
+1671,4512,The Assassination of Jesse James by the Coward Robert Ford,Action,Action|Drama
+1672,76349,辛亥革命,Drama,Drama|War
+1673,31203,Le petit Nicolas,Comedy,Animation|Comedy
+1674,265208,Wild Card,Action,Action|Drama
+1675,45610,Machine Gun Preacher,Action,Action|Drama
+1676,50135,Konferenz der Tiere,Animation,Animation|Comedy
+1677,1874,Goodbye Bafana,Drama,Drama|War
+1678,271331,United Passions,Drama,Drama|NULL
+1679,215211,Grace of Monaco,Drama,Drama|NULL
+1680,367961,Савва. Сердце воина,Animation,Animation|Drama
+1681,10955,Ripley's Game,Action,Action|Drama
+1682,223702,Sausage Party,Animation,Animation|Drama
+1683,254470,Pitch Perfect 2,Comedy,Animation|Comedy
+1684,69,Walk the Line,Drama,Drama|NULL
+1685,4967,Keeping the Faith,Comedy,Animation|Comedy
+1686,9449,The Borrowers,Action,Action|Drama
+1687,11499,Frost/Nixon,Drama,Drama|War
+1688,4912,Confessions of a Dangerous Mind,Drama,Action|Drama
+1689,12771,Serving Sara,Comedy,Comedy|Drama
+1690,323676,The Boss,Comedy,Animation|Comedy
+1691,12506,Cry Freedom,Drama,Drama|NULL
+1692,24071,Mumford,Drama,Comedy|Drama
+1693,11249,Seed of Chucky,Horror,Action|Horror
+1694,9667,The Jacket,Drama,Action|Drama
+1695,812,Aladdin,Animation,Animation|Drama
+1696,277216,Straight Outta Compton,Drama,Drama|NULL
+1697,87,Indiana Jones and the Temple of Doom,Action,Action|Drama
+1698,14444,The Rugrats Movie,Animation,Animation|NULL
+1699,2043,Along Came a Spider,Action,Action|Drama
+1700,315664,Florence Foster Jenkins,Comedy,Comedy|Drama
+1701,1428,Once Upon a Time in Mexico,Action,Action|NULL
+1702,562,Die Hard,Action,Action|Drama
+1703,15373,Role Models,Comedy,Animation|Comedy
+1704,318846,The Big Short,Comedy,Comedy|Drama
+1705,26320,Taking Woodstock,Comedy,Comedy|Drama
+1706,14292,Miracle,Drama,Drama|War
+1707,924,Dawn of the Dead,Horror,Action|Horror
+1708,2018,The Wedding Planner,Comedy,Animation|Comedy
+1709,192577,キャプテンハーロック,Animation,Action|Animation
+1710,9428,The Royal Tenenbaums,Comedy,Comedy|Drama
+1711,2832,Identity,Drama,Drama|NULL
+1712,137093,Last Vegas,Comedy,Animation|Comedy
+1713,699,For Your Eyes Only,Drama,Action|Drama
+1714,9778,Serendipity,Comedy,Comedy|Drama
+1715,8831,Timecop,Action,Action|Drama
+1716,9398,Zoolander,Comedy,Animation|Comedy
+1717,112949,Safe Haven,Drama,Drama|NULL
+1718,10439,Hocus Pocus,Action,Action|Comedy
+1719,3638,No Reservations,Comedy,Animation|Comedy
+1720,23483,Kick-Ass,Action,Action|Drama
+1721,62206,30 Minutes or Less,Action,Action|Drama
+1722,10577,Dracula 2000,Horror,Action|Horror
+1723,218778,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Comedy,Animation|Comedy
+1724,4348,Pride & Prejudice,Drama,Drama|NULL
+1725,78,Blade Runner,Drama,Action|Drama
+1726,11780,Rob Roy,Drama,Action|Drama
+1727,192102,3 Days to Kill,Action,Action|Drama
+1728,2001,We Own the Night,Action,Action|Drama
+1729,10383,Lost Souls,Horror,Action|Horror
+1730,11516,Le peuple migrateur,Action,Animation|NULL
+1731,10025,Just My Luck,Drama,Comedy|Drama
+1732,15198,"Mystery, Alaska",Comedy,Comedy|Drama
+1733,23172,The Spy Next Door,Action,Action|Comedy
+1734,17834,A Simple Wish,Action,Action|Drama
+1735,10016,Ghosts of Mars,Horror,Action|Horror
+1736,10317,Our Brand Is Crisis,Comedy,Comedy|Drama
+1737,58431,Pride and Prejudice and Zombies,Horror,Action|Horror
+1738,9746,Kundun,Drama,Drama|NULL
+1739,13092,How to Lose Friends & Alienate People,Drama,Comedy|Drama
+1740,59859,Kick-Ass 2,Action,Action|Drama
+1741,13495,Alatriste,Action,Action|NULL
+1742,254473,Brick Mansions,Action,Action|Drama
+1743,700,Octopussy,Drama,Action|Drama
+1744,4964,Knocked Up,Drama,Comedy|Drama
+1745,10024,My Sister's Keeper,Drama,Drama|NULL
+1746,13490,Welcome Home Roscoe Jenkins,Comedy,Comedy|Drama
+1747,15927,A Passage to India,Drama,Drama|War
+1748,1259,Notes on a Scandal,Drama,Drama|NULL
+1749,5125,Rendition,Drama,Drama|NULL
+1750,174,Star Trek VI: The Undiscovered Country,Action,Action|Drama
+1751,9583,Divine Secrets of the Ya-Ya Sisterhood,Drama,Comedy|Drama
+1752,9437,Kiss the Girls,Action,Action|Drama
+1753,525,The Blues Brothers,Action,Action|Drama
+1754,10188,The Sisterhood of the Traveling Pants 2,Drama,Comedy|Drama
+1755,63574,Joyful Noise,Comedy,Animation|Comedy
+1756,245,About a Boy,Drama,Comedy|Drama
+1757,9825,Lake Placid,Horror,Action|Horror
+1758,186,Lucky Number Slevin,Action,Action|Drama
+1759,9549,The Right Stuff,Drama,Drama|War
+1760,61891,Anonymous,Drama,Drama|War
+1761,34584,The Neverending Story,Drama,Action|Drama
+1762,2666,Dark City,Action,Action|Drama
+1763,12783,The Duchess,Drama,Drama|War
+1764,13155,Return to Oz,Action,Action|Drama
+1765,42807,The Newton Boys,Action,Action|Drama
+1766,28355,Case 39,Horror,Action|Horror
+1767,8080,Suspect Zero,Action,Action|Drama
+1768,5126,Martian Child,Drama,Drama|NULL
+1769,56288,Spy Kids: All the Time in the World,Action,Action|Comedy
+1770,303858,Money Monster,Drama,Drama|NULL
+1771,1613,The 51st State,Action,Action|Drama
+1772,31582,Flawless,Comedy,Comedy|Drama
+1773,16617,Mindhunters,Action,Action|Drama
+1774,8944,What Just Happened,Comedy,Comedy|Drama
+1775,41488,The Statement,Drama,Drama|NULL
+1776,37028,The Magic Flute,Comedy,Comedy|Drama
+1777,14560,Paul Blart: Mall Cop,Action,Action|Drama
+1778,10330,Freaky Friday,Comedy,Animation|Comedy
+1779,6957,The 40 Year Old Virgin,Comedy,Comedy|Drama
+1780,1934,Shakespeare in Love,Drama,Drama|War
+1781,169917,A Walk Among the Tombstones,Action,Action|Drama
+1782,951,Kindergarten Cop,Comedy,Animation|Comedy
+1783,10189,Pineapple Express,Action,Action|Comedy
+1784,9454,EverAfter,Drama,Comedy|Drama
+1785,2055,Open Range,Action,Action|NULL
+1786,1551,Flatliners,Horror,Action|Horror
+1787,5902,A Bridge Too Far,War,Drama|War
+1788,11460,Red Eye,Horror,Action|Horror
+1789,9358,Final Destination 2,Horror,Action|Horror
+1790,134,"O Brother, Where Art Thou?",Action,Action|Drama
+1791,22894,Legion,Horror,Action|Horror
+1792,134374,Pain & Gain,Action,Action|Drama
+1793,1901,In Good Company,Drama,Comedy|Drama
+1794,15028,Clockstoppers,Drama,Action|Drama
+1795,11509,Silverado,Action,Action|Drama
+1796,7445,Brothers,Drama,Drama|War
+1797,17047,Agent Cody Banks 2: Destination London,Comedy,Animation|Comedy
+1798,62838,New Year's Eve,Comedy,Comedy|Drama
+1799,2057,Original Sin,Drama,Drama|NULL
+1800,70436,The Raven,Action,Action|Drama
+1801,16784,Welcome to Mooseport,Comedy,Animation|Comedy
+1802,8011,Highlander III: The Sorcerer,Action,Action|Drama
+1803,31640,Blood and Wine,Action,Action|Drama
+1804,9092,Snow White: A Tale of Terror,Horror,Action|Horror
+1805,2779,The Curse of the Jade Scorpion,Action,Action|Drama
+1806,316002,Accidental Love,Comedy,Comedy|Drama
+1807,36355,Flipper,Drama,Action|Drama
+1808,238615,Self/less,Action,Action|Drama
+1809,1985,The Constant Gardener,Drama,Drama|NULL
+1810,615,The Passion of the Christ,Drama,Drama|NULL
+1811,788,Mrs. Doubtfire,Comedy,Comedy|Drama
+1812,380,Rain Man,Drama,Drama|NULL
+1813,13223,Gran Torino,Drama,Drama|NULL
+1814,10523,W.,Drama,Drama|War
+1815,8681,Taken,Action,Action|Drama
+1816,239571,The Best of Me,Drama,Drama|NULL
+1817,619,The Bodyguard,Drama,Action|Drama
+1818,424,Schindler's List,War,Drama|War
+1819,50014,The Help,Drama,Drama|NULL
+1820,162903,The Fifth Estate,Drama,Drama|NULL
+1821,11024,Scooby-Doo 2: Monsters Unleashed,Action,Action|Drama
+1822,208763,Viy,Drama,Action|Drama
+1823,6466,Freddy vs. Jason,Horror,Action|Horror
+1824,254024,The Face of an Angel,Drama,Drama|NULL
+1825,12589,Jimmy Neutron: Boy Genius,Animation,Action|Animation
+1826,7191,Cloverfield,Action,Action|Drama
+1827,1497,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,Action,Action|Drama
+1828,117,The Untouchables,Action,Action|Drama
+1829,6977,No Country for Old Men,Action,Action|Drama
+1830,168530,Ride Along,Action,Action|Comedy
+1831,634,Bridget Jones's Diary,Drama,Comedy|Drama
+1832,392,Chocolat,Drama,Comedy|Drama
+1833,10327,"Legally Blonde 2: Red, White & Blonde",Comedy,Animation|Comedy
+1834,88042,Parental Guidance,Comedy,Animation|Comedy
+1835,41630,No Strings Attached,Comedy,Comedy|Drama
+1836,11969,Tombstone,Action,Action|Drama
+1837,2085,Romeo Must Die,Action,Action|Drama
+1838,794,The Omen,Horror,Action|Horror
+1839,9286,Final Destination 3,Horror,Action|Horror
+1840,77877,The Lucky One,Drama,Drama|NULL
+1841,1265,Bridge to Terabithia,Drama,Action|Drama
+1842,866,Finding Neverland,Drama,Drama|NULL
+1843,175555,A Madea Christmas,Comedy,Comedy|Drama
+1844,75174,The Grey,Drama,Action|Drama
+1845,11096,Hide and Seek,Horror,Action|Horror
+1846,8699,Anchorman: The Legend of Ron Burgundy,Comedy,Animation|Comedy
+1847,769,GoodFellas,Action,Action|Drama
+1848,10923,Agent Cody Banks,Action,Action|NULL
+1849,11283,Nanny McPhee,Action,Action|Comedy
+1850,111,Scarface,Action,Action|Drama
+1851,11676,Nothing to Lose,Action,Action|Drama
+1852,746,The Last Emperor,Drama,Drama|War
+1853,77866,Contraband,Action,Action|Drama
+1854,9416,Money Talks,Action,Action|Drama
+1855,7345,There Will Be Blood,Drama,Drama|NULL
+1856,14317,The Wild Thornberrys Movie,Animation,Animation|Drama
+1857,20694,Rugrats Go Wild,Animation,Animation|NULL
+1858,12277,Undercover Brother,Action,Action|Comedy
+1859,9779,The Sisterhood of the Traveling Pants,Comedy,Comedy|Drama
+1860,2140,Kiss of the Dragon,Action,Action|Drama
+1861,12620,The House Bunny,Comedy,Comedy|Drama
+1862,14177,Beauty Shop,Comedy,Comedy|Drama
+1863,198185,Million Dollar Arm,Drama,Drama|NULL
+1864,227156,The Giver,Action,Action|Drama
+1865,10735,What a Girl Wants,Comedy,Animation|Comedy
+1866,11351,Jeepers Creepers 2,Horror,Action|Horror
+1867,10030,Good Luck Chuck,Drama,Comedy|Drama
+1868,10623,Cradle 2 the Grave,Action,Action|Drama
+1869,590,The Hours,Drama,Drama|NULL
+1870,9655,She's the Man,Drama,Comedy|Drama
+1871,1268,Mr. Bean's Holiday,Comedy,Animation|Comedy
+1872,11237,Anacondas: The Hunt for the Blood Orchid,Horror,Action|Horror
+1873,190955,Blood Ties,Action,Action|Drama
+1874,5123,August Rush,Drama,Drama|NULL
+1875,4518,Elizabeth,Drama,Drama|War
+1876,11932,Bride of Chucky,Horror,Action|Horror
+1877,11165,Tora! Tora! Tora!,Drama,Drama|War
+1878,6116,Spice World,Drama,Action|Drama
+1879,57431,The Sitter,Comedy,Animation|Comedy
+1880,21724,Dance Flick,Action,Action|Comedy
+1881,278,The Shawshank Redemption,Action,Action|Drama
+1882,9290,Crocodile Dundee in Los Angeles,Drama,Comedy|Drama
+1883,11543,Kingpin,Comedy,Animation|Comedy
+1884,284536,The Gambler,Action,Action|Drama
+1885,152737,August: Osage County,Comedy,Comedy|Drama
+1886,13374,Ice Princess,Comedy,Comedy|Drama
+1887,8976,A Lot Like Love,Comedy,Animation|Comedy
+1888,319888,Eddie the Eagle,Comedy,Drama|War
+1889,9469,He Got Game,Drama,Drama|NULL
+1890,1909,Don Juan DeMarco,Drama,Comedy|Drama
+1891,22971,Dear John,Drama,Drama|War
+1892,34813,The Losers,Action,Action|Drama
+1893,46261,Don't Be Afraid of the Dark,Horror,Action|Horror
+1894,10431,War,Action,Action|Drama
+1895,8051,Punch-Drunk Love,Drama,Comedy|Drama
+1896,9352,EuroTrip,Comedy,Animation|Comedy
+1897,10167,Half Past Dead,Action,Action|Drama
+1898,18147,Unaccompanied Minors,Comedy,Animation|Comedy
+1899,17170,"Bright Lights, Big City",Drama,Drama|NULL
+1900,18975,The Adventures of Pinocchio,Animation,Action|Animation
+1901,15487,The Greatest Game Ever Played,Drama,Drama|NULL
+1902,22825,The Box,Action,Action|Drama
+1903,11152,The Ruins,Horror,Action|Horror
+1904,1831,The Next Best Thing,Comedy,Animation|Comedy
+1905,43931,My Soul to Take,Horror,Action|Horror
+1906,10591,The Girl Next Door,Comedy,Animation|Comedy
+1907,10861,Maximum Risk,Drama,Action|Drama
+1908,12770,Stealing Harvard,Action,Comedy|Drama
+1909,276907,Legend,Action,Action|Drama
+1910,10074,Hot Rod,Action,Action|Comedy
+1911,65055,Shark Night,Horror,Action|Horror
+1912,10397,Angela's Ashes,Drama,Drama|NULL
+1913,200505,Draft Day,Drama,Drama|NULL
+1914,11954,Lifeforce,Horror,Action|Horror
+1915,60309,The Conspirator,Action,Action|Drama
+1916,9787,Lords of Dogtown,Drama,Drama|NULL
+1917,293646,The 33,Drama,Drama|War
+1918,6978,Big Trouble in Little China,Action,Action|Drama
+1919,133698,Un Plan parfait,Comedy,Comedy|Drama
+1920,59440,Warrior,Action,Action|Drama
+1921,1770,Michael Collins,Drama,Drama|NULL
+1922,10655,Gettysburg,War,Drama|War
+1923,8988,Stop-Loss,Drama,Drama|War
+1924,15992,Abandon,Drama,Drama|NULL
+1925,17707,Brokedown Palace,Drama,Drama|NULL
+1926,77883,The Possession,Horror,Action|Horror
+1927,40001,Mrs. Winterbourne,Drama,Comedy|Drama
+1928,64639,Straw Dogs,Drama,Drama|NULL
+1929,9903,The Hoax,Comedy,Comedy|Drama
+1930,21338,Stone Cold,Action,Action|Drama
+1931,20766,The Road,Drama,Action|Drama
+1932,24264,Sheena,Action,Action|Drama
+1933,19803,Underclassman,Action,Action|Comedy
+1934,20309,Say It Isn't So,Comedy,Comedy|Drama
+1935,9912,The World's Fastest Indian,Drama,Drama|NULL
+1936,9067,Tank Girl,Action,Action|Drama
+1937,27360,King's Ransom,Action,Action|Drama
+1938,8338,Blindness,Drama,Action|Drama
+1939,168705,BloodRayne,Horror,Action|Horror
+1940,72113,Carnage,Comedy,Comedy|Drama
+1941,9729,Where the Truth Lies,Drama,Drama|NULL
+1942,94352,Cirque du Soleil: Worlds Away,Action,Action|NULL
+1943,22256,Without Limits,Drama,Drama|NULL
+1944,12404,Me and Orson Welles,Drama,Comedy|Drama
+1945,152742,La migliore offerta,Action,Action|Drama
+1946,11699,The Bad Lieutenant: Port of Call - New Orleans,Action,Action|Drama
+1947,49953,Sammy's avonturen: De geheime doorgang,Animation,Animation|NULL
+1948,48034,Les petits mouchoirs,Comedy,Comedy|Drama
+1949,39845,Love Ranch,Drama,Drama|NULL
+1950,25353,La véritable histoire du Chat Botté,Animation,Animation|Drama
+1951,36696,Белка и Стрелка. Звёздные собаки,Animation,Animation|NULL
+1952,109091,The Counselor,Action,Action|Drama
+1953,38543,Ironclad,Drama,Action|Drama
+1954,33157,Waterloo,Action,Drama|War
+1955,290864,一個人的武林,Action,Action|Drama
+1956,242166,Red Sky,Action,Action|Drama
+1957,859,Dangerous Liaisons,Drama,Drama|NULL
+1958,83770,On the Road,Drama,Action|Drama
+1959,168,Star Trek IV: The Voyage Home,Action,Action|Drama
+1960,1246,Rocky Balboa,Drama,Drama|NULL
+1961,4233,Scream 2,Horror,Action|Horror
+1962,174751,Jane Got a Gun,Action,Action|Drama
+1963,184098,Think Like a Man Too,Comedy,Comedy|Drama
+1964,2069,The Whole Nine Yards,Action,Action|Drama
+1965,1788,Footloose,Drama,Drama|NULL
+1966,11635,Old School,Comedy,Animation|Comedy
+1967,177,The Fisher King,Comedy,Comedy|Drama
+1968,3600,I Still Know What You Did Last Summer,Horror,Action|Horror
+1969,2621,Return to Me,Drama,Comedy|Drama
+1970,10358,Zack and Miri Make a Porno,Comedy,Animation|Comedy
+1971,10480,Nurse Betty,Action,Action|Drama
+1972,10313,The Men Who Stare at Goats,Comedy,Comedy|War
+1973,18828,Double Take,Drama,Action|Drama
+1974,3558,"Girl, Interrupted",Drama,Drama|NULL
+1975,13476,Win a Date with Tad Hamilton!,Comedy,Comedy|Drama
+1976,10208,Muppets from Space,Action,Action|Drama
+1977,24961,The Wiz,Action,Action|Drama
+1978,20697,Ready to Rumble,Action,Comedy|Drama
+1979,20761,Play It to the Bone,Comedy,Comedy|Drama
+1980,70868,I Don't Know How She Does It,Comedy,Comedy|Drama
+1981,43593,Piranha 3D,Horror,Action|Horror
+1982,6478,Beyond the Sea,Drama,Drama|NULL
+1983,40688,Meet the Deedles,Animation,Animation|Comedy
+1984,26672,The Thief and the Cobbler,Animation,Action|Animation
+1985,45881,The Bridge of San Luis Rey,Drama,Drama|NULL
+1986,41283,Faster,Action,Action|Drama
+1987,4935,ハウルの動く城,Animation,Animation|Drama
+1988,19908,Zombieland,Horror,Action|Horror
+1989,10663,The Waterboy,Comedy,Animation|Comedy
+1990,1891,The Empire Strikes Back,Action,Action|Drama
+1991,9737,Bad Boys,Action,Action|Drama
+1992,37137,The Naked Gun 2½: The Smell of Fear,Action,Action|Drama
+1993,9532,Final Destination,Horror,Action|Horror
+1994,10316,The Ides of March,Drama,Drama|NULL
+1995,2787,Pitch Black,Action,Action|Drama
+1996,12658,Someone Like You...,Comedy,Comedy|Drama
+1997,152601,Her,Drama,Action|Drama
+1998,10866,Joy Ride,Drama,Drama|NULL
+1999,227707,The Adventurer: The Curse of the Midas Box,Action,Action|Drama
+2000,21349,Anywhere But Here,Drama,Comedy|Drama
+2001,19150,The Crew,Action,Action|Comedy
+2002,70435,Haywire,Action,Action|Drama
+2003,580,Jaws: The Revenge,Drama,Action|Drama
+2004,9819,Marvin's Room,Drama,Drama|NULL
+2005,13579,The Longshots,Drama,Drama|NULL
+2006,20024,The End of the Affair,Drama,Drama|NULL
+2007,2453,Harley Davidson and the Marlboro Man,Action,Action|Drama
+2008,6973,In the Valley of Elah,Action,Action|Drama
+2009,11156,Coco avant Chanel,Drama,Drama|War
+2010,354110,Forsaken,Action,Action|Drama
+2011,22215,Chéri,Drama,Comedy|Drama
+2012,11632,Vanity Fair,Drama,Drama|NULL
+2013,30596,十月圍城,Action,Drama|War
+2014,3021,1408,Horror,Action|Horror
+2015,957,Spaceballs,Action,Action|Drama
+2016,256917,The Water Diviner,Drama,Drama|War
+2017,251,Ghost,Drama,Action|Drama
+2018,544,There's Something About Mary,Comedy,Comedy|Drama
+2019,11395,The Santa Clause,Action,Comedy|Drama
+2020,14635,The Rookie,Drama,Drama|NULL
+2021,13680,The Game Plan,Comedy,Animation|Comedy
+2022,688,The Bridges of Madison County,Drama,Drama|NULL
+2023,11090,The Animal,Action,Action|Comedy
+2024,783,Gandhi,Drama,Drama|War
+2025,228194,The Hundred-Foot Journey,Drama,Drama|NULL
+2026,1642,The Net,Action,Action|Drama
+2027,10950,I Am Sam,Drama,Drama|NULL
+2028,235260,Son of God,Drama,Drama|NULL
+2029,277,Underworld,Action,Action|Drama
+2030,8999,Derailed,Drama,Drama|NULL
+2031,11323,The Informant!,Action,Action|Drama
+2032,10445,Shadowlands,Drama,Drama|NULL
+2033,11453,Deuce Bigalow: European Gigolo,Comedy,Animation|Comedy
+2034,146239,Delivery Man,Comedy,Animation|Comedy
+2035,205588,Our Kind of Traitor,Drama,Drama|NULL
+2036,10878,Saving Silverman,Action,Action|Drama
+2037,82650,Diary of a Wimpy Kid: Dog Days,Comedy,Animation|Comedy
+2038,10279,Summer of Sam,Drama,Action|Drama
+2039,2294,Jay and Silent Bob Strike Back,Comedy,Animation|Comedy
+2040,2176,The Glass House,Drama,Drama|NULL
+2041,270487,"Hail, Caesar!",Comedy,Comedy|Drama
+2042,19366,Josie and the Pussycats,Comedy,Animation|Comedy
+2043,204082,Homefront,Action,Action|Drama
+2044,24100,The Little Vampire,Horror,Action|Horror
+2045,1599,I Heart Huckabees,Comedy,Comedy|Drama
+2046,5550,RoboCop 3,Action,Action|Drama
+2047,30379,Megiddo: The Omega Code 2,Action,Action|Drama
+2048,42586,Darling Lili,Drama,Comedy|Drama
+2049,17709,Dudley Do-Right,Comedy,Comedy|Drama
+2050,287948,The Transporter Refueled,Action,Action|Drama
+2051,7548,The Libertine,Drama,Drama|NULL
+2052,9075,Zwartboek,Drama,Drama|War
+2053,11661,Joyeux Noël,Drama,Drama|War
+2054,109513,Hit & Run,Action,Comedy|Drama
+2055,12085,Mad Money,Action,Action|Drama
+2056,204922,Before I Go to Sleep,Drama,Drama|NULL
+2057,38985,Sorcerer,Drama,Action|Drama
+2058,44113,Stone,Drama,Drama|NULL
+2059,21494,Molière,Drama,Comedy|Drama
+2060,164457,Out of the Furnace,Action,Action|Drama
+2061,4566,Michael Clayton,Action,Action|Drama
+2062,17795,My Fellow Americans,Comedy,Comedy|Drama
+2063,1073,Arlington Road,Drama,Drama|NULL
+2064,153158,Metegol,Animation,Animation|Drama
+2065,81836,To Rome with Love,Comedy,Comedy|Drama
+2066,10724,Firefox,Action,Action|Drama
+2067,9473,"South Park: Bigger, Longer & Uncut",Animation,Animation|Comedy
+2068,2196,Death at a Funeral,Comedy,Comedy|Drama
+2069,1499,Teenage Mutant Ninja Turtles III,Action,Action|Drama
+2070,20857,Hardball,Comedy,Comedy|Drama
+2071,82693,Silver Linings Playbook,Drama,Comedy|Drama
+2072,1646,Freedom Writers,Action,Action|Drama
+2073,44944,For Colored Girls,Drama,Drama|NULL
+2074,4108,The Transporter,Action,Action|Drama
+2075,8456,Never Back Down,Action,Action|Drama
+2076,7341,The Rage: Carrie 2,Horror,Action|Horror
+2077,19255,Away We Go,Drama,Comedy|Drama
+2078,10187,Swing Vote,Comedy,Comedy|Drama
+2079,31005,Moonlight Mile,Drama,Drama|NULL
+2080,49517,Tinker Tailor Soldier Spy,Drama,Drama|NULL
+2081,44857,Molly,Drama,Comedy|Drama
+2082,50780,The Beaver,Drama,Drama|NULL
+2083,16363,The Best Little Whorehouse in Texas,Comedy,Animation|Comedy
+2084,1946,eXistenZ,Horror,Action|Horror
+2085,85,Raiders of the Lost Ark,Action,Action|Drama
+2086,772,Home Alone 2: Lost in New York,Action,Action|Drama
+2087,840,Close Encounters of the Third Kind,Action,Action|Drama
+2088,9682,Pulse,Horror,Action|Horror
+2089,96,Beverly Hills Cop II,Action,Action|Drama
+2090,10678,Bringing Down the House,Comedy,Animation|Comedy
+2091,274,The Silence of the Lambs,Action,Action|Drama
+2092,8872,Wayne's World,Comedy,Animation|Comedy
+2093,16290,Jackass 3D,Action,Action|Comedy
+2094,579,Jaws 2,Horror,Action|Horror
+2095,14405,Beverly Hills Chihuahua,Drama,Comedy|Drama
+2096,138843,The Conjuring,Horror,Action|Horror
+2097,11637,Are We There Yet?,Drama,Comedy|Drama
+2098,226486,Tammy,Comedy,Animation|Comedy
+2099,1584,School of Rock,Comedy,Animation|Comedy
+2100,9312,Mortal Kombat,Action,Action|NULL
+2101,12153,White Chicks,Comedy,Animation|Comedy
+2102,65057,The Descendants,Comedy,Comedy|Drama
+2103,8326,Holes,Drama,Comedy|Drama
+2104,35690,The Last Song,Drama,Drama|NULL
+2105,76203,12 Years a Slave,Drama,Drama|War
+2106,13497,Drumline,Drama,Comedy|Drama
+2107,35688,Why Did I Get Married Too?,Comedy,Comedy|Drama
+2108,162,Edward Scissorhands,Drama,Action|Drama
+2109,296096,Me Before You,Drama,Drama|NULL
+2110,103370,Madea's Witness Protection,Action,Action|Drama
+2111,1051,The French Connection,Action,Action|Drama
+2112,376659,Bad Moms,Comedy,Animation|Comedy
+2113,10073,Date Movie,Comedy,Animation|Comedy
+2114,16690,Return to Never Land,Animation,Animation|Drama
+2115,273895,Selma,Drama,Drama|War
+2116,14873,The Jungle Book 2,Animation,Animation|Drama
+2117,8968,Boogeyman,Horror,Action|Horror
+2118,9963,Premonition,Drama,Drama|NULL
+2119,15655,The Tigger Movie,Animation,Animation|NULL
+2120,21208,Orphan,Horror,Action|Horror
+2121,272878,Max,Drama,Action|Drama
+2122,9760,Epic Movie,Action,Action|Drama
+2123,314365,Spotlight,Drama,Drama|War
+2124,13279,Lakeview Terrace,Action,Action|Drama
+2125,1975,The Grudge 2,Horror,Action|Horror
+2126,33644,How Stella Got Her Groove Back,Drama,Comedy|Drama
+2127,1649,Bill & Ted's Bogus Journey,Action,Action|Drama
+2128,9895,Man of the Year,Drama,Comedy|Drama
+2129,9570,The Black Hole,Action,Action|Drama
+2130,27579,The American,Action,Action|Drama
+2131,16052,Selena,Drama,Drama|NULL
+2132,40264,Vampires Suck,Horror,Action|Horror
+2133,1164,Babel,Drama,Drama|NULL
+2134,239678,This Is Where I Leave You,Comedy,Comedy|Drama
+2135,14359,Doubt,Drama,Drama|NULL
+2136,3989,Team America: World Police,Animation,Animation|Drama
+2137,76617,Texas Chainsaw 3D,Horror,Action|Horror
+2138,1710,Copycat,Drama,Drama|NULL
+2139,4258,Scary Movie 5,Comedy,Animation|Comedy
+2140,20391,Paint Your Wagon,Action,Action|Drama
+2141,10139,Milk,Drama,Drama|War
+2142,335778,Risen,Action,Action|NULL
+2143,9645,Ghost Ship,Horror,Action|Horror
+2144,55465,A Very Harold & Kumar Christmas,Comedy,Animation|Comedy
+2145,617,Wild Things,Action,Action|Drama
+2146,19904,The Stepfather,Horror,Action|Horror
+2147,48289,The Debt,Drama,Drama|NULL
+2148,243,High Fidelity,Drama,Comedy|Drama
+2149,6933,One Missed Call,Horror,Action|Horror
+2150,17182,Eye for an Eye,Drama,Drama|NULL
+2151,8848,The Bank Job,Action,Action|Drama
+2152,38,Eternal Sunshine of the Spotless Mind,Drama,Action|Drama
+2153,38303,You Again,Comedy,Comedy|Drama
+2154,1266,Street Kings,Action,Action|Drama
+2155,107985,The World's End,Action,Action|Drama
+2156,14043,Nancy Drew,Action,Action|Drama
+2157,19901,Daybreakers,Horror,Action|Horror
+2158,34016,She's Out of My League,Comedy,Comedy|Drama
+2159,59860,Monte Carlo,Drama,Comedy|Drama
+2160,10069,Stay Alive,Horror,Action|Horror
+2161,9588,Quigley Down Under,Drama,Action|Drama
+2162,12819,Alpha and Omega,Animation,Animation|NULL
+2163,9954,The Covenant,Horror,Action|Horror
+2164,10115,Stick It,Comedy,Comedy|Drama
+2165,25132,Shorts,Comedy,Animation|Comedy
+2166,577,To Die For,Drama,Comedy|Drama
+2167,328387,Nerve,Action,Action|Drama
+2168,12690,Appaloosa,Action,Action|Drama
+2169,9945,Vampires,Horror,Action|Horror
+2170,539,Psycho,Horror,Action|Horror
+2171,13596,My Best Friend's Girl,Comedy,Comedy|Drama
+2172,226857,Endless Love,Drama,Drama|NULL
+2173,13159,Georgia Rule,Drama,Comedy|Drama
+2174,47941,Under the Rainbow,Comedy,Animation|Comedy
+2175,526,Ladyhawke,Drama,Action|Drama
+2176,22796,Simon Birch,Comedy,Comedy|Drama
+2177,2355,Reign Over Me,Drama,Drama|NULL
+2178,5915,Into the Wild,Drama,Action|Drama
+2179,9842,School for Scoundrels,Drama,Comedy|Drama
+2180,61012,Silent Hill: Revelation 3D,Horror,Action|Horror
+2181,755,From Dusk Till Dawn,Horror,Action|Horror
+2182,13682,Pooh's Heffalump Movie,Animation,Animation|NULL
+2183,9089,Home for the Holidays,Drama,Comedy|Drama
+2184,9470,功夫,Action,Action|Drama
+2185,18357,The Country Bears,Drama,Comedy|Drama
+2186,7979,The Kite Runner,Drama,Drama|NULL
+2187,470,21 Grams,Action,Action|Drama
+2188,15644,Paparazzi,Drama,Action|Drama
+2189,9582,A Guy Thing,Comedy,Comedy|Drama
+2190,10642,Loser,Drama,Comedy|Drama
+2191,22074,Capitalism: A Love Story,Action,Animation|NULL
+2192,2428,The Greatest Story Ever Told,Drama,Drama|War
+2193,290751,Secret in Their Eyes,Action,Action|Drama
+2194,13805,Disaster Movie,Action,Action|Comedy
+2195,4597,Armored,Action,Action|Drama
+2196,9414,The Man Who Knew Too Little,Action,Action|Drama
+2197,63492,What's Your Number?,Comedy,Comedy|Drama
+2198,81796,Lockout,Action,Action|Drama
+2199,10710,Envy,Comedy,Animation|Comedy
+2200,15092,Crank: High Voltage,Action,Action|Drama
+2201,11382,Bullets Over Broadway,Action,Comedy|Drama
+2202,15005,One Night with the King,Drama,Drama|NULL
+2203,8198,The Quiet American,Drama,Action|Drama
+2204,6963,The Weather Man,Comedy,Comedy|Drama
+2205,15070,Undisputed,Drama,Action|Drama
+2206,12797,Ghost Town,Action,Comedy|Drama
+2207,17134,12 Rounds,Drama,Action|Drama
+2208,41402,Let Me In,Horror,Action|Horror
+2209,18885,3 Ninjas Kick Back,Action,Action|Drama
+2210,4953,Be Kind Rewind,Comedy,Comedy|Drama
+2211,10773,Mrs Henderson Presents,Comedy,Comedy|Drama
+2212,146198,Triple 9,Action,Action|Drama
+2213,2639,Deconstructing Harry,Comedy,Comedy|Drama
+2214,10563,Three to Tango,Comedy,Comedy|Drama
+2215,295964,Burnt,Drama,Drama|NULL
+2216,5971,We're No Angels,Action,Action|Drama
+2217,9716,Everyone Says I Love You,Comedy,Comedy|Drama
+2218,11835,Death Sentence,Action,Action|Drama
+2219,26171,Everybody's Fine,Drama,Drama|NULL
+2220,31117,Superbabies: Baby Geniuses 2,Comedy,Animation|Comedy
+2221,9074,The Man,Action,Action|Drama
+2222,14396,Code Name: The Cleaner,Action,Action|Drama
+2223,15673,Connie and Carla,Comedy,Animation|Comedy
+2224,42618,Sweet Charity,Drama,Comedy|Drama
+2225,171274,Inherent Vice,Action,Action|Drama
+2226,24432,Doogal,Action,Animation|NULL
+2227,109417,Battle of the Year,Drama,Drama|NULL
+2228,13948,An American Carol,Action,Action|Comedy
+2229,106747,Machete Kills,Action,Action|Drama
+2230,10929,Willard,Horror,Action|Horror
+2231,14220,Strange Wilderness,Comedy,Animation|Comedy
+2232,46435,Topsy-Turvy,Comedy,Comedy|Drama
+2233,256962,Little Boy,Comedy,Drama|War
+2234,48231,A Dangerous Method,Drama,Drama|NULL
+2235,3509,A Scanner Darkly,Animation,Animation|Drama
+2236,82684,Chasing Mavericks,Drama,Drama|NULL
+2237,12142,Alone in the Dark,Horror,Action|Horror
+2238,23367,Bandslam,Comedy,Comedy|Drama
+2239,10740,Birth,Drama,Drama|NULL
+2240,241239,A Most Violent Year,Action,Action|Drama
+2241,14582,Passchendaele,Drama,Drama|War
+2242,14914,Flash of Genius,Drama,Drama|NULL
+2243,3902,I'm Not There.,Drama,Drama|NULL
+2244,77948,The Cold Light of Day,Action,Action|Drama
+2245,21755,The Brothers Bloom,Drama,Comedy|Drama
+2246,4960,"Synecdoche, New York",Drama,Drama|NULL
+2247,128,もののけ姫,Animation,Animation|Drama
+2248,14652,Bon voyage,Comedy,Comedy|Drama
+2249,40932,Can't Stop the Music,Comedy,Animation|Comedy
+2250,16608,The Proposition,Action,Action|Drama
+2251,334531,My All American,Drama,Drama|NULL
+2252,32316,Marci X,Comedy,Animation|Comedy
+2253,7299,Equilibrium,Action,Action|Drama
+2254,13405,黃石的孩子,Drama,Drama|War
+2255,19457,The Yards,Action,Action|Drama
+2256,112937,The Oogieloves in the Big Balloon Adventure,Action,Animation|NULL
+2257,314385,By the Sea,Drama,Drama|NULL
+2258,8953,Steamboy,Animation,Action|Animation
+2259,29078,The Game of Their Lives,Drama,Drama|NULL
+2260,46503,All Good Things,Drama,Action|Drama
+2261,10448,Rapa Nui,Drama,Action|Drama
+2262,13688,長江七號,Action,Action|Drama
+2263,10353,Les Visiteurs 2 : Les Couloirs du temps,Action,Action|Comedy
+2264,43935,Dylan Dog: Dead of Night,Horror,Action|Horror
+2265,11458,People I Know,Drama,Drama|NULL
+2266,44638,The Tempest,Action,Action|Drama
+2267,241257,Regression,Horror,Action|Horror
+2268,14538,三国之见龙卸甲,Action,Drama|War
+2269,13250,Butterfly on a Wheel,Action,Action|Drama
+2270,133931,Zambezia,Animation,Animation|Drama
+2271,280871,ராமானுஜன்,Drama,Drama|War
+2272,239897,Dwegons,Animation,Animation|NULL
+2273,184341,Hands of Stone,Drama,Drama|NULL
+2274,334074,Survivor,Drama,Drama|NULL
+2275,199373,The Frozen Ground,Action,Action|Drama
+2276,14202,The Painted Veil,Drama,Drama|NULL
+2277,6968,Der Baader Meinhof Komplex,Action,Action|Drama
+2278,581,Dances with Wolves,Drama,Action|Drama
+2279,52449,Bad Teacher,Comedy,Animation|Comedy
+2280,12150,Sea of Love,Action,Action|Drama
+2281,11247,A Cinderella Story,Comedy,Animation|Comedy
+2282,4232,Scream,Horror,Action|Horror
+2283,9378,Thir13en Ghosts,Horror,Action|Horror
+2284,694,The Shining,Horror,Action|Horror
+2285,105,Back to the Future,Action,Action|Drama
+2286,11377,House on Haunted Hill,Horror,Action|Horror
+2287,26367,I Can Do Bad All By Myself,Comedy,Comedy|Drama
+2288,385383,Fight Valley,Action,Action|Drama
+2289,41210,The Switch,Drama,Comedy|Drama
+2290,12090,Just Married,Comedy,Animation|Comedy
+2291,62630,The Devil's Double,Action,Action|Drama
+2292,16110,Thomas and the Magic Railroad,Animation,Animation|Drama
+2293,29427,The Crazies,Horror,Action|Horror
+2294,129,千と千尋の神隠し,Animation,Animation|Drama
+2295,244114,風暴,Action,Action|Drama
+2296,2669,The Bounty,Action,Drama|War
+2297,203833,The Book Thief,Drama,Drama|NULL
+2298,13523,Sex Drive,Drama,Comedy|Drama
+2299,25195,Leap Year,Comedy,Comedy|Drama
+2300,17277,The Fall of the Roman Empire,Drama,Drama|War
+2301,50725,Take Me Home Tonight,Drama,Comedy|Drama
+2302,82631,Won't Back Down,Drama,Drama|NULL
+2303,73191,The Nutcracker,Action,Action|NULL
+2304,22479,Kansas City,Action,Action|Drama
+2305,340611,Indignation,Drama,Drama|NULL
+2306,10065,The Amityville Horror,Horror,Action|Horror
+2307,2757,Adaptation.,Action,Action|Drama
+2308,11683,Land of the Dead,Horror,Action|Horror
+2309,244339,逃出生天,Action,Action|NULL
+2310,1878,Fear and Loathing in Las Vegas,Drama,Comedy|Drama
+2311,23082,The Invention of Lying,Action,Comedy|Drama
+2312,195589,Neighbors,Comedy,Animation|Comedy
+2313,854,The Mask,Action,Action|Drama
+2314,2280,Big,Drama,Comedy|Drama
+2315,496,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Comedy,Animation|Comedy
+2316,8835,Legally Blonde,Comedy,Animation|Comedy
+2317,157,Star Trek III: The Search for Spock,Action,Action|Drama
+2318,8643,The Exorcism of Emily Rose,Horror,Action|Horror
+2319,10402,Deuce Bigalow: Male Gigolo,Comedy,Animation|Comedy
+2320,218043,Left Behind,Action,Action|Drama
+2321,9043,The Family Stone,Drama,Comedy|Drama
+2322,21301,Barbershop 2:  Back in Business,Comedy,Comedy|Drama
+2323,10147,Bad Santa,Action,Action|Drama
+2324,816,Austin Powers: International Man of Mystery,Action,Action|Drama
+2325,302688,My Big Fat Greek Wedding 2,Comedy,Comedy|Drama
+2326,60307,Diary of a Wimpy Kid: Rodrick Rules,Comedy,Animation|Comedy
+2327,106,Predator,Action,Action|Drama
+2328,279,Amadeus,Drama,Drama|War
+2329,8617,Prom Night,Horror,Action|Horror
+2330,10625,Mean Girls,Comedy,Animation|Comedy
+2331,10934,Under the Tuscan Sun,Drama,Comedy|Drama
+2332,5279,Gosford Park,Drama,Drama|NULL
+2333,10013,Peggy Sue Got Married,Drama,Comedy|Drama
+2334,194662,Birdman,Comedy,Comedy|Drama
+2335,160588,Blue Jasmine,Comedy,Comedy|Drama
+2336,9829,United 93,Action,Action|Drama
+2337,10028,Honey,Drama,Drama|NULL
+2338,10535,Spy Hard,Action,Action|Comedy
+2339,790,The Fog,Horror,Action|Horror
+2340,43959,Soul Surfer,Action,Action|Drama
+2341,10364,Catch-22,Comedy,Drama|War
+2342,16991,Observe and Report,Action,Action|Drama
+2343,9610,Conan the Destroyer,Action,Action|Drama
+2344,1578,Raging Bull,Drama,Drama|NULL
+2345,25643,Love Happens,Drama,Drama|NULL
+2346,11904,Young Sherlock Holmes,Action,Action|Drama
+2347,28665,Fame,Drama,Comedy|Drama
+2348,44115,127 Hours,Drama,Action|Drama
+2349,10569,Small Time Crooks,Action,Action|Drama
+2350,10560,Center Stage,Drama,Drama|NULL
+2351,333348,Love the Coopers,Comedy,Animation|Comedy
+2352,20483,Catch That Kid,Action,Action|Drama
+2353,11457,Life as a House,Drama,Drama|NULL
+2354,321697,Steve Jobs,Drama,Drama|War
+2355,19840,"I Love You, Beth Cooper",Comedy,Comedy|Drama
+2356,22327,Youth in Revolt,Drama,Comedy|Drama
+2357,38665,The Legend of the Lone Ranger,Action,Action|Drama
+2358,2575,The Tailor of Panama,Drama,Drama|NULL
+2359,11644,Blow Out,Drama,Drama|NULL
+2360,146227,Getaway,Action,Action|Drama
+2361,68924,The Ice Storm,Drama,Drama|NULL
+2362,253235,And So It Goes,Drama,Comedy|Drama
+2363,22102,Troop Beverly Hills,Drama,Comedy|Drama
+2364,18701,Being Julia,Drama,Comedy|Drama
+2365,10068,Nine 1/2 Weeks,Drama,Drama|NULL
+2366,848,Dragonslayer,Action,Action|NULL
+2367,36811,The Last Station,Drama,Drama|NULL
+2368,522,Ed Wood,Comedy,Drama|War
+2369,130150,Labor Day,Drama,Drama|NULL
+2370,12246,Монгол,War,Animation|War
+2371,13809,RockNRolla,Action,Action|Drama
+2372,27380,Megaforce,Action,Action|Drama
+2373,10549,Hamlet,Drama,Drama|NULL
+2374,33870,Mao's Last Dancer,Drama,Drama|NULL
+2375,245703,Midnight Special,Drama,Action|Drama
+2376,10739,Anything Else,Comedy,Comedy|Drama
+2377,127560,The Railway Man,Drama,Drama|War
+2378,37903,Das weisse Band,Action,Action|Drama
+2379,396152,Restoration,Horror,Action|Horror
+2380,10017,The Wraith,Horror,Action|Horror
+2381,11468,Salton Sea,Drama,Drama|NULL
+2382,193613,Metallica: Through the Never,Action,Animation|NULL
+2383,17436,The Informers,Drama,Drama|NULL
+2384,43434,Carlos,Action,Action|Drama
+2385,31166,I Come with the Rain,Drama,Drama|NULL
+2386,69848,One Man's Hero,Action,Action|Drama
+2387,8408,Day of the Dead,Horror,Action|Horror
+2388,332411,I Am Wrath,Action,Action|Drama
+2389,9389,Renaissance,Animation,Action|Animation
+2390,9626,Red Sonja,Action,Action|Drama
+2391,75638,Red Lights,Drama,Drama|NULL
+2392,8363,Superbad,Comedy,Animation|Comedy
+2393,15670,Madea Goes to Jail,Action,Action|Drama
+2394,290555,Wolves,Horror,Action|Horror
+2395,8328,Step Up 2: The Streets,Drama,Drama|NULL
+2396,10982,Hoodwinked!,Animation,Animation|Comedy
+2397,205,Hotel Rwanda,War,Drama|War
+2398,1620,Hitman,Action,Action|Drama
+2399,175541,Black Nativity,Drama,Drama|NULL
+2400,241254,The Prince,Action,Action|Drama
+2401,31932,City of Ghosts,Drama,Drama|NULL
+2402,1933,The Others,Horror,Action|Horror
+2403,679,Aliens,Horror,Action|Horror
+2404,11113,My Fair Lady,Drama,Drama|NULL
+2405,3597,I Know What You Did Last Summer,Horror,Action|Horror
+2406,193893,Let's Be Cops,Comedy,Animation|Comedy
+2407,9675,Sideways,Drama,Comedy|Drama
+2408,9988,Beerfest,Comedy,Animation|Comedy
+2409,948,Halloween,Horror,Action|Horror
+2410,21765,Good Boy!,Action,Action|Drama
+2411,146304,The Best Man Holiday,Comedy,Animation|Comedy
+2412,7516,Smokin' Aces,Action,Action|Drama
+2413,41439,Saw 3D,Horror,Action|Horror
+2414,2752,40 Days and 40 Nights,Comedy,Comedy|Drama
+2415,9429,A Night at the Roxbury,Comedy,Animation|Comedy
+2416,38117,Beastly,Drama,Action|Drama
+2417,9792,The Hills Have Eyes,Horror,Action|Horror
+2418,13778,Dickie Roberts: Former Child Star,Comedy,Animation|Comedy
+2419,228203,"McFarland, USA",Drama,Drama|NULL
+2420,41382,Lottery Ticket,Comedy,Animation|Comedy
+2421,13960,ATL,Drama,Drama|NULL
+2422,114150,Pitch Perfect,Comedy,Comedy|Drama
+2423,26602,Summer Catch,Drama,Comedy|Drama
+2424,10223,A Simple Plan,Action,Action|Drama
+2425,16028,They,Horror,Action|Horror
+2426,15639,Larry the Cable Guy: Health Inspector,Comedy,Animation|Comedy
+2427,16112,The Adventures of Elmo in Grouchland,Action,Animation|NULL
+2428,26390,Brooklyn's Finest,Action,Action|Drama
+2429,27759,55 Days at Peking,Action,Drama|War
+2430,109428,Evil Dead,Horror,Action|Horror
+2431,23049,My Life in Ruins,Comedy,Comedy|Drama
+2432,9310,American Dreamz,Comedy,Comedy|Drama
+2433,11411,Superman IV: The Quest for Peace,Action,Action|Drama
+2434,16988,How She Move,Drama,Drama|NULL
+2435,7304,Running Scared,Action,Action|Drama
+2436,24747,Bobby Jones: Stroke of Genius,Drama,Drama|NULL
+2437,58048,Shanghai Surprise,Drama,Action|Drama
+2438,1491,The Illusionist,Drama,Action|Drama
+2439,2989,Roar,Drama,Action|Drama
+2440,10629,Veronica Guerin,Action,Action|Drama
+2441,255343,Escobar: Paradise Lost,Drama,Drama|NULL
+2442,4723,Southland Tales,Drama,Action|Drama
+2443,10800,Chasseurs de dragons,Animation,Animation|NULL
+2444,25763,Damnation Alley,Action,Action|Drama
+2445,79694,The Apparition,Horror,Action|Horror
+2446,4032,My Girl,Comedy,Comedy|Drama
+2447,18615,Fur: An Imaginary Portrait of Diane Arbus,Drama,Drama|NULL
+2448,10673,Wall Street,Action,Action|Drama
+2449,4584,Sense and Sensibility,Drama,Drama|NULL
+2450,2977,Becoming Jane,Drama,Drama|NULL
+2451,10760,Sydney White,Comedy,Animation|Comedy
+2452,11093,House of Sand and Fog,Drama,Drama|NULL
+2453,207,Dead Poets Society,Drama,Drama|NULL
+2454,8467,Dumb and Dumber,Comedy,Animation|Comedy
+2455,639,When Harry Met Sally...,Drama,Comedy|Drama
+2456,24226,The Verdict,Drama,Drama|NULL
+2457,9285,Road Trip,Drama,Comedy|Drama
+2458,14709,Varsity Blues,Drama,Comedy|Drama
+2459,74643,The Artist,Drama,Comedy|Drama
+2460,13788,The Unborn,Horror,Action|Horror
+2461,83666,Moonrise Kingdom,Drama,Comedy|Drama
+2462,10781,The Texas Chainsaw Massacre: The Beginning,Horror,Action|Horror
+2463,318850,The Young Messiah,Drama,Drama|NULL
+2464,13908,The Master of Disguise,Comedy,Animation|Comedy
+2465,1417,El laberinto del fauno,Action,Drama|War
+2466,39180,See Spot Run,Action,Action|Comedy
+2467,16161,Baby Boy,Action,Action|Drama
+2468,49950,The Roommate,Horror,Action|Horror
+2469,10956,Joe Dirt,Drama,Comedy|Drama
+2470,9594,Double Impact,Action,Action|Drama
+2471,4638,Hot Fuzz,Action,Action|Drama
+2472,13972,The Women,Drama,Comedy|Drama
+2473,5038,Vicky Cristina Barcelona,Drama,Drama|NULL
+2474,13491,Arn: Tempelriddaren,Drama,Action|Drama
+2475,10571,Boys and Girls,Drama,Comedy|Drama
+2476,10994,White Oleander,Drama,Drama|NULL
+2477,19994,Jennifer's Body,Horror,Action|Horror
+2478,25166,Drowning Mona,Action,Action|Drama
+2479,30890,Radio Days,Comedy,Comedy|Drama
+2480,23169,Remember Me,Drama,Drama|NULL
+2481,17403,How to Deal,Drama,Comedy|Drama
+2482,12120,My Stepmother is an Alien,Action,Action|Drama
+2483,9800,Philadelphia,Drama,Drama|NULL
+2484,1090,The Thirteenth Floor,Action,Action|Drama
+2485,18475,The Cookout,Comedy,Comedy|Drama
+2486,40160,Meteor,Action,Action|Drama
+2487,18074,Duets,Comedy,Comedy|Drama
+2488,9689,Hollywood Ending,Comedy,Comedy|Drama
+2489,9781,Detroit Rock City,Comedy,Animation|Comedy
+2490,8009,Highlander,Action,Action|Drama
+2491,3877,Things We Lost in the Fire,Drama,Drama|NULL
+2492,8854,Steel,Action,Action|Drama
+2493,152599,The Immigrant,Drama,Drama|NULL
+2494,18840,The White Countess,Drama,Drama|War
+2495,68727,Trance,Action,Action|Drama
+2496,12657,Soul Plane,Comedy,Comedy|Drama
+2497,8265,Bienvenue chez les ch'tis,Comedy,Animation|Comedy
+2498,12410,Good,Drama,Drama|NULL
+2499,34647,Enter the Void,Action,Action|Drama
+2500,73935,Vamps,Horror,Action|Horror
+2501,28178,Hachi: A Dog's Tale,Drama,Drama|NULL
+2502,185567,Zulu,Action,Action|Drama
+2503,264656,The Homesman,Action,Action|Drama
+2504,35696,Juwanna Mann,Comedy,Comedy|Drama
+2505,16351,Ararat,Drama,Drama|War
+2506,38717,Madison,Drama,Action|Drama
+2507,18777,Slow Burn,Action,Action|Drama
+2508,2110,Wasabi,Action,Comedy|Drama
+2509,9035,Slither,Horror,Action|Horror
+2510,90,Beverly Hills Cop,Action,Action|Drama
+2511,771,Home Alone,Comedy,Animation|Comedy
+2512,12154,Three Men and a Baby,Comedy,Comedy|Drama
+2513,9576,Tootsie,Comedy,Comedy|Drama
+2514,744,Top Gun,Action,Drama|War
+2515,146,卧虎藏龙,Drama,Action|Drama
+2516,14,American Beauty,Drama,Drama|NULL
+2517,45269,The King's Speech,Drama,Drama|War
+2518,9493,Twins,Comedy,Animation|Comedy
+2519,22556,The Yellow Handkerchief,Drama,Drama|NULL
+2520,873,The Color Purple,Drama,Drama|NULL
+2521,33196,해운대,Drama,Action|Drama
+2522,205596,The Imitation Game,Drama,Drama|War
+2523,10765,Private Benjamin,Comedy,Animation|Comedy
+2524,16769,Coal Miner's Daughter,Drama,Drama|NULL
+2525,33217,Diary of a Wimpy Kid,Comedy,Animation|Comedy
+2526,132232,Mama,Horror,Action|Horror
+2527,11153,National Lampoon's Vacation,Drama,Comedy|Drama
+2528,208134,Jackass Presents: Bad Grandpa,Comedy,Animation|Comedy
+2529,1165,The Queen,Drama,Drama|NULL
+2530,4011,Beetlejuice,Action,Action|Comedy
+2531,17202,Why Did I Get Married?,Comedy,Comedy|Drama
+2532,9587,Little Women,Drama,Drama|NULL
+2533,65086,The Woman in Black,Horror,Action|Horror
+2534,10053,When a Stranger Calls,Horror,Action|Horror
+2535,11870,Big Fat Liar,Comedy,Animation|Comedy
+2536,11778,The Deer Hunter,Drama,Drama|War
+2537,586,Wag the Dog,Comedy,Comedy|Drama
+2538,18736,The Lizzie McGuire Movie,Comedy,Animation|Comedy
+2539,134411,Snitch,Drama,Drama|NULL
+2540,287903,Krampus,Horror,Action|Horror
+2541,9276,The Faculty,Horror,Action|Horror
+2542,15765,What's Love Got to Do with It,Drama,Drama|NULL
+2543,2142,Cop Land,Action,Action|Drama
+2544,11397,Not Another Teen Movie,Comedy,Animation|Comedy
+2545,77016,End of Watch,Action,Action|Drama
+2546,11478,The Skulls,Action,Action|Drama
+2547,266856,The Theory of Everything,Drama,Drama|NULL
+2548,13411,Malibu's Most Wanted,Action,Action|Drama
+2549,10564,Where the Heart Is,Drama,Comedy|Drama
+2550,947,Lawrence of Arabia,Drama,Drama|War
+2551,24150,Halloween II,Horror,Action|Horror
+2552,228970,Wild,Drama,Drama|NULL
+2553,18405,The Last House on the Left,Horror,Action|Horror
+2554,6961,The Wedding Date,Comedy,Comedy|Drama
+2555,11442,Halloween: Resurrection,Horror,Action|Horror
+2556,2493,The Princess Bride,Drama,Action|Drama
+2557,14047,The Great Debaters,Drama,Drama|NULL
+2558,64690,Drive,Action,Action|Drama
+2559,11132,Confessions of a Teenage Drama Queen,Comedy,Animation|Comedy
+2560,17127,The Object of My Affection,Drama,Comedy|Drama
+2561,1562,28 Weeks Later,Horror,Action|Horror
+2562,232679,When the Game Stands Tall,Drama,Drama|NULL
+2563,17880,Because of Winn-Dixie,Comedy,Comedy|Drama
+2564,14736,Love & Basketball,Drama,Comedy|Drama
+2565,9434,Grosse Pointe Blank,Drama,Comedy|Drama
+2566,23706,All About Steve,Comedy,Animation|Comedy
+2567,11531,Book of Shadows: Blair Witch 2,Horror,Action|Horror
+2568,9100,The Craft,Horror,Action|Horror
+2569,116,Match Point,Drama,Action|Drama
+2570,38843,Ramona and Beezus,Comedy,Animation|Comedy
+2571,1245,The Remains of the Day,Drama,Drama|NULL
+2572,4995,Boogie Nights,Drama,Drama|NULL
+2573,10413,Nowhere to Run,Drama,Action|Drama
+2574,14012,Flicka,Drama,Drama|NULL
+2575,9793,The Hills Have Eyes II,Horror,Action|Horror
+2576,12212,Urban Legends: Final Cut,Horror,Action|Horror
+2577,13768,Tuck Everlasting,Action,Action|Drama
+2578,8975,The Marine,Drama,Action|Drama
+2579,342521,Keanu,Action,Action|Comedy
+2580,45272,Country Strong,Drama,Drama|NULL
+2581,9424,Disturbing Behavior,Horror,Action|Horror
+2582,97367,The Place Beyond the Pines,Action,Action|Drama
+2583,254904,The November Man,Action,Action|Drama
+2584,18681,Eye of the Beholder,Drama,Drama|NULL
+2585,12162,The Hurt Locker,Drama,Drama|War
+2586,11495,Firestarter,Horror,Action|Horror
+2587,64689,Killing Them Softly,Action,Action|Drama
+2588,157849,A Most Wanted Man,Drama,Drama|NULL
+2589,13166,Freddy Got Fingered,Comedy,Animation|Comedy
+2590,15511,VeggieTales: The Pirates Who Don't Do Anything,Animation,Animation|Drama
+2591,37003,U2 3D,Action,Animation|NULL
+2592,12211,Highlander: Endgame,Action,Action|Drama
+2593,13816,Idlewild,Action,Action|Drama
+2594,51828,One Day,Drama,Drama|NULL
+2595,22798,Whip It,Drama,Drama|NULL
+2596,7501,Knockaround Guys,Action,Action|Drama
+2597,10743,Confidence,Action,Action|Drama
+2598,37718,The Muse,Action,Action|Comedy
+2599,15237,De-Lovely,Drama,Drama|NULL
+2600,9686,New York Stories,Drama,Comedy|Drama
+2601,17644,Barney's Great Adventure,Action,Animation|NULL
+2602,97430,The Man with the Iron Fists,Action,Action|NULL
+2603,12257,Home Fries,Drama,Comedy|Drama
+2604,13539,Here On Earth,Drama,Drama|NULL
+2605,68,Brazil,Action,Action|Drama
+2606,14024,Raise Your Voice,Drama,Drama|NULL
+2607,115,The Big Lebowski,Action,Action|Drama
+2608,7874,Black Snake Moan,Drama,Drama|NULL
+2609,4911,Dark Blue,Action,Action|Drama
+2610,1988,A Mighty Heart,Drama,Drama|NULL
+2611,16222,Whatever It Takes,Drama,Comedy|Drama
+2612,9557,Boat Trip,Comedy,Animation|Comedy
+2613,9026,The Importance of Being Earnest,Drama,Drama|War
+2614,57943,The Love Letter,Drama,Comedy|Drama
+2615,18276,Hoot,Drama,Drama|NULL
+2616,8321,In Bruges,Action,Action|Drama
+2617,72359,Peeples,Comedy,Animation|Comedy
+2618,10186,The Rocker,Comedy,Animation|Comedy
+2619,25704,Post Grad,Comedy,Animation|Comedy
+2620,133694,Promised Land,Drama,Drama|NULL
+2621,19265,Whatever Works,Comedy,Comedy|Drama
+2622,36047,The In Crowd,Drama,Drama|NULL
+2623,8053,The Three Burials of Melquiades Estrada,Action,Action|Drama
+2624,2290,Jakob the Liar,Comedy,Drama|War
+2625,5236,Kiss Kiss Bang Bang,Action,Action|Drama
+2626,6552,Idle Hands,Horror,Action|Horror
+2627,1018,Mulholland Drive,Drama,Drama|NULL
+2628,10075,Blood and Chocolate,Horror,Action|Horror
+2629,38031,You Will Meet a Tall Dark Stranger,Drama,Comedy|Drama
+2630,42188,Never Let Me Go,Drama,Action|Drama
+2631,112430,The Company,Drama,Drama|NULL
+2632,6687,Transsiberian,Action,Action|Drama
+2633,13853,The Clan of the Cave Bear,Drama,Action|Drama
+2634,31306,Crazy in Alabama,Comedy,Comedy|Drama
+2635,8461,Funny Games,Horror,Action|Horror
+2636,331592,Listening,Drama,Action|Drama
+2637,47692,Felicia's Journey,Drama,Drama|NULL
+2638,19,Metropolis,Action,Action|Drama
+2639,10045,Banlieue 13,Action,Action|Drama
+2640,400,Things to Do in Denver When You're Dead,Action,Action|Drama
+2641,253450,刺客聶隱娘,Action,Drama|War
+2642,9104,Buffalo Soldiers,Action,Action|Drama
+2643,11190,Возвращение,Drama,Drama|NULL
+2644,16353,Ong Bak 2,Drama,Action|Drama
+2645,23759,Centurion,Drama,Action|Drama
+2646,24206,Silent Trigger,Drama,Action|Drama
+2647,10185,The Midnight Meat Train,Horror,Action|Horror
+2648,75033,Winnie Mandela,Drama,Drama|NULL
+2649,74536,The Son of No One,Action,Action|Drama
+2650,31668,All The Queen's Men,Action,Drama|War
+2651,13501,The Good Night,Drama,Comedy|Drama
+2652,15208,Bathory,Action,Action|Drama
+2653,172391,Khumba,Animation,Animation|Drama
+2654,262543,Autómata,Action,Action|Drama
+2655,9288,Dungeons & Dragons: Wrath of the Dragon God,Action,Action|Drama
+2656,370980,Chiamatemi Francesco - Il Papa della gente,Drama,Drama|NULL
+2657,20083,新宿事件,Action,Action|Drama
+2658,40880,Pandaemonium,Drama,Drama|NULL
+2659,137,Groundhog Day,Drama,Comedy|Drama
+2660,264999,Magic Mike XXL,Comedy,Comedy|Drama
+2661,454,Romeo + Juliet,Drama,Drama|NULL
+2662,53457,Elle s'appelait Sarah,Drama,Drama|War
+2663,288980,Freedom,Drama,Drama|NULL
+2664,33,Unforgiven,Action,Action|NULL
+2665,1951,Manderlay,Drama,Drama|NULL
+2666,12405,Slumdog Millionaire,Drama,Drama|NULL
+2667,10998,Fatal Attraction,Drama,Drama|NULL
+2668,114,Pretty Woman,Comedy,Comedy|Drama
+2669,9396,Crocodile Dundee II,Drama,Comedy|Drama
+2670,319910,Broken Horses,Action,Action|Drama
+2671,2604,Born on the Fourth of July,Drama,Drama|War
+2672,864,Cool Runnings,Comedy,Animation|Comedy
+2673,14435,My Bloody Valentine,Horror,Action|Horror
+2674,1931,Stomp the Yard,Drama,Drama|NULL
+2675,691,The Spy Who Loved Me,Drama,Action|Drama
+2676,9877,Urban Legend,Horror,Action|Horror
+2677,62008,Good Deeds,Drama,Comedy|Drama
+2678,12227,White Fang,Drama,Action|Drama
+2679,13824,Superstar,Comedy,Animation|Comedy
+2680,71688,The Iron Lady,Drama,Drama|War
+2681,15173,Jonah: A VeggieTales Movie,Animation,Animation|Drama
+2682,8291,Poetic Justice,Drama,Drama|NULL
+2683,13950,All About the Benjamins,Action,Action|Drama
+2684,12158,Vampire in Brooklyn,Horror,Action|Horror
+2685,11586,Exorcist II: The Heretic,Horror,Action|Horror
+2686,10008,An American Haunting,Horror,Action|Horror
+2687,2830,My Boss's Daughter,Comedy,Comedy|Drama
+2688,12403,A Perfect Getaway,Drama,Action|Drama
+2689,34563,Our Family Wedding,Comedy,Animation|Comedy
+2690,14557,Dead Man on Campus,Comedy,Animation|Comedy
+2691,10368,Tea with Mussolini,Comedy,Drama|War
+2692,10280,Thinner,Horror,Action|Horror
+2693,12637,"New York, New York",Drama,Drama|NULL
+2694,34152,Crooklyn,Comedy,Comedy|Drama
+2695,14434,I Think I Love My Wife,Comedy,Comedy|Drama
+2696,11470,Jason X,Horror,Action|Horror
+2697,10741,Bobby,Drama,Drama|War
+2698,24940,Head Over Heels,Comedy,Comedy|Drama
+2699,82679,Fun Size,Comedy,Animation|Comedy
+2700,2013,Le scaphandre et le papillon,Drama,Drama|NULL
+2701,1440,Little Children,Drama,Drama|NULL
+2702,18041,Gossip,Drama,Drama|NULL
+2703,28029,A Walk on the Moon,Drama,Drama|NULL
+2704,1123,Catch a Fire,Drama,Action|Drama
+2705,14033,Soul Survivors,Horror,Action|Horror
+2706,87729,Jefferson in Paris,Drama,Drama|NULL
+2707,16899,Easy Virtue,Comedy,Comedy|Drama
+2708,41317,Caravans,Drama,Action|Drama
+2709,245700,Mr. Turner,Drama,Drama|War
+2710,37842,Les herbes folles,Drama,Drama|NULL
+2711,9045,Amen.,Drama,Drama|War
+2712,44092,剑雨,Action,Action|War
+2713,16005,The Lucky Ones,Comedy,Drama|War
+2714,44754,Margaret,Drama,Drama|NULL
+2715,23988,Stan Helsing,Horror,Action|Horror
+2716,43949,Flipped,Drama,Drama|NULL
+2717,142,Brokeback Mountain,Drama,Drama|NULL
+2718,9603,Clueless,Drama,Comedy|Drama
+2719,10712,Far from Heaven,Drama,Drama|NULL
+2720,243938,Hot Tub Time Machine 2,Comedy,Animation|Comedy
+2721,10876,Quills,Drama,Drama|NULL
+2722,86838,Seven Psychopaths,Action,Action|Drama
+2723,25208,The Caveman's Valentine,Drama,Drama|NULL
+2724,613,Der Untergang,War,Drama|War
+2725,1913,Mar adentro,Drama,Drama|NULL
+2726,97370,Under the Skin,Drama,Action|Drama
+2727,801,"Good Morning, Vietnam",Comedy,Drama|War
+2728,70829,The Last Godfather,Action,Comedy|Drama
+2729,54518,Justin Bieber: Never Say Never,Action,Animation|NULL
+2730,44214,Black Swan,Drama,Drama|NULL
+2731,240,The Godfather: Part II,Action,Action|Drama
+2732,9816,Save the Last Dance,Drama,Drama|NULL
+2733,10131,A Nightmare on Elm Street 4: The Dream Master,Horror,Action|Horror
+2734,339984,Miracles from Heaven,Drama,Drama|NULL
+2735,8859,"Dude, Where’s My Car?",Comedy,Animation|Comedy
+2736,11967,Young Guns,Action,Action|Drama
+2737,239563,St. Vincent,Comedy,Animation|Comedy
+2738,222899,About Last Night,Comedy,Comedy|Drama
+2739,4951,10 Things I Hate About You,Drama,Comedy|Drama
+2740,10985,The New Guy,Comedy,Animation|Comedy
+2741,9644,National Lampoon's Loaded Weapon 1,Comedy,Animation|Comedy
+2742,332567,The Shallows,Horror,Action|Horror
+2743,1954,The Butterfly Effect,Action,Action|Drama
+2744,15489,Snow Day,Comedy,Animation|Comedy
+2745,15250,This Christmas,Comedy,Comedy|Drama
+2746,22345,Baby Geniuses,Action,Action|Drama
+2747,9448,The Big Hit,Drama,Action|Drama
+2748,38223,Harriet the Spy,Comedy,Comedy|Drama
+2749,11186,Child's Play 2,Horror,Action|Horror
+2750,136835,No Good Deed,Action,Action|Drama
+2751,5876,The Mist,Horror,Action|Horror
+2752,264660,Ex Machina,Action,Action|Drama
+2753,492,Being John Malkovich,Action,Comedy|Drama
+2754,25462,Two Can Play That Game,Comedy,Comedy|Drama
+2755,238603,Earth to Echo,Action,Action|Drama
+2756,10691,Crazy/Beautiful,Drama,Drama|NULL
+2757,1251,Letters from Iwo Jima,Drama,Action|Drama
+2758,5172,The Astronaut Farmer,Drama,Action|Drama
+2759,58680,Woo,Comedy,Comedy|Drama
+2760,264644,Room,Drama,Drama|NULL
+2761,14577,Dirty Work,Comedy,Animation|Comedy
+2762,11592,Serial Mom,Horror,Action|Horror
+2763,16406,Dick,Comedy,Animation|Comedy
+2764,19052,Light It Up,Drama,Drama|NULL
+2765,3682,54,Drama,Drama|NULL
+2766,9683,Bubble Boy,Drama,Comedy|Drama
+2767,2084,Birthday Girl,Action,Action|Drama
+2768,107811,21 & Over,Comedy,Animation|Comedy
+2769,2266,"Paris, je t'aime",Drama,Drama|NULL
+2770,13074,Resurrecting the Champ,Drama,Drama|NULL
+2771,144340,Admission,Drama,Comedy|Drama
+2772,48217,La veuve de Saint-Pierre,Drama,Drama|NULL
+2773,28211,Chloe,Drama,Drama|NULL
+2774,47502,Faithful,Action,Action|Drama
+2775,9950,Find Me Guilty,Action,Action|Drama
+2776,84892,The Perks of Being a Wallflower,Drama,Drama|NULL
+2777,24227,Excessive Force,Action,Action|NULL
+2778,9672,Infamous,Drama,Drama|NULL
+2779,44853,The Claim,Drama,Action|Drama
+2780,157544,The Vatican Tapes,Horror,Action|Horror
+2781,59678,Attack the Block,Action,Action|Drama
+2782,79777,In the Land of Blood and Honey,Drama,Drama|War
+2783,158011,The Call,Action,Action|Drama
+2784,407887,인천상륙작전,War,Drama|War
+2785,17043,The Crocodile Hunter: Collision Course,Action,Action|Drama
+2786,8952,I Love You Phillip Morris,Drama,Comedy|Drama
+2787,62204,La Guerre du feu,Drama,Action|Drama
+2788,13435,Antwone Fisher,Drama,Drama|NULL
+2789,17187,The Emperor's Club,Drama,Drama|NULL
+2790,319,True Romance,Action,Action|Drama
+2791,59457,Womb,Action,Action|Drama
+2792,9504,Glengarry Glen Ross,Action,Action|Drama
+2793,37414,The Killer Inside Me,Action,Action|Drama
+2794,6217,Cat People,Horror,Action|Horror
+2795,26688,Sorority Row,Horror,Action|Horror
+2796,43867,The Prisoner of Zenda,Drama,Action|Drama
+2797,6615,Lars and the Real Girl,Drama,Comedy|Drama
+2798,14574,The Boy in the Striped Pyjamas,Drama,Drama|War
+2799,16,Dancer in the Dark,Action,Action|Drama
+2800,39780,Oscar and Lucinda,Drama,Drama|NULL
+2801,21612,The Funeral,Action,Action|Drama
+2802,36691,Solitary Man,Drama,Comedy|Drama
+2803,23631,Machete,Action,Comedy|Drama
+2804,45324,Casino Jack,Action,Action|Drama
+2805,12144,The Land Before Time,Animation,Animation|Drama
+2806,11658,태극기 휘날리며,Drama,Drama|War
+2807,56601,The Perfect Game,Drama,Drama|NULL
+2808,9552,The Exorcist,Horror,Action|Horror
+2809,578,Jaws,Horror,Action|Horror
+2810,2105,American Pie,Comedy,Comedy|Drama
+2811,126319,Ernest et Célestine,Animation,Animation|Drama
+2812,10136,The Golden Child,Action,Action|Drama
+2813,67660,Think Like a Man,Comedy,Comedy|Drama
+2814,10611,Barbershop,Comedy,Comedy|Drama
+2815,154,Star Trek II: The Wrath of Khan,Action,Action|Drama
+2816,3049,Ace Ventura: Pet Detective,Comedy,Animation|Comedy
+2817,860,WarGames,Action,Action|Drama
+2818,9281,Witness,Drama,Action|Drama
+2819,75674,Act of Valor,Action,Drama|War
+2820,9762,Step Up,Action,Action|Drama
+2821,3179,Beavis and Butt-Head Do America,Animation,Animation|Comedy
+2822,184,Jackie Brown,Action,Action|Drama
+2823,13335,Harold & Kumar Escape from Guantanamo Bay,Drama,Comedy|Drama
+2824,76726,Chronicle,Drama,Action|Drama
+2825,10269,Yentl,Drama,Drama|NULL
+2826,36819,Time Bandits,Action,Action|Drama
+2827,17130,Crossroads,Drama,Action|Drama
+2828,57214,Project X,Action,Action|Drama
+2829,11202,Patton,War,Drama|War
+2830,9357,One Hour Photo,Horror,Action|Horror
+2831,13812,Quarantine,Horror,Action|Horror
+2832,9030,The Eye,Horror,Action|Horror
+2833,19084,Johnson Family Vacation,Comedy,Animation|Comedy
+2834,8386,How High,Comedy,Animation|Comedy
+2835,10437,The Muppet Christmas Carol,Action,Comedy|Drama
+2836,1360,Frida,Drama,Drama|NULL
+2837,101267,Katy Perry: Part of Me,Action,Animation|NULL
+2838,222935,The Fault in Our Stars,Drama,Drama|NULL
+2839,10220,Rounders,Action,Action|Drama
+2840,284296,Top Five,Comedy,Comedy|Drama
+2841,31915,Prophecy,Horror,Action|Horror
+2842,11601,Stir of Echoes,Horror,Action|Horror
+2843,205220,Philomena,Drama,Drama|NULL
+2844,11354,The Upside of Anger,Comedy,Comedy|Drama
+2845,16241,The Boys from Brazil,Horror,Action|Horror
+2846,14191,Aquamarine,Action,Comedy|Drama
+2847,286565,Paper Towns,Drama,Drama|NULL
+2848,26710,My Baby's Daddy,Comedy,Animation|Comedy
+2849,129670,Nebraska,Drama,Action|Drama
+2850,9059,Tales from the Crypt: Demon Knight,Horror,Action|Horror
+2851,34549,Max Keeble's Big Move,Action,Action|Drama
+2852,57157,Young Adult,Comedy,Comedy|Drama
+2853,1948,Crank,Action,Action|Drama
+2854,28353,How to Be a Player,Comedy,Comedy|Drama
+2855,46889,Living Out Loud,Drama,Comedy|Drama
+2856,38093,Just Wright,Drama,Comedy|Drama
+2857,14976,Rachel Getting Married,Drama,Drama|NULL
+2858,11027,The Postman Always Rings Twice,Action,Action|Drama
+2859,3635,Girl with a Pearl Earring,Drama,Drama|NULL
+2860,387,Das Boot,Drama,Drama|War
+2861,6020,Sorority Boys,Comedy,Animation|Comedy
+2862,122906,About Time,Action,Action|Drama
+2863,9550,十面埋伏,Drama,Action|Drama
+2864,60599,Arbitrage,Drama,Drama|NULL
+2865,227719,Project Almanac,Action,Action|Drama
+2866,14299,Cadillac Records,Drama,Drama|War
+2867,19419,Screwed,Action,Action|Comedy
+2868,12088,Fortress,Action,Action|Drama
+2869,14799,For Your Consideration,Comedy,Comedy|Drama
+2870,9466,Celebrity,Comedy,Comedy|Drama
+2871,7510,Running with Scissors,Comedy,Comedy|Drama
+2872,31246,From Justin to Kelly,Comedy,Comedy|Drama
+2873,61752,Girl 6,Comedy,Animation|Comedy
+2874,10944,In the Cut,Drama,Drama|NULL
+2875,10362,Two Lovers,Drama,Drama|NULL
+2876,14778,Last Orders,Comedy,Comedy|Drama
+2877,1255,괴물,Horror,Action|Horror
+2878,45226,The Pursuit of D.B. Cooper,Action,Action|Drama
+2879,10212,Ravenous,Horror,Action|Horror
+2880,8669,Charlie Bartlett,Comedy,Comedy|Drama
+2881,179144,La grande bellezza,Comedy,Comedy|Drama
+2882,16857,The Dangerous Lives of Altar Boys,Comedy,Comedy|Drama
+2883,86825,Stoker,Horror,Action|Horror
+2884,844,2046,Action,Action|Drama
+2885,8060,Married Life,Action,Action|Drama
+2886,15907,Duma,Drama,Action|Drama
+2887,38448,Ondine,Drama,Drama|NULL
+2888,327,Brother,Action,Action|Drama
+2889,9260,Welcome to Collinwood,Comedy,Animation|Comedy
+2890,61337,Critical Care,Comedy,Comedy|Drama
+2891,13079,The Life Before Her Eyes,Drama,Drama|NULL
+2892,89325,Darling Companion,Drama,Drama|NULL
+2893,4170,Trade,Drama,Drama|NULL
+2894,41508,Sorstalanság,Drama,Drama|War
+2895,12479,Breakfast of Champions,Comedy,Animation|Comedy
+2896,44555,三枪拍案惊奇,Drama,Comedy|Drama
+2897,10133,Cypher,Action,Action|Drama
+2898,21345,南京!南京!,War,Drama|War
+2899,173931,兔侠传奇,Animation,Animation|Drama
+2900,61984,Space Battleship Yamato,Action,Action|Drama
+2901,50601,5 Days of War,Drama,Drama|War
+2902,26466,Triangle,Horror,Action|Horror
+2903,345003,10 Days in a Madhouse,Drama,Drama|NULL
+2904,236751,Heaven is for Real,Drama,Drama|NULL
+2905,107,Snatch,Action,Action|Drama
+2906,357837,Dancin' It's On,Drama,Drama|NULL
+2907,8913,Pet Sematary,Horror,Action|Horror
+2908,13889,まあだだよ,Drama,Drama|NULL
+2909,18530,The Cry of the Owl,Drama,Drama|NULL
+2910,358451,三城记,Drama,Drama|War
+2911,927,Gremlins,Horror,Action|Horror
+2912,11,Star Wars,Action,Action|Drama
+2913,291870,Dirty Grandpa,Comedy,Animation|Comedy
+2914,907,Doctor Zhivago,Drama,Drama|War
+2915,206563,Trash,Drama,Action|Drama
+2916,11887,High School Musical 3: Senior Year,Drama,Comedy|Drama
+2917,45317,The Fighter,Drama,Drama|NULL
+2918,12094,Jackass Number Two,Action,Action|Comedy
+2919,10377,My Cousin Vinny,Comedy,Comedy|Drama
+2920,249164,If I Stay,Drama,Drama|NULL
+2921,256092,Drive Hard,Action,Action|Drama
+2922,9942,Major League,Comedy,Animation|Comedy
+2923,10748,St. Trinian's,Action,Action|Drama
+2924,1817,Phone Booth,Drama,Drama|NULL
+2925,10229,A Walk to Remember,Drama,Drama|NULL
+2926,687,Dead Man Walking,Drama,Drama|NULL
+2927,796,Cruel Intentions,Drama,Drama|NULL
+2928,22804,Saw VI,Horror,Action|Horror
+2929,10156,History of the World: Part I,Comedy,Animation|Comedy
+2930,12837,The Secret Life of Bees,Drama,Action|Drama
+2931,17708,Corky Romano,Action,Action|Drama
+2932,13937,Raising Cain,Horror,Action|Horror
+2933,28932,F.I.S.T.,Action,Action|Drama
+2934,31909,Invaders from Mars,Action,Action|Drama
+2935,167073,Brooklyn,Drama,Drama|NULL
+2936,3175,Barry Lyndon,Drama,Drama|War
+2937,14369,Out Cold,Comedy,Animation|Comedy
+2938,16888,The Ladies Man,Comedy,Animation|Comedy
+2939,121826,Quartet,Drama,Comedy|Drama
+2940,10646,Tomcats,Comedy,Comedy|Drama
+2941,12149,Frailty,Action,Action|Drama
+2942,304357,Woman in Gold,Drama,Drama|NULL
+2943,11184,Kinsey,Drama,Drama|NULL
+2944,766,Army of Darkness,Horror,Action|Horror
+2945,20009,Slackers,Comedy,Comedy|Drama
+2946,1587,What's Eating Gilbert Grape,Drama,Drama|NULL
+2947,30973,The Visual Bible: The Gospel of John,Drama,Drama|War
+2948,11109,Vera Drake,Action,Action|Drama
+2949,9027,The Guru,Comedy,Comedy|Drama
+2950,63020,The Perez Family,Drama,Comedy|Drama
+2951,86829,Inside Llewyn Davis,Drama,Drama|NULL
+2952,11065,O,Drama,Drama|NULL
+2953,13888,Return to the Blue Lagoon,Drama,Action|Drama
+2954,42345,The Molly Maguires,Drama,Drama|War
+2955,13994,Romance & Cigarettes,Comedy,Comedy|Drama
+2956,1590,Copying Beethoven,Drama,Drama|NULL
+2957,62728,Brighton Rock,Action,Action|Drama
+2958,11917,Saw V,Horror,Action|Horror
+2959,45138,Gli intoccabili,Action,Action|Drama
+2960,80271,LOL,Drama,Comedy|Drama
+2961,4657,Jindabyne,Action,Action|Drama
+2962,14395,कभी अलविदा ना कहना,Drama,Drama|NULL
+2963,24137,An Ideal Husband,Drama,Comedy|Drama
+2964,190847,The Last Days on Mars,Horror,Action|Horror
+2965,11056,Darkness,Horror,Action|Horror
+2966,62,2001: A Space Odyssey,Action,Action|Drama
+2967,601,E.T. the Extra-Terrestrial,Action,Action|Drama
+2968,13067,In the Land of Women,Drama,Comedy|Drama
+2969,25379,The Blue Butterfly,Drama,Action|Drama
+2970,88641,There Goes My Baby,Comedy,Comedy|Drama
+2971,58051,Housefull,Drama,Comedy|Drama
+2972,14877,September Dawn,Action,Action|Drama
+2973,96399,For Greater Glory - The True Story of Cristiada,Drama,Drama|War
+2974,304410,La Famille Bélier,Comedy,Comedy|Drama
+2975,489,Good Will Hunting,Drama,Drama|NULL
+2976,373314,Misconduct,Drama,Drama|NULL
+2977,214,Saw III,Horror,Action|Horror
+2978,10890,Stripes,Action,Action|Comedy
+2979,1588,Bring It On,Comedy,Animation|Comedy
+2980,316727,The Purge: Election Year,Horror,Action|Horror
+2981,10314,She's All That,Comedy,Comedy|Drama
+2982,663,Saw IV,Horror,Action|Horror
+2983,11804,White Noise,Horror,Action|Horror
+2984,16781,Madea's Family Reunion,Drama,Comedy|Drama
+2985,11873,The Color of Money,Drama,Drama|NULL
+2986,9289,The Longest Day,War,Drama|War
+2987,10414,The Mighty Ducks,Comedy,Animation|Comedy
+2988,1970,The Grudge,Horror,Action|Horror
+2989,9614,Happy Gilmore,Comedy,Animation|Comedy
+2990,8922,Jeepers Creepers,Horror,Action|Horror
+2991,1648,Bill & Ted's Excellent Adventure,Action,Action|Drama
+2992,17917,Oliver!,Drama,Drama|NULL
+2993,74534,The Best Exotic Marigold Hotel,Comedy,Comedy|Drama
+2994,19405,Recess: School's Out,Animation,Action|Animation
+2995,9355,Mad Max Beyond Thunderdome,Action,Action|Drama
+2996,10999,Commando,Drama,Action|Drama
+2997,321258,The Boy,Horror,Action|Horror
+2998,44040,Devil,Horror,Action|Horror
+2999,10426,Friday After Next,Comedy,Animation|Comedy
+3000,280092,Insidious: Chapter 3,Horror,Action|Horror
+3001,13938,The Last Dragon,Action,Action|Drama
+3002,10163,The Lawnmower Man,Horror,Action|Horror
+3003,12182,Nick and Norah's Infinite Playlist,Comedy,Comedy|Drama
+3004,1832,Dogma,Action,Action|Drama
+3005,9034,The Banger Sisters,Comedy,Comedy|Drama
+3006,15301,Twilight Zone: The Movie,Horror,Action|Horror
+3007,10135,Road House,Action,Action|Drama
+3008,26352,A Low Down Dirty Shame,Action,Action|Drama
+3009,20616,Swimfan,Drama,Drama|NULL
+3010,9794,Employee of the Month,Comedy,Comedy|Drama
+3011,15037,Can't Hardly Wait,Drama,Comedy|Drama
+3012,227,The Outsiders,Action,Action|Drama
+3013,294272,Pete's Dragon,Action,Action|Drama
+3014,11336,The Dead Zone,Horror,Action|Horror
+3015,283445,Sinister 2,Horror,Action|Horror
+3016,88036,Sparkle,Drama,Drama|NULL
+3017,10984,Valentine,Horror,Action|Horror
+3018,22824,The Fourth Kind,Action,Action|Drama
+3019,9526,A Prairie Home Companion,Comedy,Comedy|Drama
+3020,39349,Sugar Hill,Drama,Action|Drama
+3021,15983,Invasion U.S.A.,Action,Action|Drama
+3022,14544,Roll Bounce,Comedy,Comedy|Drama
+3023,11545,Rushmore,Comedy,Comedy|Drama
+3024,42684,Skyline,Action,Action|Drama
+3025,268238,The Second Best Exotic Marigold Hotel,Comedy,Comedy|Drama
+3026,8359,Kit Kittredge: An American Girl,Comedy,Comedy|Drama
+3027,15648,The Perfect Man,Drama,Comedy|Drama
+3028,41823,Mo' Better Blues,Drama,Drama|NULL
+3029,11891,Kung Pow: Enter the Fist,Action,Action|Comedy
+3030,9362,Tremors,Horror,Action|Horror
+3031,9902,Wrong Turn,Horror,Action|Horror
+3032,14729,The Long Riders,Action,Action|War
+3033,9455,The Corruptor,Action,Action|Drama
+3034,103731,Mud,Drama,Drama|NULL
+3035,10090,Reno 911!: Miami,Action,Action|Drama
+3036,164558,One Direction: This Is Us,Action,Animation|NULL
+3037,19905,"The Goods: Live Hard, Sell Hard",Comedy,Animation|Comedy
+3038,17710,Hey Arnold! The Movie,Animation,Animation|NULL
+3039,75900,My Week with Marilyn,Drama,Drama|NULL
+3040,9515,The Matador,Action,Action|Drama
+3041,27322,Love Jones,Drama,Comedy|Drama
+3042,328425,The Gift,Drama,Drama|NULL
+3043,14120,End of the Spear,Drama,Action|Drama
+3044,10050,Get Over It,Comedy,Comedy|Drama
+3045,1542,Office Space,Action,Action|Drama
+3046,10490,Drop Dead Gorgeous,Comedy,Animation|Comedy
+3047,87093,Big Eyes,Drama,Drama|NULL
+3048,10029,Very Bad Things,Action,Action|Drama
+3049,9893,Sleepover,Comedy,Animation|Comedy
+3050,11507,Body Double,Horror,Action|Horror
+3051,37931,MacGruber,Action,Action|Drama
+3052,3472,Dirty Pretty Things,Action,Action|Drama
+3053,87818,Movie 43,Comedy,Animation|Comedy
+3054,13160,Over Her Dead Body,Comedy,Animation|Comedy
+3055,88005,Seeking a Friend for the End of the World,Drama,Action|Drama
+3056,52067,Cedar Rapids,Comedy,Animation|Comedy
+3057,73,American History X,Drama,Drama|NULL
+3058,134597,The Collection,Horror,Action|Horror
+3059,24034,Teacher's Pet,Animation,Animation|Drama
+3060,14283,The Red Violin,Drama,Drama|NULL
+3061,404,The Straight Story,Drama,Drama|NULL
+3062,13201,Deuces Wild,Action,Action|Drama
+3063,209403,Bad Words,Comedy,Animation|Comedy
+3064,7942,Run Fatboy Run,Comedy,Comedy|Drama
+3065,73247,Heartbeeps,Comedy,Comedy|Drama
+3066,253331,Black or White,Drama,Drama|NULL
+3067,34043,On the Line,Comedy,Comedy|Drama
+3068,9952,Rescue Dawn,Drama,Drama|War
+3069,256924,Danny Collins,Comedy,Comedy|Drama
+3070,82532,"Jeff, Who Lives at Home",Comedy,Comedy|Drama
+3071,41110,Io sono l'amore,Drama,Drama|NULL
+3072,134371,Atlas Shrugged Part II,Action,Action|Drama
+3073,2088,Romeo Is Bleeding,Action,Action|Drama
+3074,10388,The Limey,Action,Action|Drama
+3075,1640,Crash,Drama,Drama|NULL
+3076,25520,The House of Mirth,Drama,Drama|NULL
+3077,27342,Malone,Action,Action|Drama
+3078,13689,Peaceful Warrior,Drama,Drama|NULL
+3079,67911,Bucky Larson: Born to Be a Star,Comedy,Animation|Comedy
+3080,24664,Bamboozled,Comedy,Comedy|Drama
+3081,329440,The Forest,Horror,Action|Horror
+3082,47890,Sphinx,Drama,Action|Drama
+3083,252512,While We're Young,Comedy,Comedy|Drama
+3084,55720,A Better Life,Drama,Drama|NULL
+3085,9613,Spider,Drama,Drama|NULL
+3086,29076,Gun Shy,Drama,Comedy|Drama
+3087,29339,Nicholas Nickleby,Drama,Action|Drama
+3088,68812,The Iceman,Action,Action|Drama
+3089,32740,कृष,Action,Action|Drama
+3090,14195,Cecil B. Demented,Action,Action|Drama
+3091,73567,Killer Joe,Action,Action|Drama
+3092,41479,The Joneses,Comedy,Comedy|Drama
+3093,15394,Owning Mahowny,Action,Action|Drama
+3094,10071,The Brothers Solomon,Comedy,Animation|Comedy
+3095,1989,My Blueberry Nights,Drama,Drama|NULL
+3096,91076,Illuminata,Drama,Drama|NULL
+3097,12779,Swept Away,Comedy,Comedy|Drama
+3098,13191,"War, Inc.",Drama,Action|Drama
+3099,11770,少林足球,Action,Action|Comedy
+3100,12703,The Brown Bunny,Drama,Drama|NULL
+3101,64559,Rien ne va plus,Action,Action|Drama
+3102,222649,Rosewater,Drama,Drama|NULL
+3103,115872,La femme de chambre du Titanic,Drama,Drama|NULL
+3104,101173,Coriolanus,Drama,Drama|NULL
+3105,25350,Imaginary Heroes,Comedy,Comedy|Drama
+3106,10034,High Heels and Low Lifes,Action,Action|Drama
+3107,20178,World's Greatest Dad,Comedy,Comedy|Drama
+3108,5072,Severance,Horror,Action|Horror
+3109,18191,Edmond,Drama,Drama|NULL
+3110,31007,Welcome to the Rileys,Drama,Drama|NULL
+3111,11546,Police Academy: Mission to Moscow,Action,Action|Drama
+3112,41894,Blood Done Sign My Name,Action,Action|Drama
+3113,184374,Cinco de Mayo: La Batalla,War,Drama|War
+3114,268171,Elsa & Fred,Comedy,Comedy|Drama
+3115,78149,"An Alan Smithee Film: Burn, Hollywood, Burn",Comedy,Animation|Comedy
+3116,24663,The Open Road,Drama,Comedy|Drama
+3117,39037,The Good Guy,Comedy,Comedy|Drama
+3118,22805,Motherhood,Comedy,Comedy|Drama
+3119,39055,Free Style,Drama,Drama|NULL
+3120,245846,Strangerland,Drama,Drama|NULL
+3121,25186,Janky Promoters,Comedy,Animation|Comedy
+3122,15017,Blonde Ambition,Comedy,Comedy|Drama
+3123,12245,The Oxford Murders,Action,Action|Drama
+3124,49787,The Reef,Horror,Action|Horror
+3125,16358,Eulogy,Comedy,Comedy|Drama
+3126,7006,White Noise 2: The Light,Horror,Action|Horror
+3127,66767,Beat the World,Drama,Drama|NULL
+3128,17622,Fifty Dead Men Walking,Action,Action|Drama
+3129,283671,Jungle Shuffle,Animation,Animation|Drama
+3130,18516,Adam Resurrected,Drama,Drama|War
+3131,217708,Hross í oss,Drama,Comedy|Drama
+3132,42057,Hai Marjawaan!,Comedy,Comedy|Drama
+3133,17577,The Devil's Tomb,Horror,Action|Horror
+3134,14608,Partition,Drama,Drama|NULL
+3135,34417,Good Intentions,Comedy,Animation|Comedy
+3136,15067,"좋은 놈, 나쁜 놈, 이상한 놈",Action,Action|Drama
+3137,78383,Nurse 3-D,Horror,Action|Horror
+3138,43090,Gunless,Action,Action|Drama
+3139,16614,Adventureland,Comedy,Animation|Comedy
+3140,9700,The Lost City,Drama,Drama|NULL
+3141,10471,Next Friday,Comedy,Animation|Comedy
+3142,250066,American Heist,Action,Action|NULL
+3143,667,You Only Live Twice,Drama,Action|Drama
+3144,208869,Plastic,Action,Action|Drama
+3145,86837,Amour,Drama,Drama|NULL
+3146,10306,Poltergeist III,Horror,Action|Horror
+3147,106845,Re-Kill,Horror,Action|Horror
+3148,11576,"It's a Mad, Mad, Mad, Mad World",Action,Action|Drama
+3149,219,Volver,Drama,Comedy|Drama
+3150,11827,Heavy Metal,Animation,Action|Animation
+3151,22820,Gentlemen Broncos,Action,Comedy|Drama
+3152,31174,Richard III,Drama,Drama|War
+3153,244316,Into the Grizzly Maze,Horror,Action|Horror
+3154,37737,Kites,Drama,Action|Drama
+3155,62215,Melancholia,Action,Action|Drama
+3156,66125,Red Dog,Comedy,Comedy|Drama
+3157,132316,Jab Tak Hai Jaan,Drama,Drama|NULL
+3158,348,Alien,Horror,Action|Horror
+3159,30497,The Texas Chain Saw Massacre,Horror,Action|Horror
+3160,27586,The Runaways,Drama,Drama|NULL
+3161,14811,Fiddler on the Roof,Drama,Drama|NULL
+3162,660,Thunderball,Drama,Action|Drama
+3163,68684,Detention,Horror,Action|Horror
+3164,40794,Mine vaganti,Drama,Comedy|Drama
+3165,9400,Set It Off,Action,Action|Drama
+3166,16162,The Best Man,Comedy,Comedy|Drama
+3167,10585,Child's Play,Horror,Action|Horror
+3168,2359,Sicko,Action,Animation|NULL
+3169,238636,The Purge: Anarchy,Horror,Action|Horror
+3170,10472,Down to You,Drama,Comedy|Drama
+3171,11282,Harold & Kumar Go to White Castle,Drama,Comedy|Drama
+3172,6521,The Contender,Drama,Drama|NULL
+3173,14181,Boiler Room,Action,Action|Drama
+3174,1621,Trading Places,Comedy,Animation|Comedy
+3175,9656,Black Christmas,Horror,Action|Horror
+3176,16428,Breakin' All the Rules,Comedy,Comedy|Drama
+3177,10705,Henry V,Drama,Drama|War
+3178,8272,The Savages,Drama,Drama|NULL
+3179,24621,Chasing Papi,Comedy,Comedy|Drama
+3180,1619,The Way of the Gun,Action,Action|Drama
+3181,9685,Igby Goes Down,Comedy,Comedy|Drama
+3182,14425,PCU,Comedy,Animation|Comedy
+3183,14624,The Ultimate Gift,Drama,Drama|NULL
+3184,10179,The Ice Pirates,Action,Action|Drama
+3185,15568,Gracie,Drama,Drama|NULL
+3186,14057,Trust the Man,Drama,Comedy|Drama
+3187,12621,Hamlet 2,Comedy,Animation|Comedy
+3188,1808,Velvet Goldmine,Drama,Drama|NULL
+3189,293670,곡성,Horror,Action|Horror
+3190,67675,Glee: The Concert Movie,Action,Animation|NULL
+3191,27329,สุริโยไท,War,Drama|War
+3192,29514,Due occhi diabolici,Horror,Action|Horror
+3193,250349,Barbecue,Comedy,Animation|Comedy
+3194,12454,All or Nothing,Comedy,Comedy|Drama
+3195,39806,Princess Kaiulani,Drama,Drama|NULL
+3196,15699,Opal Dream,Drama,Drama|NULL
+3197,8883,Flammen & Citronen,Action,Action|Drama
+3198,17926,Undiscovered,Comedy,Comedy|Drama
+3199,291081,Red Riding: In the Year of Our Lord 1974,Action,Action|Drama
+3200,41248,La Fille du RER,Drama,Drama|NULL
+3201,25968,Veronika Decides to Die,Drama,Drama|NULL
+3202,9671,Crocodile Dundee,Drama,Comedy|Drama
+3203,52010,"Ultramarines: A Warhammer 40,000 Movie",Animation,Action|Animation
+3204,11588,The I Inside,Action,Action|Drama
+3205,43418,Beneath Hill 60,War,Drama|War
+3206,71157,Polisse,Drama,Drama|NULL
+3207,13483,Awake,Action,Action|Drama
+3208,333355,Star Wars: Clone Wars (Volume 1),Animation,Action|Animation
+3209,327833,Skin Trade,Drama,Action|Drama
+3210,1547,The Lost Boys,Horror,Action|Horror
+3211,25196,Crazy Heart,Drama,Drama|NULL
+3212,16323,The Rose,Drama,Drama|NULL
+3213,175528,Baggage Claim,Comedy,Animation|Comedy
+3214,8069,Barbarella,Action,Action|Drama
+3215,71805,Håkon Håkonsen,Drama,Action|Drama
+3216,9451,Election,Comedy,Animation|Comedy
+3217,16727,The Namesake,Drama,Drama|NULL
+3218,272693,The DUFF,Comedy,Comedy|Drama
+3219,10696,Glitter,Drama,Drama|NULL
+3220,150202,The Haunting in Connecticut 2: Ghosts of Georgia,Horror,Action|Horror
+3221,19644,실미도,Action,Drama|War
+3222,29963,Bright Star,Drama,Drama|NULL
+3223,26022,My Name Is Khan,Drama,Drama|NULL
+3224,152747,All Is Lost,Drama,Action|Drama
+3225,62676,Limbo,Drama,Action|Drama
+3226,20360,Namastey London,Drama,Drama|NULL
+3227,1116,The Wind That Shakes the Barley,War,Drama|War
+3228,185008,Yeh Jawaani Hai Deewani,Drama,Drama|NULL
+3229,11620,Quo Vadis,Drama,Drama|War
+3230,14353,Repo! The Genetic Opera,Horror,Action|Horror
+3231,11818,Kurtlar vadisi - Irak,Drama,Action|Drama
+3232,680,Pulp Fiction,Action,Action|Drama
+3233,11176,The Muppet Movie,Drama,Comedy|Drama
+3234,242582,Nightcrawler,Action,Action|Drama
+3235,11217,Club Dread,Horror,Action|Horror
+3236,15121,The Sound of Music,Drama,Drama|NULL
+3237,2619,Splash,Action,Comedy|Drama
+3238,773,Little Miss Sunshine,Comedy,Comedy|Drama
+3239,235,Stand by Me,Action,Action|Drama
+3240,170,28 Days Later,Horror,Action|Horror
+3241,14114,You Got Served,Drama,Drama|NULL
+3242,10734,Escape from Alcatraz,Action,Action|Drama
+3243,37964,Brown Sugar,Comedy,Comedy|Drama
+3244,28121,A Thin Line Between Love and Hate,Action,Action|Drama
+3245,40807,50/50,Comedy,Comedy|Drama
+3246,10885,Shutter,Horror,Action|Horror
+3247,225565,That Awkward Moment,Comedy,Comedy|Drama
+3248,16471,Modern Problems,Comedy,Animation|Comedy
+3249,385736,Kicks,Drama,Action|Drama
+3250,11971,Much Ado About Nothing,Drama,Comedy|Drama
+3251,668,On Her Majesty's Secret Service,Drama,Action|Drama
+3252,11596,New Nightmare,Horror,Action|Horror
+3253,14429,Drive Me Crazy,Drama,Comedy|Drama
+3254,13751,Akeelah and the Bee,Drama,Drama|NULL
+3255,9490,Half Baked,Action,Action|Drama
+3256,14536,New in Town,Comedy,Animation|Comedy
+3257,1359,American Psycho,Action,Action|Drama
+3258,9962,The Good Girl,Drama,Comedy|Drama
+3259,15049,Bon Cop Bad Cop,Action,Action|Drama
+3260,22821,The Boondock Saints II: All Saints Day,Action,Action|Drama
+3261,42819,The City of Your Final Destination,Drama,Drama|NULL
+3262,209263,Enough Said,Drama,Comedy|Drama
+3263,37735,Easy A,Comedy,Animation|Comedy
+3264,59930,The Inkwell,Drama,Comedy|Drama
+3265,10873,Shadow of the Vampire,Horror,Action|Horror
+3266,51588,Prom,Comedy,Animation|Comedy
+3267,23570,The Pallbearer,Comedy,Comedy|Drama
+3268,19489,Held Up,Comedy,Animation|Comedy
+3269,14629,Woman on Top,Drama,Comedy|Drama
+3270,8293,Howards End,Drama,Drama|NULL
+3271,291270,Anomalisa,Animation,Animation|Drama
+3272,44009,Another Year,Comedy,Comedy|Drama
+3273,1958,8 femmes,Action,Action|Drama
+3274,13154,Showdown in Little Tokyo,Action,Action|Drama
+3275,26618,Clay Pigeons,Action,Action|Drama
+3276,43923,It's Kind of a Funny Story,Comedy,Comedy|Drama
+3277,46138,Made in Dagenham,Comedy,Drama|War
+3278,45791,And When Did You Last See Your Father?,Drama,Drama|NULL
+3279,26306,Prefontaine,Drama,Drama|NULL
+3280,110683,The Wicked Lady,Drama,Action|Drama
+3281,26963,The Secret of Kells,Animation,Action|Animation
+3282,198277,Begin Again,Drama,Comedy|Drama
+3283,7870,Down in the Valley,Drama,Drama|NULL
+3284,13072,Brooklyn Rules,Drama,Action|Drama
+3285,153397,Restless,Drama,Drama|NULL
+3286,30141,The Singing Detective,Action,Action|Drama
+3287,17044,The Land Girls,Drama,Drama|War
+3288,10288,Fido,Horror,Action|Horror
+3289,12183,The Wendell Baker Story,Drama,Comedy|Drama
+3290,44147,Wild Target,Action,Action|Comedy
+3291,12192,Pathology,Horror,Action|Horror
+3292,36597,Wuthering Heights,Drama,Drama|NULL
+3293,13197,10th & Wolf,Action,Action|Drama
+3294,10913,Dear Wendy,Action,Action|Drama
+3295,251321,Aloft,Drama,Drama|NULL
+3296,149,アキラ,Animation,Action|Animation
+3297,10425,The Death and Life of Bobby Z,Action,Action|Drama
+3298,49081,Maurice Richard,Drama,Drama|NULL
+3299,256687,Swelter,Drama,Action|Drama
+3300,220488,非常幸运,Comedy,Comedy|Drama
+3301,1544,Imagine Me & You,Drama,Comedy|Drama
+3302,374461,Mr. Church,Drama,Drama|NULL
+3303,302,Swimming Pool,Action,Action|Drama
+3304,182873,Green Street Hooligans: Underground,Action,Action|Drama
+3305,21512,The Blood of Heroes,Action,Action|Drama
+3306,389425,Code of Honor,Action,Action|Drama
+3307,403,Driving Miss Daisy,Comedy,Comedy|Drama
+3308,29461,Soul Food,Comedy,Comedy|Drama
+3309,33542,紅番區,Action,Action|Drama
+3310,283708,Loin des hommes,Drama,Drama|War
+3311,9388,Thank You for Smoking,Comedy,Comedy|Drama
+3312,1691,Hostel: Part II,Horror,Action|Horror
+3313,24684,An Education,Drama,Drama|NULL
+3314,2610,Shopgirl,Drama,Comedy|Drama
+3315,11308,The Hotel New Hampshire,Comedy,Comedy|Drama
+3316,11022,Narc,Action,Action|Drama
+3317,34341,Men with Brooms,Comedy,Animation|Comedy
+3318,15365,Witless Protection,Action,Action|Drama
+3319,36046,The Work and the Glory,Drama,Drama|NULL
+3320,12569,Extract,Comedy,Animation|Comedy
+3321,24356,Masked and Anonymous,Drama,Drama|NULL
+3322,55903,Betty Fisher et autres histoires,Action,Action|Drama
+3323,2577,Code 46,Drama,Action|Drama
+3324,103903,Outside Bet,Comedy,Animation|Comedy
+3325,73873,Albert Nobbs,Drama,Drama|NULL
+3326,312113,Black November,Action,Action|Drama
+3327,14165,Ta Ra Rum Pum,Comedy,Comedy|Drama
+3328,2011,Persepolis,Animation,Animation|Drama
+3329,45650,The Hole,Drama,Action|Drama
+3330,7735,Die Welle,Drama,Drama|NULL
+3331,301365,The Neon Demon,Horror,Action|Horror
+3332,25941,Harry Brown,Action,Action|Drama
+3333,29064,The Omega Code,Horror,Action|Horror
+3334,7326,Juno,Drama,Comedy|Drama
+3335,326284,Pound of Flesh,Action,Action|NULL
+3336,681,Diamonds Are Forever,Drama,Action|Drama
+3337,238,The Godfather,Action,Action|Drama
+3338,535,Flashdance,Drama,Drama|NULL
+3339,19913,(500) Days of Summer,Drama,Comedy|Drama
+3340,713,The Piano,Drama,Drama|NULL
+3341,77930,Magic Mike,Comedy,Comedy|Drama
+3342,10727,Darkness Falls,Horror,Action|Horror
+3343,253,Live and Let Die,Drama,Action|Drama
+3344,17908,My Dog Skip,Comedy,Comedy|Drama
+3345,8390,"Definitely, Maybe",Comedy,Comedy|Drama
+3346,57119,Jumping the Broom,Comedy,Animation|Comedy
+3347,3291,"Good Night, and Good Luck.",Drama,Drama|War
+3348,398,Capote,Action,Action|Drama
+3349,8068,Desperado,Action,Action|Drama
+3350,10803,Logan's Run,Action,Action|Drama
+3351,682,The Man with the Golden Gun,Drama,Action|Drama
+3352,10117,Action Jackson,Action,Action|Drama
+3353,9392,The Descent,Horror,Action|Horror
+3354,24977,Michael Jordan to the Max,Action,Animation|NULL
+3355,79316,Devil's Due,Horror,Action|Horror
+3356,2074,Flirting with Disaster,Comedy,Comedy|Drama
+3357,1696,The Devil's Rejects,Horror,Action|Horror
+3358,308639,Dope,Action,Action|Drama
+3359,22314,In Too Deep,Action,Action|Drama
+3360,2662,House of 1000 Corpses,Horror,Action|Horror
+3361,77156,Alien Zone,Horror,Action|Horror
+3362,12573,A Serious Man,Comedy,Comedy|Drama
+3363,44718,Get Low,Comedy,Comedy|Drama
+3364,11342,Warlock,Horror,Action|Horror
+3365,241771,Beyond the Lights,Drama,Drama|NULL
+3366,34653,A Single Man,Drama,Drama|NULL
+3367,11051,The Last Temptation of Christ,Drama,Drama|NULL
+3368,14578,Outside Providence,Drama,Comedy|Drama
+3369,57825,Bride & Prejudice,Drama,Comedy|Drama
+3370,9555,Rabbit-Proof Fence,Drama,Action|Drama
+3371,15581,Who's Your Caddy?,Comedy,Animation|Comedy
+3372,13006,Split Second,Horror,Action|Horror
+3373,16651,The Other Side of Heaven,Drama,Action|Drama
+3374,4251,Veer-Zaara,Drama,Drama|NULL
+3375,12400,Redbelt,Drama,Drama|NULL
+3376,39053,Cyrus,Drama,Comedy|Drama
+3377,104896,A Dog Of Flanders,Drama,Drama|NULL
+3378,14112,Auto Focus,Action,Action|Drama
+3379,12271,Factory Girl,Drama,Drama|NULL
+3380,71859,We Need to Talk About Kevin,Drama,Drama|NULL
+3381,226354,The Christmas Candle,Drama,Drama|NULL
+3382,48620,The Mighty Macs,Action,Action|Drama
+3383,33676,Losin' It,Comedy,Animation|Comedy
+3384,37080,Mother and Child,Drama,Drama|NULL
+3385,25388,March or Die,Drama,Action|Drama
+3386,11687,Les visiteurs,Action,Action|Drama
+3387,39210,Somewhere,Comedy,Comedy|Drama
+3388,30128,I Hope They Serve Beer in Hell,Comedy,Comedy|Drama
+3389,31535,Chairman of the Board,Comedy,Animation|Comedy
+3390,44835,Hesher,Drama,Drama|NULL
+3391,192134,Dom Hemingway,Action,Action|Drama
+3392,1956,Gerry,Drama,Action|Drama
+3393,24985,The Heart of Me,Drama,Drama|NULL
+3394,306745,Freeheld,Drama,Drama|NULL
+3395,47088,The Extra Man,Comedy,Animation|Comedy
+3396,110402,Трудно быть богом,Action,Action|Drama
+3397,27004,Ca$h,Action,Action|Drama
+3398,15013,Wah-Wah,Drama,Drama|NULL
+3399,8374,The Boondock Saints,Action,Action|Drama
+3400,277519,Z 風暴,Action,Action|Drama
+3401,78381,Twixt,Horror,Action|Horror
+3402,164372,Снежная королева,Animation,Action|Animation
+3403,294512,Alpha and Omega: The Legend of the Saw Tooth Cave,Animation,Animation|Drama
+3404,8879,Pale Rider,Action,Action|Drama
+3405,13001,Stargate: The Ark of Truth,Action,Action|Drama
+3406,9571,Dazed and Confused,Comedy,Comedy|Drama
+3407,13649,High School Musical 2,Comedy,Comedy|Drama
+3408,325373,Two Lovers and a Bear,Drama,Drama|NULL
+3409,334527,Criminal Activities,Action,Action|Drama
+3410,2211,Aimee & Jaguar,Drama,Drama|War
+3411,13919,The Chumscrubber,Comedy,Comedy|Drama
+3412,14576,Shade,Action,Action|Drama
+3413,82505,House at the End of the Street,Horror,Action|Horror
+3414,46738,Incendies,Drama,Drama|War
+3415,38970,Ricordati di me,Drama,Comedy|Drama
+3416,41009,Perrier’s Bounty,Action,Action|Drama
+3417,7347,Tropa de Elite,Action,Action|Drama
+3418,250546,Annabelle,Horror,Action|Horror
+3419,38415,Bran Nue Dae,Drama,Comedy|Drama
+3420,650,Boyz n the Hood,Action,Action|Drama
+3421,16620,La Bamba,Drama,Drama|NULL
+3422,25113,The Four Seasons,Drama,Comedy|Drama
+3423,11033,Dressed to Kill,Horror,Action|Horror
+3424,34723,The Adventures of Huck Finn,Drama,Action|Drama
+3425,9430,Go,Action,Action|Drama
+3426,8998,Friends with Money,Drama,Comedy|Drama
+3427,10514,The Andromeda Strain,Action,Action|Drama
+3428,10496,Bats,Horror,Action|Horror
+3429,1591,Nirgendwo in Afrika,Drama,Drama|NULL
+3430,76025,Shame,Drama,Drama|NULL
+3431,4836,Layer Cake,Action,Action|Drama
+3432,14631,The Work and the Glory II: American Zion,Drama,Drama|NULL
+3433,87499,The East,Drama,Drama|NULL
+3434,18923,A Home at the End of the World,Drama,Drama|NULL
+3435,26665,Aberdeen,Comedy,Comedy|Drama
+3436,28089,The Messenger,Drama,Drama|War
+3437,62255,Tracker,Drama,Action|Drama
+3438,5708,Control,Drama,Drama|NULL
+3439,218,The Terminator,Action,Action|Drama
+3440,338,"Good bye, Lenin!",Drama,Comedy|Drama
+3441,21641,The Damned United,Drama,Drama|NULL
+3442,10925,The Return of the Living Dead,Horror,Action|Horror
+3443,2293,Mallrats,Comedy,Comedy|Drama
+3444,621,Grease,Drama,Drama|NULL
+3445,792,Platoon,Action,Drama|War
+3446,1777,Fahrenheit 9/11,Action,Animation|NULL
+3447,642,Butch Cassidy and the Sundance Kid,Action,Action|Drama
+3448,433,Mary Poppins,Action,Action|Comedy
+3449,16619,Ordinary People,Drama,Drama|NULL
+3450,1725,West Side Story,Action,Action|Drama
+3451,11977,Caddyshack,Comedy,Animation|Comedy
+3452,20322,The Brothers,Drama,Comedy|Drama
+3453,16158,The Wood,Drama,Comedy|Drama
+3454,629,The Usual Suspects,Action,Action|Drama
+3455,10160,A Nightmare on Elm Street 5: The Dream Child,Horror,Action|Horror
+3456,11452,National Lampoon’s Van Wilder,Comedy,Comedy|Drama
+3457,12163,The Wrestler,Drama,Drama|NULL
+3458,32275,Duel in the Sun,Action,Action|NULL
+3459,13785,Best in Show,Comedy,Animation|Comedy
+3460,1103,Escape from New York,Action,Action|Drama
+3461,36739,School Daze,Comedy,Comedy|Drama
+3462,14144,Daddy Day Camp,Comedy,Animation|Comedy
+3463,10622,一個好人,Action,Action|Drama
+3464,13370,A Mighty Wind,Comedy,Animation|Comedy
+3465,11191,Mystic Pizza,Drama,Comedy|Drama
+3466,10215,Sliding Doors,Drama,Comedy|Drama
+3467,25066,Tales from the Hood,Horror,Action|Horror
+3468,1523,The Last King of Scotland,Drama,Drama|NULL
+3469,11361,Halloween 5: The Revenge of Michael Myers,Horror,Action|Horror
+3470,92591,Bernie,Action,Action|Drama
+3471,57612,Dolphins and Whales: Tribes of the Ocean,Action,Animation|NULL
+3472,12509,Pollock,Drama,Drama|NULL
+3473,15256,200 Cigarettes,Drama,Comedy|Drama
+3474,83686,The Words,Drama,Drama|NULL
+3475,80304,Casa De Mi Padre,Action,Action|Comedy
+3476,28053,City Island,Comedy,Comedy|Drama
+3477,67913,The Guard,Action,Action|Drama
+3478,13991,College,Comedy,Animation|Comedy
+3479,1443,The Virgin Suicides,Drama,Drama|NULL
+3480,8545,Little Voice,Comedy,Comedy|Drama
+3481,19556,Miss March,Comedy,Comedy|Drama
+3482,231576,Wish I Was Here,Comedy,Comedy|Drama
+3483,16172,Simply Irresistible,Comedy,Animation|Comedy
+3484,13403,Hedwig and the Angry Inch,Comedy,Animation|Comedy
+3485,15797,Only the Strong,Action,Action|NULL
+3486,347764,Goddess of Love,Horror,Action|Horror
+3487,13537,Shattered Glass,Drama,Drama|War
+3488,20794,Novocaine,Action,Action|Drama
+3489,31064,The Business of Strangers,Drama,Drama|NULL
+3490,576,The Wild Bunch,Action,Action|Drama
+3491,13990,The Wackness,Drama,Drama|NULL
+3492,11583,The First Great Train Robbery,Drama,Action|Drama
+3493,18602,Morvern Callar,Drama,Drama|NULL
+3494,27549,Beastmaster 2: Through the Portal of Time,Action,Action|Drama
+3495,59728,The 5th Quarter,Drama,Drama|NULL
+3496,10930,La fleur du mal,Drama,Drama|NULL
+3497,32395,The Greatest,Drama,Drama|NULL
+3498,58882,Snow Flower and the Secret Fan,Drama,Drama|War
+3499,7547,Come Early Morning,Drama,Drama|NULL
+3500,35944,Lucky Break,Action,Action|Comedy
+3501,42222,Julia,Drama,Drama|NULL
+3502,13827,"Surfer, Dude",Comedy,Animation|Comedy
+3503,44260,Lake of Fire,Action,Animation|NULL
+3504,9282,11:14,Action,Action|Drama
+3505,38940,Men of War,Action,Action|Drama
+3506,35689,Don McKay,Action,Action|Drama
+3507,97614,Deadfall,Action,Action|Drama
+3508,37206,A Shine of Rainbows,Drama,Drama|NULL
+3509,58626,The Hit List,Action,Action|Drama
+3510,183894,Emma,Drama,Comedy|Drama
+3511,837,Videodrome,Horror,Action|Horror
+3512,1555,L'Auberge espagnole,Drama,Comedy|Drama
+3513,244783,Song One,Drama,Drama|NULL
+3514,16564,Oorlogswinter,War,Drama|War
+3515,168027,Freaky Deaky,Comedy,Animation|Comedy
+3516,3482,The Train,Drama,Drama|War
+3517,135595,Trade Of Innocents,Drama,Drama|NULL
+3518,8982,ต้มยำกุ้ง,Action,Action|Drama
+3519,89861,Stiff Upper Lips,Comedy,Animation|Comedy
+3520,455,Bend It Like Beckham,Drama,Comedy|Drama
+3521,57022,Sunshine State,Drama,Drama|NULL
+3522,14351,Crossover,Drama,Action|Drama
+3523,147767,Khiladi 786,Action,Action|Comedy
+3524,10664,[REC]²,Horror,Action|Horror
+3525,55567,Standing Ovation,Comedy,Animation|Comedy
+3526,9277,The Sting,Action,Action|Drama
+3527,9443,Chariots of Fire,Drama,Drama|War
+3528,16186,Diary of a Mad Black Woman,Drama,Comedy|Drama
+3529,7863,Shine,Drama,Drama|NULL
+3530,138697,Don Jon,Drama,Comedy|Drama
+3531,11901,High Plains Drifter,Action,Action|NULL
+3532,1548,Ghost World,Comedy,Comedy|Drama
+3533,11889,Iris,Drama,Drama|NULL
+3534,33155,Galaxina,Action,Action|Drama
+3535,5528,Les Choristes,Drama,Drama|NULL
+3536,321,Mambo Italiano,Comedy,Comedy|Drama
+3537,4997,Wonderland,Action,Action|Drama
+3538,925,Do the Right Thing,Drama,Drama|NULL
+3539,27451,Harvard Man,Drama,Drama|NULL
+3540,73532,Le Havre,Comedy,Comedy|Drama
+3541,979,Irréversible,Action,Action|Drama
+3542,193722,R100,Comedy,Comedy|Drama
+3543,7913,Rang De Basanti,Drama,Drama|NULL
+3544,253253,Animals,Drama,Drama|NULL
+3545,51995,Salvation Boulevard,Drama,Comedy|Drama
+3546,13173,The Ten,Comedy,Animation|Comedy
+3547,22908,A Room for Romeo Brass,Comedy,Comedy|Drama
+3548,70670,Hodejegerne,Action,Action|Drama
+3549,84204,Grabbers,Horror,Action|Horror
+3550,25248,Saint Ralph,Comedy,Comedy|Drama
+3551,230266,Miss Julie,Drama,Drama|NULL
+3552,16633,Somewhere in Time,Action,Action|Drama
+3553,63006,Dum Maaro Dum,Action,Action|Drama
+3554,91586,Insidious: Chapter 2,Horror,Action|Horror
+3555,215,Saw II,Horror,Action|Horror
+3556,333371,10 Cloverfield Lane,Drama,Action|Drama
+3557,9012,Jackass: The Movie,Comedy,Animation|Comedy
+3558,345911,Lights Out,Horror,Action|Horror
+3559,72571,Paranormal Activity 3,Horror,Action|Horror
+3560,242512,Ouija,Horror,Action|Horror
+3561,10072,A Nightmare on Elm Street 3: Dream Warriors,Horror,Action|Horror
+3562,211954,No se Aceptan Devoluciones,Comedy,Comedy|Drama
+3563,82990,Paranormal Activity 4,Horror,Action|Horror
+3564,29912,The Robe,Drama,Drama|NULL
+3565,11843,The Return of the Pink Panther,Comedy,Animation|Comedy
+3566,11284,Freddy's Dead: The Final Nightmare,Horror,Action|Horror
+3567,504,Monster,Action,Action|Drama
+3568,173,"20,000 Leagues Under the Sea",Drama,Action|Drama
+3569,227348,Paranormal Activity: The Marked Ones,Horror,Action|Horror
+3570,1955,The Elephant Man,Drama,Drama|War
+3571,152532,Dallas Buyers Club,Drama,Drama|War
+3572,243940,The Lazarus Effect,Horror,Action|Horror
+3573,77,Memento,Drama,Drama|NULL
+3574,157547,Oculus,Horror,Action|Horror
+3575,2295,Clerks II,Comedy,Animation|Comedy
+3576,71,Billy Elliot,Comedy,Comedy|Drama
+3577,147773,The Way Way Back,Comedy,Comedy|Drama
+3578,16096,House Party 2,Comedy,Animation|Comedy
+3579,24266,The Man from Snowy River,Action,Action|Drama
+3580,16508,Doug's 1st Movie,Animation,Animation|Comedy
+3581,2895,The Apostle,Drama,Drama|NULL
+3582,15660,Mommie Dearest,Drama,Drama|NULL
+3583,59968,Our Idiot Brother,Comedy,Comedy|Drama
+3584,323677,Race,Action,Action|Drama
+3585,19848,The Players Club,Drama,Drama|NULL
+3586,256274,"As Above, So Below",Horror,Action|Horror
+3587,235271,Addicted,Drama,Drama|NULL
+3588,45153,Eve's Bayou,Drama,Drama|NULL
+3589,284293,Still Alice,Drama,Drama|NULL
+3590,24973,The Egyptian,Drama,Drama|War
+3591,21610,Nighthawks,Action,Action|Drama
+3592,10283,Friday the 13th Part VIII: Jason Takes Manhattan,Horror,Action|Horror
+3593,8346,My Big Fat Greek Wedding,Drama,Comedy|Drama
+3594,122081,Spring Breakers,Action,Action|Drama
+3595,10987,Halloween: The Curse of Michael Myers,Horror,Action|Horror
+3596,1391,Y tu mamá también,Drama,Drama|NULL
+3597,747,Shaun of the Dead,Horror,Action|Horror
+3598,14745,The Haunting of Molly Hartley,Horror,Action|Horror
+3599,26748,Lone Star,Drama,Drama|NULL
+3600,11357,Halloween 4: The Return of Michael Myers,Horror,Action|Horror
+3601,24913,April Fool's Day,Horror,Action|Horror
+3602,13776,Diner,Comedy,Comedy|Drama
+3603,14854,Lone Wolf McQuade,Action,Action|Drama
+3604,50357,Apollo 18,Horror,Action|Horror
+3605,13090,Sunshine Cleaning,Comedy,Comedy|Drama
+3606,192141,No Escape,Action,Action|Drama
+3607,16441,The Beastmaster,Action,Action|NULL
+3608,29996,Solomon and Sheba,Drama,Drama|War
+3609,351819,Fifty Shades of Black,Comedy,Comedy|Drama
+3610,14834,Not Easily Broken,Drama,Drama|NULL
+3611,22649,A Farewell to Arms,Drama,Drama|War
+3612,378200,The Perfect Match,Comedy,Comedy|Drama
+3613,20455,Digimon: The Movie,Animation,Action|Animation
+3614,13193,Saved!,Comedy,Comedy|Drama
+3615,11042,Les Invasions barbares,Action,Action|Drama
+3616,10786,Robin and Marian,Drama,Action|Drama
+3617,12484,The Forsaken,Horror,Action|Horror
+3618,17339,Force 10 from Navarone,Drama,Action|Drama
+3619,11959,UHF,Comedy,Animation|Comedy
+3620,9900,Grandma's Boy,Comedy,Animation|Comedy
+3621,14662,Slums of Beverly Hills,Comedy,Comedy|Drama
+3622,335,C'era una volta il West,Action,Action|NULL
+3623,15745,Made,Action,Comedy|Drama
+3624,17431,Moon,Action,Action|Drama
+3625,21014,Keeping Up with the Steins,Comedy,Animation|Comedy
+3626,78394,Sea Rex 3D: Journey to a Prehistoric World,Action,Animation|NULL
+3627,10217,The Sweet Hereafter,Drama,Drama|NULL
+3628,46332,Des hommes et des dieux,Drama,Drama|War
+3629,13996,Bottle Shock,Comedy,Comedy|Drama
+3630,3028,Jekyll and Hyde ... Together Again,Horror,Action|Horror
+3631,1024,Heavenly Creatures,Action,Action|Drama
+3632,343795,90 Minutes in Heaven,Drama,Drama|NULL
+3633,45658,Everything Must Go,Drama,Comedy|Drama
+3634,16148,Zero Effect,Action,Action|Drama
+3635,4553,The Machinist,Drama,Drama|NULL
+3636,36351,Light Sleeper,Action,Action|Drama
+3637,245916,Kill the Messenger,Action,Action|Drama
+3638,27585,Rabbit Hole,Drama,Drama|NULL
+3639,1415,Party Monster,Action,Action|Drama
+3640,313922,Green Room,Horror,Action|Horror
+3641,14474,The Oh in Ohio,Drama,Comedy|Drama
+3642,199933,Atlas Shrugged Part III: Who is John Galt?,Action,Action|Drama
+3643,13685,Bottle Rocket,Action,Action|Drama
+3644,8744,Albino Alligator,Action,Action|Drama
+3645,38428,"Gandhi, My Father",Drama,Drama|War
+3646,8847,Standard Operating Procedure,Action,Animation|NULL
+3647,39269,Out of the Blue,Drama,Drama|NULL
+3648,46838,Tucker and Dale vs Evil,Horror,Action|Horror
+3649,51384,"Lovely, Still",Drama,Drama|NULL
+3650,56930,Tycoon,Drama,Action|Drama
+3651,41730,Desert Blue,Comedy,Comedy|Drama
+3652,18442,Decoys,Horror,Action|Horror
+3653,298312,The Visit,Horror,Action|Horror
+3654,11600,Redacted,Drama,Drama|War
+3655,71547,Fascination,Drama,Drama|NULL
+3656,57876,Area 51,Horror,Action|Horror
+3657,77495,Mientras duermes,Drama,Drama|NULL
+3658,13849,The Cottage,Horror,Action|Horror
+3659,14849,Dead Like Me: Life After Death,Action,Comedy|Drama
+3660,12486,Farce of the Penguins,Comedy,Animation|Comedy
+3661,19615,Flying By,Drama,Drama|NULL
+3662,244403,Rudderless,Comedy,Comedy|Drama
+3663,292481,Henry & Me,Animation,Animation|NULL
+3664,340816,Christmas Eve,Comedy,Comedy|Drama
+3665,78814,We Have Your Husband,Action,Action|Drama
+3666,297596,Dying of the Light,Drama,Drama|NULL
+3667,299552,Born Of War,Action,Drama|War
+3668,11935,Capricorn One,Action,Action|Drama
+3669,113406,Should've Been Romeo,Comedy,Comedy|Drama
+3670,447027,Running Forever,Action,Animation|NULL
+3671,290825,Yoga Hosers,Horror,Action|Horror
+3672,361159,Navy Seals vs. Zombies,Horror,Action|Horror
+3673,12555,Obsluhoval jsem anglického krále,Comedy,Comedy|Drama
+3674,31175,Soul Kitchen,Comedy,Comedy|Drama
+3675,12498,Sling Blade,Drama,Drama|NULL
+3676,77949,The Awakening,Horror,Action|Horror
+3677,1690,Hostel,Horror,Action|Horror
+3678,8435,A Cock and Bull Story,Comedy,Comedy|Drama
+3679,64720,Take Shelter,Drama,Drama|NULL
+3680,49365,Lady in White,Horror,Action|Horror
+3681,11404,Driving Lessons,Comedy,Comedy|Drama
+3682,300706,Let's Kill Ward's Wife,Comedy,Animation|Comedy
+3683,16337,The Texas Chainsaw Massacre 2,Horror,Action|Horror
+3684,11577,Pat Garrett & Billy the Kid,Action,Action|NULL
+3685,77987,Only God Forgives,Action,Action|Drama
+3686,40185,Camping Sauvage,Drama,Drama|NULL
+3687,68202,Without Men,Comedy,Comedy|Drama
+3688,8981,Dear Frankie,Drama,Drama|NULL
+3689,10914,All Hat,Action,Action|Drama
+3690,50848,Le Nom des gens,Drama,Comedy|Drama
+3691,166624,Treading Water,Comedy,Comedy|Drama
+3692,10822,Savage Grace,Drama,Drama|NULL
+3693,10844,Out of the Blue,Drama,Drama|NULL
+3694,9336,Police Academy,Action,Action|Drama
+3695,5689,The Blue Lagoon,Drama,Action|Drama
+3696,712,Four Weddings and a Funeral,Drama,Comedy|Drama
+3697,13342,Fast Times at Ridgemont High,Comedy,Animation|Comedy
+3698,10339,Moby Dick,Drama,Action|Drama
+3699,1429,25th Hour,Action,Action|Drama
+3700,9303,Bound,Drama,Action|Drama
+3701,641,Requiem for a Dream,Action,Action|Drama
+3702,27686,State Fair,Drama,Drama|NULL
+3703,65749,"Tango, no me dejes nunca",Drama,Drama|NULL
+3704,6106,Salvador,Drama,Drama|NULL
+3705,252680,Moms' Night Out,Comedy,Animation|Comedy
+3706,141,Donnie Darko,Action,Action|Drama
+3707,66607,Salvando al Soldado Perez,Action,Action|Comedy
+3708,17139,Karakter,Drama,Drama|War
+3709,12079,Spun,Action,Action|Drama
+3710,39800,Life During Wartime,Comedy,Comedy|Drama
+3711,4550,친절한 금자씨,Drama,Drama|NULL
+3712,62116,"Nannerl, la soeur de Mozart",Drama,Drama|NULL
+3713,9991,Mean Machine,Comedy,Comedy|Drama
+3714,13807,放‧逐,Action,Action|Drama
+3715,68818,Blackthorn,Action,Action|Drama
+3716,12093,Lilja 4-Ever,Action,Action|Drama
+3717,36419,After.Life,Horror,Action|Horror
+3718,281730,Fugly,Drama,Comedy|Drama
+3719,510,One Flew Over the Cuckoo's Nest,Drama,Drama|NULL
+3720,362105,R.L. Stine's Monsterville: The Cabinet of Souls,Horror,Action|Horror
+3721,10970,Silent Movie,Comedy,Animation|Comedy
+3722,375290,Airlift,Drama,Drama|War
+3723,17663,Anne of Green Gables,Drama,Drama|NULL
+3724,270938,Falcon Rising,Action,Action|Drama
+3725,116613,The Sweeney,Action,Action|Drama
+3726,11826,Sexy Beast,Action,Action|Drama
+3727,29920,Snabba Cash,Action,Action|Drama
+3728,1088,Whale Rider,Drama,Drama|NULL
+3729,26379,Paa,Drama,Drama|NULL
+3730,34069,Cargo,Action,Action|Drama
+3731,10947,High School Musical,Comedy,Comedy|Drama
+3732,47452,Love and Death on Long Island,Drama,Drama|NULL
+3733,3040,Ночной дозор,Action,Action|Drama
+3734,11386,The Crying Game,Drama,Action|Drama
+3735,10246,Porky's,Comedy,Animation|Comedy
+3736,29426,Survival of the Dead,Horror,Action|Horror
+3737,10331,Night of the Living Dead,Horror,Action|Horror
+3738,153,Lost in Translation,Drama,Drama|NULL
+3739,703,Annie Hall,Drama,Comedy|Drama
+3740,27191,The Greatest Show on Earth,Drama,Action|Drama
+3741,1365,Monster's Ball,Drama,Drama|NULL
+3742,287424,Maggie,Horror,Action|Horror
+3743,451,Leaving Las Vegas,Drama,Drama|NULL
+3744,165864,Hansel and Gretel Get Baked,Horror,Action|Horror
+3745,987,The Front Page,Drama,Comedy|Drama
+3746,241251,The Boy Next Door,Drama,Drama|NULL
+3747,40494,Trapeze,Drama,Drama|NULL
+3748,39781,The Kids Are All Right,Comedy,Comedy|Drama
+3749,8337,They Live,Horror,Action|Horror
+3750,5925,The Great Escape,Drama,Drama|War
+3751,8357,What the #$*! Do We (K)now!?,Action,Animation|NULL
+3752,146203,The Last Exorcism Part II,Horror,Action|Horror
+3753,85350,Boyhood,Drama,Drama|NULL
+3754,512,Scoop,Comedy,Animation|Comedy
+3755,13408,The Wash,Action,Action|Comedy
+3756,47816,3 Strikes,Action,Comedy|Drama
+3757,10744,The Cooler,Drama,Drama|NULL
+3758,11536,The Misfits,Drama,Action|Drama
+3759,9782,The Night Listener,Drama,Drama|NULL
+3760,18713,The Jerky Boys,Action,Action|Drama
+3761,6537,El orfanato,Horror,Action|Horror
+3762,184345,A Haunted House 2,Horror,Action|Horror
+3763,1809,The Rules of Attraction,Drama,Comedy|Drama
+3764,2370,Topaz,Drama,Action|Drama
+3765,9809,Let's Go to Prison,Action,Action|Drama
+3766,5,Four Rooms,Action,Action|Drama
+3767,11013,Secretary,Drama,Comedy|Drama
+3768,19153,The Real Cancun,Action,Animation|NULL
+3769,10132,Talk Radio,Drama,Drama|NULL
+3770,16448,Waiting for Guffman,Comedy,Animation|Comedy
+3771,15122,Love Stinks,Comedy,Comedy|Drama
+3772,8141,You Kill Me,Action,Action|Drama
+3773,1546,Thumbsucker,Comedy,Comedy|Drama
+3774,48572,Red State,Horror,Action|Horror
+3775,14517,Mirrormask,Action,Action|NULL
+3776,89708,Samsara,Drama,Drama|NULL
+3777,27551,The Barbarians,Action,Action|Drama
+3778,64678,The Art of Getting By,Drama,Drama|NULL
+3779,309503,Zipper,Drama,Drama|NULL
+3780,14293,Poolhall Junkies,Drama,Comedy|Drama
+3781,15059,The Loss of Sexual Innocence,Drama,Drama|NULL
+3782,103328,Holy Motors,Action,Action|Drama
+3783,157847,Joe,Drama,Drama|NULL
+3784,25719,Shooting Fish,Action,Action|Drama
+3785,48309,Prison,Horror,Action|Horror
+3786,27723,Psycho Beach Party,Comedy,Animation|Comedy
+3787,20468,The Big Tease,Comedy,Animation|Comedy
+3788,242575,"Guten Tag, Ramón",Drama,Drama|NULL
+3789,44945,Trust,Action,Action|Drama
+3790,29122,An Everlasting Piece,Action,Action|Drama
+3791,125123,Among Giants,Comedy,Comedy|Drama
+3792,111190,Adore,Drama,Drama|NULL
+3793,133575,The Velocity of Gary,Drama,Drama|NULL
+3794,54580,Los lunes al sol,Drama,Drama|NULL
+3795,52015,Stake Land,Horror,Action|Horror
+3796,34941,The Last Time I Committed Suicide,Drama,Drama|NULL
+3797,227975,Praia do Futuro,Drama,Drama|NULL
+3798,60422,Another Happy Day,Comedy,Comedy|Drama
+3799,81390,A Lonely Place to Die,Action,Action|Drama
+3800,10981,Nothing,Action,Action|Drama
+3801,225235,Географ глобус пропил,Drama,Drama|NULL
+3802,14902,1776,Comedy,Drama|War
+3803,121676,Inescapable,Drama,Drama|NULL
+3804,22301,Hell's Angels,Action,Drama|War
+3805,20065,Purple Violets,Drama,Comedy|Drama
+3806,257087,The Veil,Horror,Action|Horror
+3807,46420,The Loved Ones,Horror,Action|Horror
+3808,114635,The Helpers,Horror,Action|Horror
+3809,158150,How to Fall in Love,Comedy,Comedy|Drama
+3810,251979,The Perfect Wave,Drama,Action|Drama
+3811,874,A Man for All Seasons,Drama,Drama|War
+3812,10774,Network,Drama,Drama|NULL
+3813,770,Gone with the Wind,Drama,Drama|War
+3814,266102,Desert Dancer,Drama,Drama|NULL
+3815,29715,Major Dundee,Action,Action|War
+3816,25209,Annie Get Your Gun,Action,Action|Drama
+3817,37495,Four Lions,Action,Action|Drama
+3818,29262,Casa de Areia,Drama,Drama|NULL
+3819,34769,Defendor,Action,Action|Drama
+3820,35032,The Pirate,Drama,Drama|NULL
+3821,5178,The Good Heart,Drama,Comedy|Drama
+3822,8618,The History Boys,Comedy,Comedy|Drama
+3823,3116,Midnight Cowboy,Drama,Drama|NULL
+3824,9427,The Full Monty,Comedy,Animation|Comedy
+3825,813,Airplane!,Comedy,Animation|Comedy
+3826,352978,Chain of Command,Drama,Action|Drama
+3827,10634,Friday,Comedy,Animation|Comedy
+3828,9516,Menace II Society,Action,Action|Drama
+3829,16288,Creepshow 2,Horror,Action|Horror
+3830,23330,The Ballad of Cable Hogue,Action,Action|Comedy
+3831,18900,In Cold Blood,Action,Action|Drama
+3832,27029,The Nun's Story,Drama,Drama|NULL
+3833,26268,Harper,Action,Action|Drama
+3834,573,Frenzy,Action,Action|Drama
+3835,310131,The Witch,Horror,Action|Horror
+3836,40505,I Got the Hook Up,Action,Action|Comedy
+3837,11363,She's the One,Comedy,Comedy|Drama
+3838,3033,Gods and Monsters,Drama,Drama|NULL
+3839,25376,El secreto de sus ojos,Action,Action|Drama
+3840,22007,Train,Horror,Action|Horror
+3841,765,Evil Dead II,Horror,Action|Horror
+3842,10615,Pootie Tang,Action,Action|Comedy
+3843,205321,Sharknado,Horror,Action|Horror
+3844,89540,La otra conquista,Drama,Drama|NULL
+3845,46146,Trolljegeren,Horror,Action|Horror
+3846,38007,Ira & Abby,Comedy,Comedy|Drama
+3847,14256,Winter Passing,Comedy,Comedy|Drama
+3848,540,D.E.B.S.,Action,Action|NULL
+3849,370464,The Masked Saint,Action,Action|Drama
+3850,20055,The Betrayed,Action,Action|Drama
+3851,224569,Taxman,Action,Action|Drama
+3852,395766,The Secret,Drama,Drama|NULL
+3853,39303,2:13,Horror,Action|Horror
+3854,142061,"Batman: The Dark Knight Returns, Part 2",Animation,Action|Animation
+3855,370662,Time to Choose,Action,Animation|NULL
+3856,252360,In the Name of the King III,Action,Action|Drama
+3857,256740,Wicked Blood,Drama,Action|Drama
+3858,299145,Dawn Patrol,Drama,Drama|NULL
+3859,241766,Lords of London,Action,Action|Drama
+3860,12535,High Anxiety,Comedy,Animation|Comedy
+3861,1667,La Marche de l'empereur,Action,Animation|NULL
+3862,50839,Margin Call,Drama,Drama|NULL
+3863,86549,August,Drama,Drama|NULL
+3864,13973,Choke,Comedy,Comedy|Drama
+3865,244786,Whiplash,Drama,Drama|NULL
+3866,598,Cidade de Deus,Action,Action|Drama
+3867,11129,Human Traffic,Comedy,Comedy|Drama
+3868,75861,To Write Love on Her Arms,Drama,Drama|NULL
+3869,13551,The Dead Girl,Action,Action|Drama
+3870,103663,Jagten,Drama,Drama|NULL
+3871,850,A Christmas Story,Comedy,Animation|Comedy
+3872,12586,Bella,Drama,Drama|NULL
+3873,11564,Class of 1984,Horror,Action|Horror
+3874,301748,Opposite Sex,Comedy,Animation|Comedy
+3875,108346,Dreaming of Joseph Lees,Drama,Drama|NULL
+3876,8841,Entre les murs,Drama,Drama|NULL
+3877,805,Rosemary's Baby,Horror,Action|Horror
+3878,11697,The Man Who Shot Liberty Valance,Action,Action|NULL
+3879,22051,Adam,Drama,Drama|NULL
+3880,436,"María, llena eres de gracia",Action,Action|Drama
+3881,55347,Beginners,Drama,Comedy|Drama
+3882,10070,Feast,Horror,Action|Horror
+3883,8469,Animal House,Comedy,Animation|Comedy
+3884,658,Goldfinger,Drama,Action|Drama
+3885,125490,Antiviral,Horror,Action|Horror
+3886,1585,It's a Wonderful Life,Action,Action|Drama
+3887,627,Trainspotting,Action,Action|Drama
+3888,23618,The Original Kings of Comedy,Comedy,Animation|Comedy
+3889,41436,Paranormal Activity 2,Horror,Action|Horror
+3890,10162,Waking Ned,Comedy,Comedy|Drama
+3891,1430,Bowling for Columbine,Action,Animation|NULL
+3892,259943,归来,Drama,Drama|NULL
+3893,10014,A Nightmare on Elm Street Part 2: Freddy's Revenge,Horror,Action|Horror
+3894,11257,A Room with a View,Drama,Drama|NULL
+3895,158015,The Purge,Horror,Action|Horror
+3896,82507,Sinister,Horror,Action|Horror
+3897,20337,Martin Lawrence Live: Runteldat,Comedy,Animation|Comedy
+3898,261,Cat on a Hot Tin Roof,Drama,Drama|NULL
+3899,1685,Beneath the Planet of the Apes,Action,Action|Drama
+3900,20737,Air Bud,Comedy,Comedy|Drama
+3901,10991,Pokémon 3: The Movie,Animation,Action|Animation
+3902,10225,Friday the 13th Part VI: Jason Lives,Horror,Action|Horror
+3903,826,The Bridge on the River Kwai,War,Drama|War
+3904,34086,Spaced Invaders,Action,Action|Drama
+3905,5854,Family Plot,Action,Action|Drama
+3906,284,The Apartment,Drama,Comedy|Drama
+3907,10285,Jason Goes to Hell: The Final Friday,Horror,Action|Horror
+3908,5780,Torn Curtain,Drama,Drama|NULL
+3909,292,Dave Chappelle's Block Party,Comedy,Animation|Comedy
+3910,223485,Slow West,Drama,Action|Drama
+3911,29463,Krush Groove,Drama,Drama|NULL
+3912,18065,Next Day Air,Action,Action|Drama
+3913,22013,Elmer Gantry,Drama,Drama|NULL
+3914,821,Judgment at Nuremberg,Drama,Drama|War
+3915,53862,Trippin',Comedy,Comedy|Drama
+3916,3089,Red River,Action,Action|NULL
+3917,30139,Phat Girlz,Comedy,Comedy|Drama
+3918,132344,Before Midnight,Drama,Drama|NULL
+3919,15582,Teen Wolf Too,Action,Action|Comedy
+3920,15158,Phantasm II,Horror,Action|Horror
+3921,44634,Woman Thou Art Loosed,Drama,Drama|NULL
+3922,30309,Real Women Have Curves,Comedy,Comedy|Drama
+3923,7509,Water,Drama,Drama|NULL
+3924,10557,East Is East,Comedy,Animation|Comedy
+3925,23531,Whipped,Comedy,Comedy|Drama
+3926,28005,Kama Sutra - A Tale of Love,Drama,Drama|War
+3927,40247,Please Give,Comedy,Comedy|Drama
+3928,252,Willy Wonka & the Chocolate Factory,Action,Action|NULL
+3929,24126,Warlock: The Armageddon,Horror,Action|Horror
+3930,13982,8 Heads in a Duffel Bag,Action,Action|Drama
+3931,16642,Days of Heaven,Drama,Drama|NULL
+3932,17734,Thirteen Conversations About One Thing,Drama,Drama|NULL
+3933,18892,Jawbreaker,Comedy,Animation|Comedy
+3934,549,Basquiat,Drama,Drama|War
+3935,121986,Frances Ha,Comedy,Comedy|Drama
+3936,868,Tsotsi,Action,Action|Drama
+3937,10683,Happiness,Comedy,Comedy|Drama
+3938,17995,DysFunktional Family,Comedy,Animation|Comedy
+3939,246403,Tusk,Horror,Action|Horror
+3940,670,올드보이,Drama,Action|Drama
+3941,35691,Letters to God,Drama,Action|Drama
+3942,49010,Hobo with a Shotgun,Action,Comedy|Drama
+3943,317930,Compadres,Action,Action|Comedy
+3944,11229,Freeway,Drama,Comedy|Drama
+3945,22488,Love's Abiding Joy,Action,Action|Drama
+3946,24469,Fish Tank,Drama,Drama|NULL
+3947,82533,Damsels in Distress,Comedy,Comedy|Drama
+3948,50942,Creature,Horror,Action|Horror
+3949,84174,Bachelorette,Comedy,Comedy|Drama
+3950,34099,Brave New Girl,Drama,Drama|NULL
+3951,79940,Tim and Eric's Billion Dollar Movie,Comedy,Animation|Comedy
+3952,342,Sommersturm,Comedy,Comedy|Drama
+3953,281230,Fort McCoy,War,Drama|War
+3954,38033,Chain Letter,Horror,Action|Horror
+3955,100975,Just Looking,Comedy,Comedy|Drama
+3956,38541,The Divide,Action,Action|Drama
+3957,39563,The Eclipse,Horror,Action|Horror
+3958,234212,Demonic,Horror,Action|Horror
+3959,27404,My Big Fat Independent Movie,Comedy,Animation|Comedy
+3960,170480,The Deported,Comedy,Animation|Comedy
+3961,71866,Tanner Hall,Drama,Drama|NULL
+3962,192210,Open Road,Drama,Action|Drama
+3963,180296,They Came Together,Comedy,Animation|Comedy
+3964,157058,30 Nights of Paranormal Activity With the Devil Inside the Girl With the Dragon Tattoo,Comedy,Animation|Comedy
+3965,70006,Never Back Down 2: The Beatdown,Action,Action|Drama
+3966,26039,Point Blank,Action,Action|Drama
+3967,79587,Four Single Fathers,Comedy,Comedy|Drama
+3968,176077,Enter the Dangerous Mind,Drama,Drama|NULL
+3969,260947,Something Wicked,Drama,Drama|NULL
+3970,342502,AWOL-72,Drama,Drama|NULL
+3971,191229,Iguana,Action,Animation|NULL
+3972,43213,Chicago Overcoat,Action,Action|Drama
+3973,44594,Barry Munday,Drama,Comedy|Drama
+3974,666,Central do Brasil,Drama,Drama|NULL
+3975,248,Pocketful of Miracles,Comedy,Comedy|Drama
+3976,325173,Close Range,Action,Action|Drama
+3977,55831,Boynton Beach Club,Drama,Comedy|Drama
+3978,351043,Amnesiac,Horror,Action|Horror
+3979,43942,Freakonomics,Action,Animation|NULL
+3980,10226,Haute tension,Horror,Action|Horror
+3981,66942,Griff the Invisible,Drama,Comedy|Drama
+3982,356483,Unnatural,Horror,Action|Horror
+3983,10476,Hustle & Flow,Drama,Drama|NULL
+3984,239,Some Like It Hot,Comedy,Comedy|Drama
+3985,10281,Friday the 13th Part VII: The New Blood,Horror,Action|Horror
+3986,630,The Wizard of Oz,Action,Action|Drama
+3987,3034,Young Frankenstein,Action,Action|Drama
+3988,13025,Diary of the Dead,Horror,Action|Horror
+3989,21461,Lage Raho Munna Bhai,Drama,Comedy|Drama
+3990,55306,Ulee's Gold,Drama,Drama|NULL
+3991,17264,The Black Stallion,Drama,Action|Drama
+3992,346081,Sardaarji,Action,Animation|NULL
+3993,16016,Rejsen til Saturn,Animation,Action|Animation
+3994,15875,Donovan's Reef,Drama,Comedy|Drama
+3995,5900,De jurk,Comedy,Comedy|Drama
+3996,43306,A Guy Named Joe,Drama,Drama|War
+3997,11072,Blazing Saddles,Action,Action|Comedy
+3998,9730,Friday the 13th: The Final Chapter,Horror,Action|Horror
+3999,209274,Ida,Drama,Drama|NULL
